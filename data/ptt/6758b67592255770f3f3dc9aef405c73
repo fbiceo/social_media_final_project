@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		
+
+<meta name="viewport" content="width=device-width">
+
+<title>[新聞] 巴黎機場也出事！ 原因出在 Windows 3.1 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all" />
+<meta name="keywords" content="Ptt BBS 批踢踢" />
+<meta name="description" content="
+文／記者譚偉晟／ 2015-11-14 11:20   自由  http://goo.gl/szzvc3
+
+在法國的巴黎奧利機場，上周六突然緊急關閉，原因在於內部系統異常，導致跑道視程（
+Runway Visual Range，簡稱 RVR）無法使用。而目前原因都指向該機場所使用的 Windows
+" />
+<meta property="og:site_name" content="Ptt 批踢踢實業坊" />
+<meta property="og:title" content="[新聞] 巴黎機場也出事！ 原因出在 Windows 3.1" />
+<meta property="og:description" content="
+文／記者譚偉晟／ 2015-11-14 11:20   自由  http://goo.gl/szzvc3
+
+在法國的巴黎奧利機場，上周六突然緊急關閉，原因在於內部系統異常，導致跑道視程（
+Runway Visual Range，簡稱 RVR）無法使用。而目前原因都指向該機場所使用的 Windows
+" />
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-common.css" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/pushstream.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-print.css" media="print" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/v2.13/bbs.js"></script>
+
+
+		
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32365737-1']);
+  _gaq.push(['_setDomainName', 'ptt.cc']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1447490740.A.F57.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">fcfd (哇!)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 巴黎機場也出事！ 原因出在 Windows 3.1</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat Nov 14 16:45:38 2015</span></div>
+文／記者譚偉晟／ 2015-11-14 11:20   自由  <a href="http://goo.gl/szzvc3" target="_blank" rel="nofollow">http://goo.gl/szzvc3</a>
+
+在法國的巴黎奧利機場，上周六突然緊急關閉，原因在於內部系統異常，導致跑道視程（
+Runway Visual Range，簡稱 RVR）無法使用。而目前原因都指向該機場所使用的 Windows
+系統，確切來說，是<span class="f3 hl"> 1992 年發布的</span><span class="f3 b4 hl"> Windows 3.1</span> 作業系統。
+
+<a href="http://img.ltn.com.tw/Upload/3c/page/2015/11/14/151114-21470-1.png" target="_blank" rel="nofollow">http://img.ltn.com.tw/Upload/3c/page/2015/11/14/151114-21470-1.png</a>
+<div class="richcontent"><img src="http://img.ltn.com.tw/Upload/3c/page/2015/11/14/151114-21470-1.png" alt="" /></div>巴黎奧利機場由於所採用的 Windos 3.1 系統崩潰，導致機場關閉（圖片來源／
+arstechnica）
+
+奧利機場所使用的系統 DECOR，可以用來傳送機場的天氣狀況給飛行員，根據《
+arstechnica》的報導，由於 DECOR 是基於 Windows 3.1 作業系統設計，在上周六意外的
+出現系統崩潰，導致機場無法提供飛行員重要的天氣資訊，特別是在起大霧的天氣，最終導
+致機場被迫關閉。
+
+法國 UNSA-IESSA 空中管制聯盟秘書長 Alexandre Fiacre 表示，<span class="f3 hl">機場的多項工具除了應用</span>
+<span class="f3 hl">了 Windows 3.1 系統，還有採用 Windows XP 和部分未指定的 UNIX 系統</span>，這些工具可能
+都<span class="f1 hl">已經使用 10 年到 20 年了</span>，很難維持穩定運作。
+
+此外，由於這些系統已經過度老舊，極少人有能力去維護這些系統穩定，在巴黎甚至只有
+ 3 個人有能力去修復 DECOR 系統的問題。目前法國當局已經表示，希望在 2017 年升級這
+些系統，不過外界猜測可能要到 2019 甚至 2021 年才能完成系統升級。
+------------------------
+窗戶3.1再戰N年 ^^
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.39.151.33
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1447490740.A.F57.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1447490740.A.F57.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mvpdirk712</span><span class="f3 push-content">: 我家第一台電腦就是Windows 3.1......主機還在</span><span class="push-ipdatetime"> 11/14 16:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dnek</span><span class="f3 push-content">: 這尼瑪也太離譜了，雖然我總覺得可能沒資格笑法國</span><span class="push-ipdatetime"> 11/14 16:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ruwjo12</span><span class="f3 push-content">: 用這麼久</span><span class="push-ipdatetime"> 11/14 16:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ken1325</span><span class="f3 push-content">: 竟然還有在用win3.1</span><span class="push-ipdatetime"> 11/14 16:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">p72910</span><span class="f3 push-content">: win3.1戰20年了</span><span class="push-ipdatetime"> 11/14 16:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gnew</span><span class="f3 push-content">: 就說windows 3.1才是有史以來最成功的版本win3.1再戰一百年</span><span class="push-ipdatetime"> 11/14 16:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gaduoray</span><span class="f3 push-content">: 太扯啦 台灣的不知道用啥 有沒有鄉民知道</span><span class="push-ipdatetime"> 11/14 16:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alkahest</span><span class="f3 push-content">: 如果他們的公務員效率跟終極殺陣獎的一樣的話　有可能..</span><span class="push-ipdatetime"> 11/14 16:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">holishing</span><span class="f3 push-content">: 沒親眼看過3.1 O.Q</span><span class="push-ipdatetime"> 11/14 16:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppppppppp</span><span class="f3 push-content">: 我都用DOS</span><span class="push-ipdatetime"> 11/14 16:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mvpdirk712</span><span class="f3 push-content">: 懷念懷念～～</span><span class="push-ipdatetime"> 11/14 16:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tetani</span><span class="f3 push-content">: 賺這麼多錢 請人寫新的程式也不做?</span><span class="push-ipdatetime"> 11/14 16:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">teremy</span><span class="f3 push-content">: 穩定就好</span><span class="push-ipdatetime"> 11/14 16:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qwop8765</span><span class="f3 push-content">: 什麼叫又？</span><span class="push-ipdatetime"> 11/14 16:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wotupset</span><span class="f3 push-content">: NIJIA~</span><span class="push-ipdatetime"> 11/14 16:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovetoshinya</span><span class="f3 push-content">: Wow...</span><span class="push-ipdatetime"> 11/14 16:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gnew</span><span class="f3 push-content">: 機場跟安全有關的系統居然有人敢用微軟windowsy</span><span class="push-ipdatetime"> 11/14 16:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mylo</span><span class="f3 push-content">: 正常啊 1969的電腦都能登月了 1992的win3.1也很強</span><span class="push-ipdatetime"> 11/14 16:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">realgenius</span><span class="f3 push-content">: 這表示3.1很強吧....</span><span class="push-ipdatetime"> 11/14 16:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mvpdirk712</span><span class="f3 push-content">: 然後一堆全新的5.25磁片都還沒拆，裡面有一堆什麼倚天</span><span class="push-ipdatetime"> 11/14 16:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KaiManSo</span><span class="f3 push-content">: 我們公司還有未拆版 Windows 3.1 和 MS DOS 6</span><span class="push-ipdatetime"> 11/14 16:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mvpdirk712</span><span class="f3 push-content">: 微軟、大同的軟體　哈哈</span><span class="push-ipdatetime"> 11/14 16:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mylo</span><span class="f3 push-content">: 換新的搞不好出更多問題 不然叫銀行那些人不要用COBOL嘛</span><span class="push-ipdatetime"> 11/14 16:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DaringDo</span><span class="f3 push-content">: 台灣會不會用倚天系統</span><span class="push-ipdatetime"> 11/14 16:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MacOSX10</span><span class="f3 push-content">: 北韓用的搞不好都比他們的新</span><span class="push-ipdatetime"> 11/14 16:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccucwc</span><span class="f3 push-content">: 我們跟這種國家買戰機喔？</span><span class="push-ipdatetime"> 11/14 16:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">snsdakb48</span><span class="f3 push-content">: 幹 我要玩踩地雷</span><span class="push-ipdatetime"> 11/14 16:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gnew</span><span class="f3 push-content">: 經典版本 win3.1</span><span class="push-ipdatetime"> 11/14 16:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: 朝鮮是用WIN7</span><span class="push-ipdatetime"> 11/14 16:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BIGETC</span><span class="f3 push-content">: 台鐵都比他們法國鐵路準點 尼覺得呢</span><span class="push-ipdatetime"> 11/14 16:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asd2260123</span><span class="f3 push-content">: ...</span><span class="push-ipdatetime"> 11/14 16:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gnew</span><span class="f3 push-content">: 用win1.0再來說嘴</span><span class="push-ipdatetime"> 11/14 16:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tsungmou1</span><span class="f3 push-content">: DOS+倚天中文+PE2=無敵</span><span class="push-ipdatetime"> 11/14 16:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">elle</span><span class="f3 push-content">: 這樣會比較不容易被病毒攻擊嗎</span><span class="push-ipdatetime"> 11/14 16:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">komachi275</span><span class="f3 push-content">: 我們的PP自強號監控系統用w98</span><span class="push-ipdatetime"> 11/14 16:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tenging</span><span class="f3 push-content">: 法國制度還是很腐敗嗎</span><span class="push-ipdatetime"> 11/14 16:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e20288</span><span class="f3 push-content">: 搞不好非洲的機場用的都比法國好</span><span class="push-ipdatetime"> 11/14 16:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kissa0924307</span><span class="f3 push-content">: 是有窮到這樣嗎？</span><span class="push-ipdatetime"> 11/14 16:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">p72910</span><span class="f3 push-content">: 不是腐敗，是飛航管制系統是能用穩定就好，沒必要換新設</span><span class="push-ipdatetime"> 11/14 16:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asd2260123</span><span class="f3 push-content">: 好歹也用XP吧</span><span class="push-ipdatetime"> 11/14 16:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gnew</span><span class="f3 push-content">: 法國奢侈包包天價貴　電腦卻用便宜貨   這什麼鬼國家</span><span class="push-ipdatetime"> 11/14 16:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 只有3個人能修表示更少人會去駭這個吧</span><span class="push-ipdatetime"> 11/14 16:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">clamperni</span><span class="f3 push-content">: 只聽過win32 3.1是隱藏版的嗎</span><span class="push-ipdatetime"> 11/14 16:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">p72910</span><span class="f3 push-content">: 備，所以沿用到今日</span><span class="push-ipdatetime"> 11/14 16:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunchen0201</span><span class="f3 push-content">: 英法早就是二流國家了...仗著美帝狐假虎威而已</span><span class="push-ipdatetime"> 11/14 16:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">p72910</span><span class="f3 push-content">: 沒聽過表示你太菜</span><span class="push-ipdatetime"> 11/14 16:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 3.1完好像接98?</span><span class="push-ipdatetime"> 11/14 16:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gnew</span><span class="f3 push-content">: 漢堡王的點餐系統不是DOS嗎?   XDDDDDD</span><span class="push-ipdatetime"> 11/14 16:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iKelly</span><span class="f3 push-content">: 認真說的話dos, win3.1還比win 95, 98穩定多了</span><span class="push-ipdatetime"> 11/14 16:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ertip</span><span class="f3 push-content">: 哪有啥好奇怪的 工廠裡也都是十幾 二十年在一次更新</span><span class="push-ipdatetime"> 11/14 16:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shinmori</span><span class="f3 push-content">: 越舊的系統其實越單純，單一目的反而不容易出錯</span><span class="push-ipdatetime"> 11/14 16:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">theskyofblue</span><span class="f3 push-content">: XDDDDDD</span><span class="push-ipdatetime"> 11/14 16:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxfiles</span><span class="f3 push-content">: 魯叔印象中win31跟Dos的第6片蠻容易壞</span><span class="push-ipdatetime"> 11/14 17:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">holishing</span><span class="f3 push-content">: 好懷念QAQ～</span><span class="push-ipdatetime"> 11/14 17:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">p72910</span><span class="f3 push-content">: dos6.22在政府公務單位一堆還在用吧</span><span class="push-ipdatetime"> 11/14 17:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SinPerson</span><span class="f3 push-content">: 有刮刮樂的小畫家</span><span class="push-ipdatetime"> 11/14 17:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ertip</span><span class="f3 push-content">: 沒事更新幹嘛 浪費錢還要重新驗證 又容易出事</span><span class="push-ipdatetime"> 11/14 17:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gnew</span><span class="f3 push-content">: 現在想裝win3.1體驗一下 要怎麼辦</span><span class="push-ipdatetime"> 11/14 17:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xxfiles</span><span class="f3 push-content">: 當年灌win31 一次得拿一堆磁片，好像在玩踩地雷</span><span class="push-ipdatetime"> 11/14 17:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">p72910</span><span class="f3 push-content">: 上youtube找win3.1的開機影片啊</span><span class="push-ipdatetime"> 11/14 17:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gnew</span><span class="f3 push-content">: 關閉機場的理由是這種真的很扯</span><span class="push-ipdatetime"> 11/14 17:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">b2305911</span><span class="f3 push-content">: 太屌wwwwww</span><span class="push-ipdatetime"> 11/14 17:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JudgmentLin</span><span class="f3 push-content">: 我手機的系統 媲美當年登月的電腦</span><span class="push-ipdatetime"> 11/14 17:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gnew</span><span class="f3 push-content">: 法國核電廠用的OS是哪種　　　!!!好可怕阿!!!</span><span class="push-ipdatetime"> 11/14 17:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 能比台灣公務體系電腦還破舊  這國家沒問題嗎wwwww</span><span class="push-ipdatetime"> 11/14 17:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lyu0001</span><span class="f3 push-content">: 硬體太爛吧 先升級i7</span><span class="push-ipdatetime"> 11/14 17:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxfiles</span><span class="f3 push-content">: 好不容易灌好，結果沒兩天遇到公司有人為了硬碟空間把win</span><span class="push-ipdatetime"> 11/14 17:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zoo1989z</span><span class="f3 push-content">: 法國政府本來就很腐啊</span><span class="push-ipdatetime"> 11/14 17:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KaiManSo</span><span class="f3 push-content">: DOS 6.22 + 倚天+  TELIX +早期IBM 機械鍵盤玩BBS</span><span class="push-ipdatetime"> 11/14 17:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xxfiles</span><span class="f3 push-content">: 刪掉  然後重灌A槽莫名壞掉，整個崩潰</span><span class="push-ipdatetime"> 11/14 17:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">empty2017</span><span class="f3 push-content">: 銀行的系統也才改沒幾年啊...</span><span class="push-ipdatetime"> 11/14 17:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">gnew</span><span class="f3 push-content">: 至少法國市容很美沒有台灣一堆機車跟醜陋鐵皮屋就屌打了</span><span class="push-ipdatetime"> 11/14 17:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yu800910</span><span class="f3 push-content">: 別笑法國，說不定我們的還在用撥接上網...</span><span class="push-ipdatetime"> 11/14 17:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KaiManSo</span><span class="f3 push-content">: 不是鐵皮屋也黑黑醜醜啊，大樓都不拉皮的</span><span class="push-ipdatetime"> 11/14 17:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stta</span><span class="f3 push-content">: 好歹也換XP</span><span class="push-ipdatetime"> 11/14 17:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k800i</span><span class="f3 push-content">: 提問：安裝win3.1需要幾張磁片 ？</span><span class="push-ipdatetime"> 11/14 17:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">darkbrigher</span><span class="f3 push-content">: 法國很美? 巴黎市容有人po過 蠻髒的</span><span class="push-ipdatetime"> 11/14 17:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rr78</span><span class="f3 push-content">: 我上次去公家機關 有台電腦十年沒關了 沒人知道它在做啥</span><span class="push-ipdatetime"> 11/14 17:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">soaringwings</span><span class="f3 push-content">: 台灣公務界目前都在用win7   win8</span><span class="push-ipdatetime"> 11/14 17:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k800i</span><span class="f3 push-content">: 其實就系統反而穩。工廠鍋爐要紀錄溫度，幾年前還是dos</span><span class="push-ipdatetime"> 11/14 17:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k800i</span><span class="f3 push-content">: 從來不出毛病，只要清灰塵。後來是硬體壞了，實在找不到了</span><span class="push-ipdatetime"> 11/14 17:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alog</span><span class="f3 push-content">: 東西會動沒出問題不會有人要換</span><span class="push-ipdatetime"> 11/14 17:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k800i</span><span class="f3 push-content">: 才升級。看過實驗室壓試體的電腦還是95，聽講有升級到xp過</span><span class="push-ipdatetime"> 11/14 17:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alog</span><span class="f3 push-content">: 那系統貴在重製可能歐洲天價貴 ㄏㄏ 3.1只是跑RVR系統的其</span><span class="push-ipdatetime"> 11/14 17:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alog</span><span class="f3 push-content">: 中一個</span><span class="push-ipdatetime"> 11/14 17:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ertip</span><span class="f3 push-content">: 文書電腦才一直在更新 特定用途的 非到斷料根本不會想更新</span><span class="push-ipdatetime"> 11/14 17:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">k800i</span><span class="f3 push-content">: 不過軟體常當，軟體公司早倒了，換回95，用好好的。</span><span class="push-ipdatetime"> 11/14 17:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alog</span><span class="f3 push-content">: 跑二十年有兩種可能 一個是他常常有問題用了二十年</span><span class="push-ipdatetime"> 11/14 17:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alog</span><span class="f3 push-content">: 另一種可能是這套軟體寫的真的很好 二十年來都問題很少</span><span class="push-ipdatetime"> 11/14 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alog</span><span class="f3 push-content">: 即使換了現代的系統也很難保證有這樣的穩定度</span><span class="push-ipdatetime"> 11/14 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shinmori</span><span class="f3 push-content">: 幾年前處理過一台NOVELL 3.12，硬碟壞掉沒人會裝</span><span class="push-ipdatetime"> 11/14 17:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ertip</span><span class="f3 push-content">: 換到WINDOWS 10 9成9的功能也用不到 系統還變肥大何必</span><span class="push-ipdatetime"> 11/14 17:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxxg00w0</span><span class="f3 push-content">: 3.1用1.44磁片裝我記得好像也十來片?</span><span class="push-ipdatetime"> 11/14 17:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ShackMama</span><span class="f3 push-content">: 這個月教召看國軍是用XP..看到這新聞感到欣慰</span><span class="push-ipdatetime"> 11/14 17:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">donkilu</span><span class="f3 push-content">: 穩定就好，灌win 10一天到晚更新當機也不見得高明到哪</span><span class="push-ipdatetime"> 11/14 17:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilovekai</span><span class="f3 push-content">: dos 3.3使用者路過</span><span class="push-ipdatetime"> 11/14 17:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iceman198410</span><span class="f3 push-content">: 3.1！！都能當古董了吧</span><span class="push-ipdatetime"> 11/14 17:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">holybless</span><span class="f3 push-content">: 內建逆玉王</span><span class="push-ipdatetime"> 11/14 17:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gaddafi</span><span class="f3 push-content">: 經典Dos下的半作業系統</span><span class="push-ipdatetime"> 11/14 17:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Sylph</span><span class="f3 push-content">: 信的是笨蛋</span><span class="push-ipdatetime"> 11/14 17:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">c7683fh6</span><span class="f3 push-content">: 太神啦</span><span class="push-ipdatetime"> 11/14 18:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SYSQP</span><span class="f3 push-content">: 系統夠用就好, 升級會比較厲害嗎?</span><span class="push-ipdatetime"> 11/14 18:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neilisme</span><span class="f3 push-content">: 結果換成win10天天都當機有比較好嗎</span><span class="push-ipdatetime"> 11/14 18:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gaddafi</span><span class="f3 push-content">: ios 8比ios 9穩定多了</span><span class="push-ipdatetime"> 11/14 18:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mdkn35</span><span class="f3 push-content">: 飛機該不會也是win3.1吧！？</span><span class="push-ipdatetime"> 11/14 18:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">raku</span><span class="f3 push-content">: 20年前第一台電腦P60就是DOS6.22+win3.1</span><span class="push-ipdatetime"> 11/14 18:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lee988325</span><span class="f3 push-content">: 這種大規模系統應該首要講求穩定，而非新舊吧。</span><span class="push-ipdatetime"> 11/14 18:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lee988325</span><span class="f3 push-content">: 更何況軟硬體更新根本惡夢</span><span class="push-ipdatetime"> 11/14 18:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PAPABEAR</span><span class="f3 push-content">: 還好只是3.1 10的話可不是緊急關閉機場就能解決的事</span><span class="push-ipdatetime"> 11/14 18:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lovelebron24</span><span class="f3 push-content">: wow</span><span class="push-ipdatetime"> 11/14 19:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fgh81113</span><span class="f3 push-content">: 太神拉....</span><span class="push-ipdatetime"> 11/14 19:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">makotoCCO</span><span class="f3 push-content">: 戰了20年…</span><span class="push-ipdatetime"> 11/14 21:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alex01</span><span class="f3 push-content">: 不用笑啦，我看過還在用95的企業，客戶重要資料存在磁碟片</span><span class="push-ipdatetime"> 11/14 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex01</span><span class="f3 push-content">: 裡面唷，超屌</span><span class="push-ipdatetime"> 11/14 23:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vaper</span><span class="f3 push-content">: 因為錢都拿去辦時尚週了....</span><span class="push-ipdatetime"> 11/15 01:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vaper</span><span class="f3 push-content">: 最好是沒能力升，是沒錢升....電腦什麼的，錢砸下去就有了</span><span class="push-ipdatetime"> 11/15 01:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lanlinshieh</span><span class="f3 push-content">: 我有從那飛義大利 真的超老舊 台灣護照完全不認得 上</span><span class="push-ipdatetime"> 11/15 01:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lanlinshieh</span><span class="f3 push-content">: 網查也沒辦法 一直跟我討簽證</span><span class="push-ipdatetime"> 11/15 01:21
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1447490740.A.F57.html?cacheKey=2052-1300240834&offset=13487&offset-sig=e3d4abc60a827aaa24793ad0c7dcb19339af3b0d" data-longpollurl="/v1/longpoll?id=83424e8e36046159b8a6fa9400aad66375a25e01" data-offset="13487"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+    </body>
+</html>

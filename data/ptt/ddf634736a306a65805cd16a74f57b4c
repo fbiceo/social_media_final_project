@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		
+
+<meta name="viewport" content="width=device-width">
+
+<title>閱讀文章 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all" />
+<meta name="keywords" content="Ptt BBS 批踢踢" />
+<meta name="description" content=" ◥ ╲ミ▃ ◣━◤◥))▆﹨▏◥▌ \◥ ◣◣╲▅▇-▅◣▅▆◤                  ◤
+ ╲ ▍◥ ╲━▇ ▂◤    ▎   / ▊▎﹨ ﹨ ◣◥_━=◥◣▂◢            █▊▎█
+◣◥◣◣▄_◤ ╱ ◤   ◤◤      ▉|▎  \   ◣ ◥◥◣◥▏  你          █   ▏
+◣◥◣◣▆▅▄  ▏/ ▕◤    ↙∕/ ◤   ▏  ▕▍▌▊|◥▎  已        ▋▊▎▎
+ˋ╲＼▇━     /▍▌▊▏     ◢ ╱∕         ▎▏ ◤◣_   經     ＿◢█  __◤
+" />
+<meta property="og:site_name" content="Ptt 批踢踢實業坊" />
+
+<meta property="og:description" content=" ◥ ╲ミ▃ ◣━◤◥))▆﹨▏◥▌ \◥ ◣◣╲▅▇-▅◣▅▆◤                  ◤
+ ╲ ▍◥ ╲━▇ ▂◤    ▎   / ▊▎﹨ ﹨ ◣◥_━=◥◣▂◢            █▊▎█
+◣◥◣◣▄_◤ ╱ ◤   ◤◤      ▉|▎  \   ◣ ◥◥◣◥▏  你          █   ▏
+◣◥◣◣▆▅▄  ▏/ ▕◤    ↙∕/ ◤   ▏  ▕▍▌▊|◥▎  已        ▋▊▎▎
+ˋ╲＼▇━     /▍▌▊▏     ◢ ╱∕         ▎▏ ◤◣_   經     ＿◢█  __◤
+" />
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-common.css" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/pushstream.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-print.css" media="print" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/v2.13/bbs.js"></script>
+
+
+		
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32365737-1']);
+  _gaq.push(['_setDomainName', 'ptt.cc']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1443447368.A.FB1.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><span class="f0 b7"> ◥</span><span class="f4 b6"> ╲</span><span class="f6 b4">ミ</span><span class="f4 b6">▃ </span><span class="f6">◣</span><span class="f4">━</span><span class="f6">◤</span><span class="f4">◥)</span><span class="f6">)</span><span class="f0 b6">▆</span>﹨<span class="f3">▏</span><span class="f4">◥</span><span class="f6">▌ </span><span class="f4 b7">\</span><span class="f0 b7">◥</span><span class="f0"> </span><span class="f0 b6">◣</span><span class="f4 b6">◣</span><span class="b6">╲</span><span class="f6">▅▇</span><span class="b6">-</span><span class="f6 b3">▅◣</span><span class="f3">▅▆◤</span>              <span class="b3">  </span> <span class="f3 b3"> ◤</span>
+<span class="f4 b7"> ╲ </span><span class="f0 b4">▍◥</span><span class="f4"> ╲━</span><span class="f0 b7">▇</span><span class="f6"> ▂◤   </span><span class="f6 b7"> </span><span class="f0 b3">▎</span><span class="f0">   </span><span class="f6">/ </span><span class="f0 b7">▊</span><span class="b4">▎</span>﹨ ﹨ <span class="f0 b4">◣</span><span class="f6 b4">◥</span><span class="f0 b6">_</span><span class="f6 b4">━</span>=<span class="f3">◥◣</span><span class="f0 b7">▂◢</span><span class="f3">            █▊</span><span class="f0 b3">▎</span><span class="f3">█</span>
+<span class="f0 b7">◣</span><span class="f4 b7">◥◣</span><span class="f4 b6">◣</span><span class="f6">▄</span><span class="f0 b6">_</span><span class="f4">◤ </span><span class="f6">╱ </span>◤<span class="f0 hl">   ◤</span><span class="f3 hl">◤</span><span class="f0 hl">      </span><span class="f0 b4 hl">▉</span><span class="b4 hl">|</span><span class="f4 hl">▎  </span><span class="f0 hl">\   ◣ </span><span class="f4 hl">◥</span><span class="f3 hl">◥</span><span class="f3 b7 hl">◣◥</span>▏  你          <span class="f3">█ </span><span class="f3 b3">  </span><span class="f3">▏</span>
+<span class="f0 b7">◣</span><span class="f4 b7">◥</span><span class="f4 b6">◣</span><span class="f4">◣</span><span class="f0 b6">▆▅</span><span class="f0 b4">▄</span><span class="f1">  ▏/ </span><span class="f0 hl">▕</span><span class="f3 hl">◤    </span><span class="f0 hl">↙</span><span class="f1 hl">∕/ </span><span class="f4 hl">◤</span><span class="f0 hl">   ▏  ▕▍</span><span class="f0 b4 hl">▌</span><span class="b3 hl">▊</span><span class="f0 b3 hl">|</span><span class="f6 b3 hl">◥</span>▎  已        <span class="f0 b3">▋</span><span class="f3">▊</span><span class="f0 b3">▎</span><span class="f3">▎</span>
+<span class="f0 b7">ˋ</span><span class="f0 b4">╲</span><span class="b4">＼</span><span class="f4 b7">▇</span><span class="b4">━</span><span class="f1">     /▍▌</span><span class="f0 b7">▊</span><span class="f3">▏     </span><span class="f1">◢ </span><span class="f4">╱∕         </span><span class="f0 hl">▎</span><span class="f4 hl">▏ </span><span class="b3 hl">◤</span><span class="f3 hl">◣</span>_   經     <span class="f0">＿</span><span class="f3">◢</span><span class="f3">█ </span><span class="f0 b3"> __</span><span class="f3 b3">◤</span>
+<span class="f0 b7">_ </span><span class="f4 b7">◥</span><span class="f4">◣╲◣    </span><span class="f0 b1">▋</span><span class="f3">◣◥</span><span class="f0">       </span><span class="f1">.</span><span class="f0 b1">║</span><span class="f0">   </span><span class="f3 b1">▎</span><span class="f3">   </span><span class="f1">▎  </span><span class="f4">∕    </span><span class="f0 b3">▊</span><span class="f3 b7">▋</span><span class="f0 b7">▆▄</span><span class="f0">  </span>放         <span class="f3">◢  </span><span class="f3 b3"> ◤</span>
+ <span class="f0">◆</span><span class="f0 hl">◥</span><span class="f0 b4 hl">_◣◥</span><span class="f1 hl">    /</span><span class="f1 b1 hl"> </span><span class="f3 hl">◤  </span><span class="f1 hl">_          </span><span class="f0 b3 hl">▌</span><span class="f0 b1 hl">\</span><span class="f1 hl"> ◢</span><span class="f0 hl">            </span><span class="f0 b3 hl">|(</span><span class="b7 hl">◢</span><span class="f3 hl">     </span>了<span class="f3">          ◤</span><span class="f0 b3">▎</span><span class="f3">▎</span>
+  ( <span class="f0 hl">◥▄      </span><span class="f0 b7 hl">/</span><span class="f3 hl">ミ</span><span class="f1 hl">◢◤</span><span class="f0 hl">━─       </span><span class="f0 b1 hl">/◤</span>▏  -━   <span class="f4">∕ </span><span class="f0 b3">▉</span>▍      ！       <span class="f3">◢◤ █ ▂</span>
+▄◤<span class="f0 hl">◢</span><span class="f0 b7 hl">▊︳</span><span class="f0 hl">    </span><span class="b7 hl">  ▆</span><span class="f1 b7">╱</span><span class="f1"> </span>▲<span class="f4 b7">▄</span>◢<span class="f0 b7">◥</span><span class="f0 b1">_╮/</span><span class="f0 b7">=</span>▎▲<span class="f4 b7">▅</span>◢<span class="f0 b7">◥</span><span class="f0"> </span><span class="f5">▎   </span>(                 <span class="f3">▅▆</span><span class="f0 b3">  ▂</span>
+ -<span class="f0 b7">▄</span><span class="f0 hl">▌  </span><span class="f0 b7 hl">|</span><span class="f3 b3 hl">◥</span><span class="f0 hl"> </span><span class="f0 b7 hl">▉      &#39;&#34;</span><span class="f1 b7 hl">▅</span><span class="f0 b7 hl">▆▇</span><span class="f1 hl">◢▂</span><span class="f0 b7 hl">▍</span><span class="f0 hl">   </span><span class="f0 b7 hl">▇</span><span class="f1 hl">▂_ </span><span class="f0 b5 hl">▊</span>▏  )                  <span class="f0 b3">▆◤</span><span class="f3 b3"> </span>
+  <span class="f1">◢   </span><span class="f0">▅</span><span class="b1">◣</span><span class="f0 b1">◥</span><span class="f0 b3">▋</span><span class="f0 b7">       </span><span class="b3">◣ </span><span class="f3">▇</span><span class="f3 b1">▋</span><span class="f3 b1">◢</span><span class="f3 b7">▊</span>▋  <span class="f0">彡</span><span class="f0 b7">   </span><span class="f4">︱</span><span class="f4 b7"> </span><span class="f6"> ◢</span>∕                   <span class="f3">▇▇▇▏</span>
+  <span class="f1">/ ◢ \ </span><span class="f0 b7">◣</span><span class="f3 b1">◣</span><span class="f3">▃</span><span class="f1 b7">◣</span><span class="f3 b7">◣▂▄▆█/</span><span class="b3">◣ </span><span class="f1 b3">|</span><span class="f3 b7">▌</span>▎<span class="f0 b1">▊</span><span class="f3 b7">▎ </span>▍<span class="f4">▊</span>◢ (            ◢◤  <span class="f0 b3">▉</span><span class="f3">▉▇</span><span class="f0 b3">▏</span>
+  <span class="f1">▏</span><span class="f1 b7">◥</span><span class="f1">/∕  </span><span class="f3">◥</span><span class="f3 b3">●</span><span class="f0 b1">▎</span><span class="f3 b1">◥</span><span class="f3 b7">███◤ </span><span class="b3">◤ _</span><span class="f3 b3">◆</span><span class="f0 b7">\</span><span class="f1">▎</span><span class="f4">/</span><span class="f6 b7">◣</span>▋<span class="f0 b7">▊</span><span class="f0">▄</span>  |         ◢◤<span class="b4"> </span><span class="f6">▏   </span><span class="f0 b3">▎︳</span><span class="f3">▍</span><span class="f3">▍</span>
+<span class="f3">▇▅</span><span class="f1">◢      </span><span class="f0 b5">◣</span><span class="f4">◣</span><span class="b1">▏</span><span class="f1 b3">▍</span><span class="f3 b7">██▌ </span><span class="b3">▎</span><span class="f0 b7">_▃◣/</span><span class="f0 hl">◤</span><span class="f5">/</span><span class="f4">◤ </span><span class="f0 b4">▊</span>▎   /      ◢◤<span class="f0 b4">◢ </span><span class="f6">▌    </span><span class="f0 b3">＿ 〔</span><span class="f3">▊</span>
+<span class="f0 b3">▆▄◤</span><span class="f3">∕    </span><span class="f0 b5">▊</span><span class="f5 b4">|</span><span class="f0 b7">▊</span><span class="b1">◣</span><span class="f1 b3">  </span><span class="f3 b7">█◤   </span><span class="b1">◣</span>           <span class="f0 b4">▎</span>▏  ﹨    ◢◤<span class="f0 b4">◢ </span><span class="f6 b4">◢</span>▎     <span class="f3">◣▇◢◤</span>
+<span class="f0 b7 hl">▃▁◥</span><span class="f0 hl">◤</span>/<span class="f0 hl">( </span><span class="f0 b7 hl">▋</span><span class="f3 b5 hl">▍</span><span class="f3 b4 hl"> </span><span class="f0 b7 hl">▍</span><span class="b3 hl">▎\ </span><span class="f3 b7 hl">▌      </span>◣_\      <span class="f0 b4">▍</span>◤<span class="f0"> </span><span class="f3">﹨ </span>|_ ◢◤<span class="f0 b4">◤  </span><span class="b6">◢</span>▅    <span class="f0">ˍ</span><span class="f0 b3">ˍ</span><span class="f3 b3">ˍ</span><span class="f3 b3">ˍ</span><span class="f0 b3">_</span>
+<span class="f4">▃</span>_▃<span class="f0 b7">━</span><span class="f0 hl">  ▍</span><span class="f0 b7 hl">▊</span><span class="f0 b3 hl"> </span><span class="f0 b7 hl"> </span><span class="f4 hl">▍</span><span class="f0 b7 hl">▎</span><span class="b3 hl">◣|</span><span class="f3 b7 hl">▋     </span><span class="f1 b7 hl">◢</span>_<span class="f0">▁</span><span class="f0 hl">╲</span><span class="f0">   </span><span class="f0 b4">▋</span>/    <span class="f3">◣</span><span class="f0">●</span><span class="f0 b7">∕◢</span><span class="f0 b4">◤◢   </span><span class="f6">◤   </span><span class="f0 b3">▊ˍ</span><span class="f3 b3">    ˍ</span><span class="f3">▏</span>
+<span class="f0 b6">&#34;-▁▂ </span><span class="f6">▂▌</span><span class="f0 b7">▉</span><span class="f3 b7">▊</span><span class="b4">▎</span> ◥<span class="f3 b7">◥▍    </span><span class="f1 b7">◤</span><span class="f0 b7">_▂</span><span class="f3 b7">▅</span><span class="f1">▍ </span><span class="f0 b4">▊</span>▎  <span class="f0 b7">▊</span><span class="f3 b7">◥</span><span class="f0 b7">/∕◢</span><span class="f0 b4">◤◢  /</span><span class="f6">▍     </span><span class="f0 b3">◤＿</span><span class="f3">▆</span><span class="f0 b3">＿◥</span>
+<span class="f0 b6">_▃▆</span><span class="f6">▃▆</span><span class="f0 b6">▂</span><span class="f0 b7">▉</span><span class="f0 b3">︱</span><span class="f6 b7">\</span><span class="f4">▎  </span><span class="f0 b7">◣    </span><span class="b7">▃</span><span class="f3 b1">◤</span>_▂▃<span class="f0">   </span><span class="f4">/</span>/     <span class="f0 b7">◣=/</span>◤ <span class="f0 b4">◤◤ ◢</span><span class="f4 b6">▊</span>_      <span class="f0">▁</span><span class="f0 b3">▁</span><span class="f3 b3">▁</span><span class="f0 b3">▁</span>
+<span class="f0 b6">▂▅</span><span class="f0 b7">◤</span><span class="f4 b7">◢</span><span class="f0 b4"> \\◥</span><span class="f0 b3">﹨</span><span class="f6 b7">▎</span><span class="f6">     </span><span class="f0 b7">◣   </span><span class="b3">▂</span><span class="f3 b7">◤   </span>▏  <span class="f4">/      </span>▆<span class="f0 b7">/◢</span><span class="f0 b4">◤◤◤</span><span class="f0"> </span><span class="f0 b4">◤ </span><span class="b4">◥</span>▍    <span class="f3 b3">▃▃▃</span><span class="f3">▊</span>
+<span class="f4 b7">▂ ◢</span><span class="f0 b4"> \\ </span><span class="f4"> )▏</span><span class="f4 b7">|</span><span class="f0 b3">\</span><span class="f6 b7">▍</span><span class="f4">▏     </span><span class="f0 b7">◣    </span><span class="f3 b7">_◢</span><span class="f0 b7">▆</span>  ㄏ<span class="f0">   </span>▄<span class="f4 b7">/◤</span>◤  <span class="f4">◤ </span><span class="f0 b4">◢◤ ╱</span><span class="f0 b7">【</span><span class="f6 b7">▁</span>▆<span class="f0 b7">●</span><span class="f0"> </span><span class="f0 b3">◤</span><span class="f3 b3"> </span>
+<span class="b4">◤</span><span class="f0 b4">▂◥</span><span class="f4"> ◥</span>◣ <span class="f0 b7">▉</span><span class="f0 b3">|</span><span class="f3 b6">▍</span>▎        ◥<span class="f1 b3">▄</span><span class="f1 b7">▋</span><span class="f1">  _</span>◤<span class="f0"> </span>◢<span class="f0 b7">&#34;</span><span class="f4 b7">◢◤</span>◤ <span class="f4">◤   </span><span class="f0 b4">◤  ╱</span><span class="f6 b7">◢</span><span class="f6 b4">▃◥</span><span class="f6 b7">◣</span><span class="f0 b7">◥◤</span>
+<span class="f0 b4">◣◣</span><span class="f0"> </span><span class="f0 b4">▊</span> ◤ ╱<span class="f0 b3">▊</span><span class="f0 b3">\</span><span class="f3 b7">▏</span><span class="f4">by zelmo1214</span><span class="f0 b1">▅▄</span><span class="f0 b3">▅</span> ◢<span class="b7"> </span><span class="b4">＼◢</span>◤     <span class="f0 b4">◤▂▃▆</span><span class="f6">╱╱</span><span class="f0 b6">▆▃</span><span class="f0 b7">▁▃◥</span>
+
+
+來源:高雄政府網站
+
+依據中央氣象局9月28日22時杜鵑颱風風雨預測資料，高雄市9月29日照常上班、照常上課
+；但桃源區、那瑪夏區及茂林區因主要道路預警性封閉、土石流警戒等原因，有致災之虞
+，9月29日停止上班、停止上課。
+
+
+連結
+
+<a href="http://www.kcg.gov.tw/" target="_blank" rel="nofollow">http://www.kcg.gov.tw/</a>
+
+
+北北基8點就已經宣布了 南部難道就是次等公民所以晚宣布嗎?
+
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 180.218.79.154
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1443447368.A.FB1.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1443447368.A.FB1.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">FierceBreast</span><span class="f3 push-content">: ...........</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">snsdakb48</span><span class="f3 push-content">: 睡醒了</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shinshong</span><span class="f3 push-content">: 台南被包夾!</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">benson60913</span><span class="f3 push-content">: 幹你娘</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">limingshiuan</span><span class="f3 push-content">: 好帥</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Xinz</span><span class="f3 push-content">: 帥!</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zzz122eee</span><span class="f3 push-content">: 不要騙我</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DesuraKao</span><span class="f3 push-content">: Kpbey</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ryrp</span><span class="f3 push-content">: 這個颱風越過台南直撲高雄 好口怕哦</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seabox</span><span class="f3 push-content">: 台南在???</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Zuleta</span><span class="f3 push-content">: 怎麼跟神唱反調呢</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Neptunium</span><span class="f3 push-content">: 新北人噓</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ynd</span><span class="f3 push-content">: 不可能!  睡局.........</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">scm6310</span><span class="f3 push-content">: 真的假的?!</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">AGEisSHIT</span><span class="f3 push-content">: 你不知道有時差嗎</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">denhhy</span><span class="f3 push-content">: 台南??????????</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neos042</span><span class="f3 push-content">: 花媽～</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ask5566</span><span class="f3 push-content">: 台南 XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD 笑死了</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iy072000</span><span class="f3 push-content">: 帥慘了</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">t55020255</span><span class="f3 push-content">: 哈哈哈哈</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lime1207</span><span class="f3 push-content">:                          可是台南沒放哎</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lunqun35</span><span class="f3 push-content">: 爽！！！！！！！！</span><span class="push-ipdatetime"> 09/28 21:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tmyu</span><span class="f3 push-content">: 台南正常 高雄放  太詭異了吧</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">QQ1305072</span><span class="f3 push-content">: 賣鬧哦</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">geniuscheung</span><span class="f3 push-content">: 高雄放 台南沒放 颱風不是在上面嗎</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">braja5566</span><span class="f3 push-content">: 幹 台北不放整天真的很靠杯</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsunting2000</span><span class="f3 push-content">: 颱風沒去高雄都放整天了 操泥馬的台北</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lime1207</span><span class="f3 push-content">:  這圖我笑了</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nrezw</span><span class="f3 push-content">: 不EY</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jyunwei</span><span class="f3 push-content">: 無所謂，反正放整天XD</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fig498</span><span class="f3 push-content">: 推！！</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">flfs</span><span class="f3 push-content">: 沒放好嗎...</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wasula</span><span class="f3 push-content">: 明明照常上班  崩潰</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yeh0416</span><span class="f3 push-content">: 幹 我真後悔投柯P</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shyshyan</span><span class="f3 push-content">: 超好笑 一個颱風各自表述</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihi29</span><span class="f3 push-content">: 有賴神護體 杜鵑已轉為變形颱</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomchun6</span><span class="f3 push-content">: ....只有山區放</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wht810090</span><span class="f3 push-content">: 這很奇怪...</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rickcoo</span><span class="f3 push-content">: 花媽:我還想睡啊</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ruka</span><span class="f3 push-content">: 只有山區放</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LABOYS</span><span class="f3 push-content">: XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">melody41</span><span class="f3 push-content">: 沒放啦</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">h2owaters</span><span class="f3 push-content">: 幹你媽的 我要檢舉你</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qdto</span><span class="f3 push-content">: 台南再次一枝獨秀 這種天氣出門上班真的好危險...</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rockyao</span><span class="f3 push-content">: 明天高雄照常啦</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">geniuscheung</span><span class="f3 push-content">: 颱風在上面 怎可能高雄到標準 台南沒有</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pohan0921</span><span class="f3 push-content">: 台南沒放高雄放會不會太扯，沒喬好嗎</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Jarjayes</span><span class="f3 push-content">: = =</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xupmc</span><span class="f3 push-content">: 明明就整天上班上課</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div>
+轉文時太緊張了看太快 只看到最後一句 orz
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lime1207</span><span class="f3 push-content">: 沒放啦  幹</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">uu26793</span><span class="f3 push-content">: 只有山區放啊 幹 騙我</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">d9637568</span><span class="f3 push-content">: 台南高雄這兩位不是同黨同派系怎麼搞的像敵人一樣</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CactusFlower</span><span class="f3 push-content">: 幹 臺南市民自己放了啦！</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">BDACK</span><span class="f3 push-content">: 颱風在北北基打哈哈耶 高雄是防登革熱還是要防颱風=.=?</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tree104</span><span class="f3 push-content">: 桃源區、那瑪夏區及茂林區.....</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ivan609</span><span class="f3 push-content">: 別亂講 只有部分土石流地區有放而已</span><span class="push-ipdatetime"> 09/28 21:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shyshyan</span><span class="f3 push-content">: 幹你媽的欠檢舉</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TAKEZOU</span><span class="f3 push-content">: 台南和屏東勒  案</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">andy410061</span><span class="f3 push-content">: 明明就上班上課</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxc2027</span><span class="f3 push-content">: 圖我笑了XDDDDD</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jyunwei</span><span class="f3 push-content">: 只有山區吼＝ ＝</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">scatology</span><span class="f3 push-content">: 賴神</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">prkfcpr</span><span class="f3 push-content">: 高雄放太奇怪了</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">On1y</span><span class="f3 push-content">: wwwwwwwwwwwww</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leoz69927</span><span class="f3 push-content">: 高雄放台南沒放?XD笑惹</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tomchun6</span><span class="f3 push-content">: 高雄只有山區有放假呀!!!!</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kimkimkimkim</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">lunqun35</span><span class="f3 push-content">: 幹你媽害我爽一下 操</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">j094097</span><span class="f3 push-content">: 是山區吧</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bugbuug</span><span class="f3 push-content">: 乾沒放</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Germany5658</span><span class="f3 push-content">: 你騙我，又沒全放</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sai33792001</span><span class="f3 push-content">: 有笑有推!! 圖超屌~~</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lpuy</span><span class="f3 push-content">: 明明正常上班上課!!</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MIKEmike07</span><span class="f3 push-content">: 賴神沒放高雄敢放？拜託</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">zzz122eee</span><span class="f3 push-content">: 果然</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kktt254</span><span class="f3 push-content">: 幹 看錯 桃園區而已?</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Hall</span><span class="f3 push-content">: ...................</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">muo00</span><span class="f3 push-content">: 欠噓</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">timlin</span><span class="f3 push-content">: 想誤導誰</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">fonz</span><span class="f3 push-content">: 高雄哪有放..= = 一堆人在爽啥..</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rockyao</span><span class="f3 push-content">: 乾 一堆人連看都沒看網站 悲哀</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YU0121</span><span class="f3 push-content">: 柯神&amp;賴神：區區一個颱風 我神豈會怕他</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">acblily</span><span class="f3 push-content">: 台北崩潰</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">h2owaters</span><span class="f3 push-content">: 只有山區啊 蠢B</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kindhearted</span><span class="f3 push-content">: 看清楚好嗎</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">PePePeace</span><span class="f3 push-content">: 唉</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dwdt</span><span class="f3 push-content">: 到底是有沒有放啦幹</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tel5149</span><span class="f3 push-content">: 只有災區才停班停課</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">digimaster</span><span class="f3 push-content">: 北斗放假拳！</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">OoMWMoO</span><span class="f3 push-content">: 馬的被騙</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kartess</span><span class="f3 push-content">: 台南官員在幹嘛....</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">rackie</span><span class="f3 push-content">: 騙鬼喔幹</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">moreyener</span><span class="f3 push-content">: ...</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">enjory</span><span class="f3 push-content">: 高雄市9月29日照常上班、照常上課</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">braja5566</span><span class="f3 push-content">: 喔 原來是部分 爽喔</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">On1y</span><span class="f3 push-content">: 高雄市9月29日照常上班、照常上課</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lepidoptera</span><span class="f3 push-content">: 南部應該還好都放了 柯P這次大概黑了</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkuso</span><span class="f3 push-content">: 帥帥帥～</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jacksnowman</span><span class="f3 push-content">: 只有三區 騙人啊</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Nobita</span><span class="f3 push-content">: 眼科? 也放假了嗎?</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">theryan1119</span><span class="f3 push-content">: 沒放好嗎</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">boyd1014</span><span class="f3 push-content">: 欠勦喔</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Exmax1999</span><span class="f3 push-content">: 幹幹幹幹幹幹</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">alcloth</span><span class="f3 push-content">: 造謠劣退～慢走不送！</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pita30</span><span class="f3 push-content">: 這篇會害多少高雄雄明天曠職</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jack7775kimo</span><span class="f3 push-content">: 一堆人褲子掉囉  只放山區</span><span class="push-ipdatetime"> 09/28 21:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SelfishGene</span><span class="f3 push-content">: 花媽:幹 清德你....</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hiwaid</span><span class="f3 push-content">: 一堆人閱讀能力有問題...</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">comp6118</span><span class="f3 push-content">: 116表示欣慰</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">photoshark</span><span class="f3 push-content">: 只有山區好嗎</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">styal</span><span class="f3 push-content">: 賴tmd</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">deangod99</span><span class="f3 push-content">: 桃源區、那瑪夏區及茂林區放而已....</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">chow365</span><span class="f3 push-content">: 還不桶</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kaletra</span><span class="f3 push-content">: 被騙了高興了10秒</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">frank1021</span><span class="f3 push-content">: 馬的</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">crazymon</span><span class="f3 push-content">: 很好玩嗎?</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">TREKKER</span><span class="f3 push-content">: 桃源區、那瑪夏區及茂林區因主要道路預警性封閉、土石流</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">andrewwill</span><span class="f3 push-content">: 部分停....幹</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">AkumaII</span><span class="f3 push-content">: 呵</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Germany5658</span><span class="f3 push-content">: 掰掰啦</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">momo0723</span><span class="f3 push-content">: 標題與內文不符  在那邊怪越讀能力</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alcloth</span><span class="f3 push-content">: ==================別亂罵髒話以免被告=================</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Cubelia</span><span class="f3 push-content">: 乾0糧和害我以為有放</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">CChahaXD</span><span class="f3 push-content">: 文章只看頭尾是吧</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">weichang921</span><span class="f3 push-content">: 反詐騙</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lastriot</span><span class="f3 push-content">:  <a href="http://i.imgur.com/5PwBA02.jpg" target="_blank" rel="nofollow">http://i.imgur.com/5PwBA02.jpg</a></span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="richcontent"><img src="//i.imgur.com/5PwBA02.jpg" alt="" /></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">s68432</span><span class="f3 push-content">: 哈哈哈</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wind80053</span><span class="f3 push-content">: 唬爛</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">blue870321</span><span class="f3 push-content">: 幹</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">swbthj</span><span class="f3 push-content">: 只有山區好嗎 文盲?</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shuntroy</span><span class="f3 push-content">: 又騙</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">louisman</span><span class="f3 push-content">: ...</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jeffac317</span><span class="f3 push-content">: 來人啊 快抓去桶~</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jackwalks</span><span class="f3 push-content">: ????????????????</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qq1030</span><span class="f3 push-content">: 反詐騙</span><span class="push-ipdatetime"> 09/28 21:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alcloth</span><span class="f3 push-content">: =============被釣過魚，切身之痛，大家小心============</span><span class="push-ipdatetime"> 09/28 21:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jhbgybj123</span><span class="f3 push-content">: 幹這好帥XDDDDDD</span><span class="push-ipdatetime"> 09/28 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s6416</span><span class="f3 push-content">: 你要桶了</span><span class="push-ipdatetime"> 09/28 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">endicool</span><span class="f3 push-content">: 噓</span><span class="push-ipdatetime"> 09/28 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">h2owaters</span><span class="f3 push-content">: 把你噓到XX</span><span class="push-ipdatetime"> 09/28 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">evolution862</span><span class="f3 push-content">: 噓</span><span class="push-ipdatetime"> 09/28 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">silentence</span><span class="f3 push-content">: 幹</span><span class="push-ipdatetime"> 09/28 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TREKKER</span><span class="f3 push-content">:             樓 主 有 閱 讀 障 礙 ？</span><span class="push-ipdatetime"> 09/28 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ARTORIA</span><span class="f3 push-content">: 閱讀障礙喔</span><span class="push-ipdatetime"> 09/28 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ericle116</span><span class="f3 push-content">: 幹 騙我</span><span class="push-ipdatetime"> 09/28 21:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">crayon1988</span><span class="f3 push-content">: 標題詐欺</span><span class="push-ipdatetime"> 09/28 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">timlin</span><span class="f3 push-content">: 幫補Y</span><span class="push-ipdatetime"> 09/28 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">freeclouds</span><span class="f3 push-content">: 這篇算造謠嗎</span><span class="push-ipdatetime"> 09/28 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">road5566</span><span class="f3 push-content">: 幹0糧</span><span class="push-ipdatetime"> 09/28 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">lml99</span><span class="f3 push-content">: 明明就誤導  在那邊怪閱讀能力  頗呵</span><span class="push-ipdatetime"> 09/28 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alcloth</span><span class="f3 push-content">: ===========真的小心釣魚！很多鄉民都很危險============</span><span class="push-ipdatetime"> 09/28 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">hot655219</span><span class="f3 push-content">: 反詐騙</span><span class="push-ipdatetime"> 09/28 21:41
+</span></div><span class="f2">※ 編輯: WorkinChina (180.218.79.154), 09/28/2015 21:41:51
+</span><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">encorei55</span><span class="f3 push-content">: 爽2秒</span><span class="push-ipdatetime"> 09/28 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">funny7967</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 09/28 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ssccot</span><span class="f3 push-content">: 幫噓</span><span class="push-ipdatetime"> 09/28 21:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">meta41110</span><span class="f3 push-content">: 不意外連泛舟半天也沒有</span><span class="push-ipdatetime"> 09/28 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">sblgameisfan</span><span class="f3 push-content">: 詐騙集團不可取</span><span class="push-ipdatetime"> 09/28 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">dkdk22</span><span class="f3 push-content">: 騙誰啦</span><span class="push-ipdatetime"> 09/28 21:42
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kkuso</span><span class="f3 push-content">: 害我開心了30秒，欠噓</span><span class="push-ipdatetime"> 09/28 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">SDSA</span><span class="f3 push-content">: 詐騙</span><span class="push-ipdatetime"> 09/28 21:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ynd</span><span class="f3 push-content">: 小心釣魚...............號呆鄉民............</span><span class="push-ipdatetime"> 09/28 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">kagerobis</span><span class="f3 push-content">: 高興2秒...版主快桶了他!</span><span class="push-ipdatetime"> 09/28 21:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ciplu</span><span class="f3 push-content">: 一堆人沒看內文被騙XDDDDD</span><span class="push-ipdatetime"> 09/28 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">thid5335</span><span class="f3 push-content">: 想騙誰 還一直改內文和標題</span><span class="push-ipdatetime"> 09/28 21:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chichihapo</span><span class="f3 push-content">: 花媽別再睡了</span><span class="push-ipdatetime"> 09/28 21:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jackyliu</span><span class="f3 push-content">: 幹 欠噓</span><span class="push-ipdatetime"> 09/28 21:44
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">proxil</span><span class="f3 push-content">: 幹</span><span class="push-ipdatetime"> 09/28 21:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dog5635</span><span class="f3 push-content">: 這篇非常靠北 幹</span><span class="push-ipdatetime"> 09/28 21:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Moderator</span><span class="f3 push-content">: 前幾樓推文超好笑XDDDDDD</span><span class="push-ipdatetime"> 09/28 21:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kawasumi</span><span class="f3 push-content">: 幹我笑了XDDDDDDDDDDDDDDDDD</span><span class="push-ipdatetime"> 09/28 21:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aweimeow</span><span class="f3 push-content">: 欠噓</span><span class="push-ipdatetime"> 09/28 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">picapoya</span><span class="f3 push-content">: 噓死你</span><span class="push-ipdatetime"> 09/28 21:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jos6899</span><span class="f3 push-content">: 害我高興了一下</span><span class="push-ipdatetime"> 09/28 21:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">soritamo</span><span class="f3 push-content">: 幹</span><span class="push-ipdatetime"> 09/28 21:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">edwar9154520</span><span class="f3 push-content">: 前幾樓是未看先推逆!!!!</span><span class="push-ipdatetime"> 09/28 21:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zero09107</span><span class="f3 push-content">: 只想說  肏你媽的不放假  不過沒關係  自己放</span><span class="push-ipdatetime"> 09/28 21:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">jim1276tw</span><span class="f3 push-content">: 。</span><span class="push-ipdatetime"> 09/28 21:57
+</span></div><span class="f2">※ 編輯: WorkinChina (180.218.79.154), 09/28/2015 22:04:07
+</span></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1443447368.A.FB1.html?cacheKey=2052-1232376961&offset=23647&offset-sig=560a571338b4eb2888697d1c87f0d5057f6b5f00" data-longpollurl="/v1/longpoll?id=a95f5fab29c1f838448826c0bac6a9a43efb7b7d" data-offset="23647"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+    </body>
+</html>

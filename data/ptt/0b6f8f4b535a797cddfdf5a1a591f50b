@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		
+
+<meta name="viewport" content="width=device-width">
+
+<title>Re: [問卦] wifi等訊號台對人體傷害的八卦? - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all" />
+<meta name="keywords" content="Ptt BBS 批踢踢" />
+<meta name="description" content="
+※ 引述《qq251988 (思思)》之銘言：
+: 由於最近換個環境 常常偏頭痛
+: 細想原因 其中一點是附近wifi及訊號接受器很多
+: 不曉得是否有實質影響
+" />
+<meta property="og:site_name" content="Ptt 批踢踢實業坊" />
+<meta property="og:title" content="Re: [問卦] wifi等訊號台對人體傷害的八卦?" />
+<meta property="og:description" content="
+※ 引述《qq251988 (思思)》之銘言：
+: 由於最近換個環境 常常偏頭痛
+: 細想原因 其中一點是附近wifi及訊號接受器很多
+: 不曉得是否有實質影響
+" />
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-common.css" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/pushstream.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-print.css" media="print" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/v2.13/bbs.js"></script>
+
+
+		
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32365737-1']);
+  _gaq.push(['_setDomainName', 'ptt.cc']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1448240274.A.E08.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">kilieolee (Tracy Mcgrady)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">Re: [問卦] wifi等訊號台對人體傷害的八卦?</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Nov 23 08:57:44 2015</span></div>
+<span class="f2">※ 引述《qq251988 (思思)》之銘言：
+</span><span class="f6">: 由於最近換個環境 常常偏頭痛
+</span><span class="f6">: 細想原因 其中一點是附近wifi及訊號接受器很多
+</span><span class="f6">: 不曉得是否有實質影響
+</span><span class="f6">: 幾年前看過相關報導 似乎是有的 當時還有醫生背書
+</span><span class="f6">: 不過台灣報導..我向來抱著七分懷疑 三分質疑
+</span><span class="f6">: 有沒有八卦?
+</span>
+
+這個版上讀工程類的一大堆，但真的在高電磁波環境工作的應該是少數
+
+來回這個文我已經有心理準備要被噓到X了
+
+我以前也不信這一套
+
+大學時，電子學老師說地球的地磁隨便也是基地台的幾百幾千倍以上
+
+要是磁場對大腦有影響，人腦早就爆了!
+
+聽起來滿有道理的，當時我就信了
+
+
+但後來生活中經歷了一些事情後，我認為是有影響的，但到底影響有多大我還不清楚
+
+故事有點長，我盡量長話短說
+
+我在澳洲打工度假時住在兩人房，跟一個高級工程師朋友一起住
+
+當時的澳洲網路發展還很緩慢，雖然我還算是住在城市，
+
+但房間的狀態是開著門手機2格，門關上，就沒訊號了，
+
+所以我們手機基本上都是放在客廳。這裡先排除了手機電磁波的干擾
+
+房東有裝一台無線網路分享器，而且是難得的不限流量，
+
+所以我平常都是在房間內上網，載東西
+
+由於澳洲生活有點無聊，所以一開始我是24小時在載東西
+
+一起生活沒幾天我室友就問我是不是開下載，請我晚上關電腦，
+
+他說我載東西害他睡眠品質不好，我其實很不以為然，但畢竟住一起要互相，所以我關了
+
+之後他就沒再多說什麼，我們作息非常正常，睡眠品質也很好，直到有一天，
+
+我們兩個都沒睡好(多夢，睡醒時很累)，他質疑我開下載，但我認為我有關電腦
+
+但他堅持我有開下載，我立馬開電腦證明結果我的電腦因為應用程式錯誤沒關閉，下載中@@
+
+他告訴我他在台灣的工作就是跟AP有關的，所以非常敏感，
+
+他的辦公室有一整個鐵架的AP，在開啟總電源的時候，如果身體虛甚至還會眼前一黑
+
+當然我要是這樣就信了，就實在不配說我以前讀二類的
+
+
+但這件事情勾起了我的興趣，於是我開始做實驗
+
+我開始不定時的開下載並把電腦藏在他的床下面以免影響我的睡眠
+
+大約在一個月內，我試了8次，然後觀察他的狀態
+
+每一次他都能準確的認出我開了下載，
+
+每一次我都堅定地否認，他才會開始疑心別的事情，但我請他睡不好時跟我說一下
+
+這一個月，他只有8次告訴我睡不好，而這8次都是我開下載放在他床底下的時間
+
+他完全不知情
+
+其實這8次我也都沒睡好，但我擔心是安慰劑效應所以不作數
+
+
+所以不管理論上如何，我相信我自己做的實驗
+
+即使這東西對身體沒有直接傷害，但睡眠品質不好就足以影響身體
+
+
+
+住台北的朋友如果想要自己實驗的話請一定要排除外部干擾喔
+
+在我自己的房間，可以收到超過10台的WIFI訊號
+
+修正一下:我自己是不願再繼續住台北了
+
+
+
+建議大家為了睡眠品質，晚上睡覺不要用無線網路開下載喲~
+
+
+
+以上為親身經歷
+另外po文前有參考了這個網站
+<a href="http://0123456789.tw/?p=964" target="_blank" rel="nofollow">http://0123456789.tw/?p=964</a>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 203.173.199.7
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1448240274.A.E08.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1448240274.A.E08.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shengyeh</span><span class="f3 push-content">: WIFI存在台北多久了 有數據證明台北人壽命比較低嗎?</span><span class="push-ipdatetime"> 11/23 08:59
+</span></div>說實在的影響壽命因素太多了，無法單純歸類為哪一種
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">benzaldehyde</span><span class="f3 push-content">: 室友是實驗動物XD</span><span class="push-ipdatetime"> 11/23 08:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">waqw</span><span class="f3 push-content">: 因為他裝了監視器</span><span class="push-ipdatetime"> 11/23 08:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stewartqq</span><span class="f3 push-content">: 建議請yoyo大師寫一套wifi繞過腦波的程式~</span><span class="push-ipdatetime"> 11/23 09:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">haha98</span><span class="f3 push-content">: 可是我每天都睡的很爽阿 家裡wifi沒關過</span><span class="push-ipdatetime"> 11/23 09:00
+</span></div>我在這件事發生以前也是跟你一樣，但是比較後感覺確實有差
+或許你可以試試到山上沒訊號的地方睡個一個月，再回家比較看看
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zeyi</span><span class="f3 push-content">: 特殊體質嗎</span><span class="push-ipdatetime"> 11/23 09:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Leeng</span><span class="f3 push-content">: 還滿屌的 M起來</span><span class="push-ipdatetime"> 11/23 09:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BlGP</span><span class="f3 push-content">: 因為他直接看你連進AP</span><span class="push-ipdatetime"> 11/23 09:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JamesWU94121</span><span class="f3 push-content">: 上上禮拜公視的主題之夜有提到，這世界上蠻多這種人</span><span class="push-ipdatetime"> 11/23 09:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JamesWU94121</span><span class="f3 push-content">: 的</span><span class="push-ipdatetime"> 11/23 09:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ECZEMA</span><span class="f3 push-content">: 這種東西 信者恆信 但能避免就避免</span><span class="push-ipdatetime"> 11/23 09:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a11ks12</span><span class="f3 push-content">: 我之前住過有放遠X基地台的房間 也是無感 WIFI也沒關過</span><span class="push-ipdatetime"> 11/23 09:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">uu26793</span><span class="f3 push-content">: 你這樣實驗超機掰的耶XDDD</span><span class="push-ipdatetime"> 11/23 09:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wengho</span><span class="f3 push-content">: 開電腦的電磁波比wifi強</span><span class="push-ipdatetime"> 11/23 09:03
+</span></div>我後續有實驗開下載/純粹電腦放著
+有開下載的才有感覺
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cloud520</span><span class="f3 push-content">: 敏感的人能偵測到應該是電流聲，不是電磁波</span><span class="push-ipdatetime"> 11/23 09:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">douge</span><span class="f3 push-content">: 喔 住基地台旁邊有很屌  有種站在基地台前面過一年阿XD</span><span class="push-ipdatetime"> 11/23 09:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zz71</span><span class="f3 push-content">: 推人體實驗</span><span class="push-ipdatetime"> 11/23 09:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">crimson11</span><span class="f3 push-content">: 因為你肢體語言會暗示</span><span class="push-ipdatetime"> 11/23 09:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wengho</span><span class="f3 push-content">: 晚上電腦不關機 電腦主機板還會散發電子廢氣 這個才嚴重</span><span class="push-ipdatetime"> 11/23 09:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a11ks12</span><span class="f3 push-content">: 我就住一年多啊 沒然後 介紹我過去住的他自己也是住N年</span><span class="push-ipdatetime"> 11/23 09:05
+</span></div>
+基地台的部分我不清楚，我試的是AP+開下載
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ClubT</span><span class="f3 push-content">: 幫你室友噓你</span><span class="push-ipdatetime"> 11/23 09:06
+</span></div>我一系列實驗完有告知實驗成果+請吃飯啦，室友對不起T.T
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Malum</span><span class="f3 push-content">: 不要玩室友啦</span><span class="push-ipdatetime"> 11/23 09:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kymco9999</span><span class="f3 push-content">: 最好方法就是晚上關掉wifi</span><span class="push-ipdatetime"> 11/23 09:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuorobo14</span><span class="f3 push-content">: 直接人體實驗哈哈哈</span><span class="push-ipdatetime"> 11/23 09:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yoshro</span><span class="f3 push-content">: 我覺得是會有影響 但不是每個人都這麼敏感</span><span class="push-ipdatetime"> 11/23 09:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ailurknight</span><span class="f3 push-content">: 我也有這種敏感體質,以前PHS手機來電我都感覺得到...</span><span class="push-ipdatetime"> 11/23 09:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mike0327</span><span class="f3 push-content">: 都嘛是心理作用</span><span class="push-ipdatetime"> 11/23 09:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">slyheart</span><span class="f3 push-content">: n=1的數據不可信啊，請多換幾個室友再repeat實驗XD</span><span class="push-ipdatetime"> 11/23 09:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyringcha</span><span class="f3 push-content">: 推你 這是一個不能說的事情 這是以一個前手機大廠在無</span><span class="push-ipdatetime"> 11/23 09:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyringcha</span><span class="f3 push-content">: 響室工作測wireless的RD和天線組同事經驗</span><span class="push-ipdatetime"> 11/23 09:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ilat</span><span class="f3 push-content">: 經臨床實驗證明wifi對人體有影響XD</span><span class="push-ipdatetime"> 11/23 09:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">widec</span><span class="f3 push-content">: 那藍芽呢 波段不是跟wifi一樣 現在還有藍芽手錶 手環呢</span><span class="push-ipdatetime"> 11/23 09:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jim66356</span><span class="f3 push-content">: 文組 不予置評</span><span class="push-ipdatetime"> 11/23 09:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Vladivostok</span><span class="f3 push-content">: 知道有開說不舒服的都是心裡作用啦，盲測一堆分不出</span><span class="push-ipdatetime"> 11/23 09:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Vladivostok</span><span class="f3 push-content">: 來的。</span><span class="push-ipdatetime"> 11/23 09:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">la1aco</span><span class="f3 push-content">: 你用高級工程師朋友人體實驗?</span><span class="push-ipdatetime"> 11/23 09:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yhchen2</span><span class="f3 push-content">: 那你怎知道不是電腦風扇或硬碟太吵?</span><span class="push-ipdatetime"> 11/23 09:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Timcanpy</span><span class="f3 push-content">: 敏感+1，像我手機放包包接受訊息時跟來電時還是會感覺</span><span class="push-ipdatetime"> 11/23 09:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Timcanpy</span><span class="f3 push-content">: 到振動，而且是由弱到強</span><span class="push-ipdatetime"> 11/23 09:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">la1aco</span><span class="f3 push-content">: 你用高級工程師朋友人體實驗?</span><span class="push-ipdatetime"> 11/23 09:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e1q3z9c7</span><span class="f3 push-content">: 我如果頭朝電腦睡一定睡不好，如果轉另一邊就好了</span><span class="push-ipdatetime"> 11/23 09:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">poiu1234</span><span class="f3 push-content">: 這樣就叫2類 告訴你 我朋友有開電x他就會半夜醒過來</span><span class="push-ipdatetime"> 11/23 09:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Philcat</span><span class="f3 push-content">: 你多找一些wifi-sensitive的人就可以發paper了</span><span class="push-ipdatetime"> 11/23 09:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bruceXD</span><span class="f3 push-content">: 有實驗有推</span><span class="push-ipdatetime"> 11/23 09:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">d9321003</span><span class="f3 push-content">: 如果這樣就能推斷有影響 也太瞎</span><span class="push-ipdatetime"> 11/23 09:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">widec</span><span class="f3 push-content">: 幸好我買的AP可以設定排程 晚上睡覺時就關掉wifi</span><span class="push-ipdatetime"> 11/23 09:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Powertalk1</span><span class="f3 push-content">: 沒開下載 WIFI分享器 還是在運作</span><span class="push-ipdatetime"> 11/23 09:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">poiu1234</span><span class="f3 push-content">: 這樣就證明是wifi也太弱</span><span class="push-ipdatetime"> 11/23 09:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Riya520</span><span class="f3 push-content">: 不是要吐你槽, 你的實驗有瑕疵</span><span class="push-ipdatetime"> 11/23 09:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">e1q3z9c7</span><span class="f3 push-content">: 人體本身就有磁場 電磁波的干擾有很玄嗎？</span><span class="push-ipdatetime"> 11/23 09:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WenliYang</span><span class="f3 push-content">: 水喔!!!</span><span class="push-ipdatetime"> 11/23 09:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">la1aco</span><span class="f3 push-content">: 噓 你室友不知情 你還用高級工程師朋友人體實驗?</span><span class="push-ipdatetime"> 11/23 09:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HowLeeHi</span><span class="f3 push-content">: 這應該是少數個案?</span><span class="push-ipdatetime"> 11/23 09:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">r1239386</span><span class="f3 push-content">: 世界上什麼人都有 對電磁波敏感的人當然也有 但唬爛的也</span><span class="push-ipdatetime"> 11/23 09:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">r1239386</span><span class="f3 push-content">: 有</span><span class="push-ipdatetime"> 11/23 09:12
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shadeel</span><span class="f3 push-content">: 已報警 我幫你室友告你</span><span class="push-ipdatetime"> 11/23 09:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gn00063172</span><span class="f3 push-content">: 你去跟老萬定一個他那種頭盔，晚上戴了睡不就解了</span><span class="push-ipdatetime"> 11/23 09:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TFsonG</span><span class="f3 push-content">: 那個是電流聲啦+1</span><span class="push-ipdatetime"> 11/23 09:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">widec</span><span class="f3 push-content">: 買AP時比較過 C7訊號超猛又便宜 我深思後 就不敢買了</span><span class="push-ipdatetime"> 11/23 09:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">r1239386</span><span class="f3 push-content">: 用鉛盒把ap罩住 選我正解</span><span class="push-ipdatetime"> 11/23 09:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stoneofsea</span><span class="f3 push-content">: 體質吧 有些人天生較敏感</span><span class="push-ipdatetime"> 11/23 09:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">shadeel</span><span class="f3 push-content">: 開電腦睡不好 應該是低頻噪音吧 電器運作內部發生的低頻</span><span class="push-ipdatetime"> 11/23 09:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">peace1way</span><span class="f3 push-content">: 自己各項條件都沒設定完全的玩票實驗就可以講成這樣…</span><span class="push-ipdatetime"> 11/23 09:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">la1aco</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 11/23 09:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pat1006</span><span class="f3 push-content">: 室友拿來實驗？  真友情</span><span class="push-ipdatetime"> 11/23 09:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TFsonG</span><span class="f3 push-content">: 其他日子沒有同樣的電流聲干擾當然好睡</span><span class="push-ipdatetime"> 11/23 09:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jim66356</span><span class="f3 push-content">: 電流有聲音嗎…</span><span class="push-ipdatetime"> 11/23 09:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yhchen2</span><span class="f3 push-content">: 基本上要過喇叭才有...</span><span class="push-ipdatetime"> 11/23 09:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">z010529</span><span class="f3 push-content">: ...</span><span class="push-ipdatetime"> 11/23 09:15
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">la1aco</span><span class="f3 push-content">: 並把電腦藏在他的床下面以免影響我的睡眠 這樣道德?</span><span class="push-ipdatetime"> 11/23 09:15
+</span></div>抱歉，為了實驗，只好犧牲室友了。 好啦 我知道以我們的交情是OK才試的啦
+事後有告知，目前也還是朋友XD
+其實我還是受到影響了!因為我在他上舖.....
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">babeamy</span><span class="f3 push-content">: 如果只有開wifi沒有下載可以嗎</span><span class="push-ipdatetime"> 11/23 09:16
+</span></div>
+我的實驗沒開下載的時候沒感覺
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jim66356</span><span class="f3 push-content">: 推文問一下 有時候插插頭時會聽到高頻率的聲音 是正常</span><span class="push-ipdatetime"> 11/23 09:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jim66356</span><span class="f3 push-content">: 的嗎</span><span class="push-ipdatetime"> 11/23 09:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">MysterySW</span><span class="f3 push-content">: 文組的都這樣嗎?</span><span class="push-ipdatetime"> 11/23 09:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">shadeel</span><span class="f3 push-content">: 同時也推心理作用 你騙他今晚要下載 實際沒有 一樣睡不好</span><span class="push-ipdatetime"> 11/23 09:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">r1239386</span><span class="f3 push-content">: 那用手機4G開熱點給筆電全速下載 電磁波不就更威 你下次</span><span class="push-ipdatetime"> 11/23 09:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">r1239386</span><span class="f3 push-content">: 試試看</span><span class="push-ipdatetime"> 11/23 09:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aggressorX</span><span class="f3 push-content">: 唯恐天下不亂</span><span class="push-ipdatetime"> 11/23 09:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CherryVoe</span><span class="f3 push-content">: 推妳的實驗精神 不過是體質問題 有人完全沒反應</span><span class="push-ipdatetime"> 11/23 09:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sboy1111</span><span class="f3 push-content">: 那只是有感覺到,真的有沒有影響是另一個議題</span><span class="push-ipdatetime"> 11/23 09:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Timcanpy</span><span class="f3 push-content">: 用智慧型手機的時候就忘記電磁波這件事了吧？選擇性XD</span><span class="push-ipdatetime"> 11/23 09:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sboy1111</span><span class="f3 push-content">: 我自己對於電視也可以感覺,開無聲都沒用</span><span class="push-ipdatetime"> 11/23 09:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Norther</span><span class="f3 push-content">: 敏感+1 尤其當室友下載甲片的時候我會特別不舒服</span><span class="push-ipdatetime"> 11/23 09:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cywec</span><span class="f3 push-content">: 看來要把房間改成shielding room會比較安全</span><span class="push-ipdatetime"> 11/23 09:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LonyIce</span><span class="f3 push-content">: 我家住基地台旁幾十年 全家健康</span><span class="push-ipdatetime"> 11/23 09:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">pipida00</span><span class="f3 push-content">: 噓你這樣的實驗跟結論還自稱二類</span><span class="push-ipdatetime"> 11/23 09:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yhchen2</span><span class="f3 push-content">: 聽得到聲音代表有能量被釋放 電流本身不代表能量 IxV才是</span><span class="push-ipdatetime"> 11/23 09:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Timcanpy</span><span class="f3 push-content">: 遇過白天手機不離手然後抱怨電磁波干擾失眠的</span><span class="push-ipdatetime"> 11/23 09:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yhchen2</span><span class="f3 push-content">: 放電放到電路上有聲音那大概是短路了</span><span class="push-ipdatetime"> 11/23 09:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">after1</span><span class="f3 push-content">: 你怎麼確定是無線電波影響. 而不是機器運作時的噪音影響?</span><span class="push-ipdatetime"> 11/23 09:20
+</span></div>
+我試過純開電腦放著/wifi連線放著/跟全速下載 ，目前是全速下載才有感
+包含電腦放桌上,放床下,放衣櫃  但室友只對 下載 有感
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sboy1111</span><span class="f3 push-content">: 其實是他想下載東西,頻寬被你用掉他唬爛你</span><span class="push-ipdatetime"> 11/23 09:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">a22222a4210</span><span class="f3 push-content">: 怕電磁波你最好不要出門不要開燈一輩子活在黑暗中</span><span class="push-ipdatetime"> 11/23 09:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gucci0801</span><span class="f3 push-content">: 你居然用室友當實驗品</span><span class="push-ipdatetime"> 11/23 09:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">denny0225</span><span class="f3 push-content">: 搞不好室友不能下載東西就睡不著 跟電磁波有正相關?</span><span class="push-ipdatetime"> 11/23 09:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">diding</span><span class="f3 push-content">: 樣本多一點再來討論 謝謝</span><span class="push-ipdatetime"> 11/23 09:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">BrianXBlue</span><span class="f3 push-content">: 太好笑了啦 你交大的嗎 寫文章出來騙人XD</span><span class="push-ipdatetime"> 11/23 09:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yhchen2</span><span class="f3 push-content">: Better call Saul的Chuck阿 出門還要批金屬衣</span><span class="push-ipdatetime"> 11/23 09:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">liliyaeva000</span><span class="f3 push-content">: ?</span><span class="push-ipdatetime"> 11/23 09:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nrefder</span><span class="f3 push-content">: 開電腦都有聲音啊，又不一定跟電磁波有關</span><span class="push-ipdatetime"> 11/23 09:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 推弄室友，噓實驗，你這種實驗法說你是理工誰信= =</span><span class="push-ipdatetime"> 11/23 09:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">denny0225</span><span class="f3 push-content">: 變因這麼多...你真的是二類的在設計實驗跟下結論嗎~</span><span class="push-ipdatetime"> 11/23 09:24
+</span></div>
+我也知道變因很多，但我也不是要發論文，也有自己的工作要做
+在當時的環境以及我們的生活非常的規律
+在不影響日常生活中實驗，我認為也就只能這樣了
+
+不然你設計一個不影響你自己其他人日常生活的實驗給我  我可以幫你實驗
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">laukun</span><span class="f3 push-content">: 推這篇  晚上手機忘記拿遠放床頭櫃       無法入睡</span><span class="push-ipdatetime"> 11/23 09:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laukun</span><span class="f3 push-content">: 平常5分鐘內能入睡</span><span class="push-ipdatetime"> 11/23 09:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">solsol</span><span class="f3 push-content">: 雖然肯定你的實驗精神  但拿室友當實驗動物實在太沒品了</span><span class="push-ipdatetime"> 11/23 09:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">widec</span><span class="f3 push-content">: laukun可以放床頭 但開飛航呀</span><span class="push-ipdatetime"> 11/23 09:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ask5566</span><span class="f3 push-content">: 完了 嚴重了 被這樣照射幾次 你要對他負責了..</span><span class="push-ipdatetime"> 11/23 09:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 這個實驗充其量只是推測室友會因電磁波而有反應</span><span class="push-ipdatetime"> 11/23 09:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laukun</span><span class="f3 push-content">: IPAD 續航力太強 沒關機放床頭櫃最底層  那一周都睡不好</span><span class="push-ipdatetime"> 11/23 09:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laukun</span><span class="f3 push-content">: 後來發現 關機 幹 跟往常一樣一覺到天亮 也沒在作夢</span><span class="push-ipdatetime"> 11/23 09:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 要說到傷害如何證明？因為睡不好所以是傷害？</span><span class="push-ipdatetime"> 11/23 09:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BJme</span><span class="f3 push-content">: 這只證明你的室友是X-men，不能證明對人體有害</span><span class="push-ipdatetime"> 11/23 09:29
+</span></div>所以我就只有說睡眠品質會不好啊，是否對身體有實質的傷害我也不知道阿
+
+但silverair大 你敢說睡眠品質不好對身體沒影響?
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laukun</span><span class="f3 push-content">: 而且平板這東西的方便性   就是可以放肚子 雙腿上</span><span class="push-ipdatetime"> 11/23 09:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 那是為什麼睡不好呢？ 是否是因為篤信電磁波有危害，又</span><span class="push-ipdatetime"> 11/23 09:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 感受到電磁波才睡不好？要是你從小教育我摸貓會致癌，</span><span class="push-ipdatetime"> 11/23 09:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 當我發現有隻貓在我旁邊睡得好我跟你信。</span><span class="push-ipdatetime"> 11/23 09:30
+</span></div>
+你根本沒看內文吧，我曾經是24小時開下載也覺得沒差的人
+忽然懷疑搞不好有差才開始實驗的
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laukun</span><span class="f3 push-content">: 有時在想 卵蛋 下腹 輸精管區域就蓋在下方 會不會影響精蟲</span><span class="push-ipdatetime"> 11/23 09:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">r1239386</span><span class="f3 push-content">: 走在路上就死了</span><span class="push-ipdatetime"> 11/23 09:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lungerX</span><span class="f3 push-content">: 有實驗有推</span><span class="push-ipdatetime"> 11/23 09:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">widec</span><span class="f3 push-content">: silverair沒看內文吧 他明明是對室友盲測</span><span class="push-ipdatetime"> 11/23 09:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">alex01</span><span class="f3 push-content">: 第一次做實驗？你變因多少個？可能性又太多，樣本數一，還</span><span class="push-ipdatetime"> 11/23 09:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alex01</span><span class="f3 push-content">: 是省省吧</span><span class="push-ipdatetime"> 11/23 09:35
+</span></div>
+上面說過的再回你一次
+我也知道變因很多，但我也不是要發論文，也有自己的工作要做
+在當時的環境以及我們的生活非常的規律
+在不影響日常生活中實驗，我認為也就只能這樣了
+
+不然你設計一個不影響你自己其他人日常生活的實驗給我  我可以幫你實驗
+
+樣本數1 至少證明了對某些人或某人有影響
+
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">alfven</span><span class="f3 push-content">: 很嚴僅的實驗</span><span class="push-ipdatetime"> 11/23 09:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nosay</span><span class="f3 push-content">: 的確我開下載就會睡不著...因為急著看片(上原亞衣)</span><span class="push-ipdatetime"> 11/23 09:35
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">justice0926</span><span class="f3 push-content">: 他只是因為你開下載他沒法看片而已</span><span class="push-ipdatetime"> 11/23 09:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bill0205</span><span class="f3 push-content">: 我AP放在我房間 累了還是能5分鐘內睡死 跟每個人體質有</span><span class="push-ipdatetime"> 11/23 09:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bill0205</span><span class="f3 push-content">: 關吧</span><span class="push-ipdatetime"> 11/23 09:38
+</span></div>
+我們也都可以正常入睡，有差的只有睡眠品質，多夢，醒時覺得身體疲憊
+正常良好的睡眠是鬧鐘響前自然醒來，感覺精神飽滿，不會想賴床
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 又變成我沒看內文了？我從頭到尾沒質疑你室友的能力，</span><span class="push-ipdatetime"> 11/23 09:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 事實上確實有不少人很敏感能感受到</span><span class="push-ipdatetime"> 11/23 09:38
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 睡眠不好的確是會影響健康無誤，但是你真的有看懂我要</span><span class="push-ipdatetime"> 11/23 09:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 說的？ 我質疑的是睡眠不好你如何證明是電磁波引起，而</span><span class="push-ipdatetime"> 11/23 09:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 不是心理因素</span><span class="push-ipdatetime"> 11/23 09:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bill0205</span><span class="f3 push-content">: 一次實驗變數太多 這種實驗 樣本數本來要夠多才能夠證明</span><span class="push-ipdatetime"> 11/23 09:41
+</span></div>
+我完全同意你的說法，所以我這只能說是經驗分享，而不是科學報告
+對我自己而言，我忽然感受到了，做了這個簡易的 說小測試好了
+我也沒有要投期刊論文什麼的，即使變因很多，但這樣的結果已足以說服我自己
+
+當然質疑是必定有的，但我更希望持反對意見的也可以提供一些實驗數據
+或是如我一般的小測驗給大家參考
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bill0205</span><span class="f3 push-content">: 吧 雖然我家人都覺得沒差...</span><span class="push-ipdatetime"> 11/23 09:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 直接連結到電磁波只能說不夠嚴謹而且破綻百出</span><span class="push-ipdatetime"> 11/23 09:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Syoshinsya</span><span class="f3 push-content">: 你這實驗超雞掰的 XDDDDDDDD</span><span class="push-ipdatetime"> 11/23 09:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">corlos</span><span class="f3 push-content">: 心理因素</span><span class="push-ipdatetime"> 11/23 09:45
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">cliff159357</span><span class="f3 push-content">: 糟糕 外面光的能量更強 你怎還敢出門?</span><span class="push-ipdatetime"> 11/23 09:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">satan04</span><span class="f3 push-content">: 喔</span><span class="push-ipdatetime"> 11/23 09:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 原PO下次和你澳洲室友做實驗時，可以透過Web UI改AP的輸</span><span class="push-ipdatetime"> 11/23 09:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">cliff159357</span><span class="f3 push-content">: 實驗數據?別鬧了，這樣叫做實驗數據是要笑死人嗎</span><span class="push-ipdatetime"> 11/23 09:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 以摸貓的例子就是心理因素干涉的範本，怕蟑螂的人發現</span><span class="push-ipdatetime"> 11/23 09:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 房間有蟑螂怎麼可能睡的好，然後再歸咎為蟑螂讓人不健</span><span class="push-ipdatetime"> 11/23 09:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">silverair</span><span class="f3 push-content">: 康？？？</span><span class="push-ipdatetime"> 11/23 09:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxlt3722</span><span class="f3 push-content">: 所以WIFI放著不下載就沒差吧 結論是不要載片尻尻惹</span><span class="push-ipdatetime"> 11/23 09:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">bgrich</span><span class="f3 push-content">: 沒有任何實際科學參考價值的文也能M</span><span class="push-ipdatetime"> 11/23 09:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 出功率。這樣你就可測出你室友的Sensitivity(靈敏度)了!</span><span class="push-ipdatetime"> 11/23 09:50
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ryan100100</span><span class="f3 push-content">: 亂說</span><span class="push-ipdatetime"> 11/23 09:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aph860212</span><span class="f3 push-content">: 反智</span><span class="push-ipdatetime"> 11/23 09:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 或者在 把你們房間的門貼鋁箔紙(做簡易隔絕)，應可減輕</span><span class="push-ipdatetime"> 11/23 09:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">adm123</span><span class="f3 push-content">: wifi開  且要有大量下載才算吧</span><span class="push-ipdatetime"> 11/23 09:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 你室友睡不著的次數!</span><span class="push-ipdatetime"> 11/23 09:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: WIFI大量下載有反應-&gt; 表示AP 長時間在發射。而且以統計</span><span class="push-ipdatetime"> 11/23 09:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">laukun</span><span class="f3 push-content">: WHO有正式公布     手機電磁波極可能致腦神經膠質瘤</span><span class="push-ipdatetime"> 11/23 09:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">laukun</span><span class="f3 push-content">: 列為2B級致癌層度 IARC表示重度使用者膠質瘤風險多40%</span><span class="push-ipdatetime"> 11/23 10:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">urchinchuang</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 11/23 10:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wsdykssj</span><span class="f3 push-content">: 那你做個實驗，手機和分享器都包在鋁箔盒內，然後用手機</span><span class="push-ipdatetime"> 11/23 10:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wsdykssj</span><span class="f3 push-content">: 載bt，看他反應</span><span class="push-ipdatetime"> 11/23 10:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 來看，你澳洲室友在那環境下應的對AP電發射磁波有感</span><span class="push-ipdatetime"> 11/23 10:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wsdykssj</span><span class="f3 push-content">: 分享器可以移的話移近房間一點</span><span class="push-ipdatetime"> 11/23 10:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kilieolee</span><span class="f3 push-content">: 樓上那根本無法下載吧....</span><span class="push-ipdatetime"> 11/23 10:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 嘿嘿! 謝謝kili大提醒，是有可能無法下載，會不會也有可</span><span class="push-ipdatetime"> 11/23 10:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 能下載時間變長 ? (BER變大，增加重傳次數)</span><span class="push-ipdatetime"> 11/23 10:12
+</span></div>那樣對我來說太複雜了啦XD
+我就單純試掛AP+下載是否有影響睡眠而已
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ho1liday</span><span class="f3 push-content">: 不要玩室友XD</span><span class="push-ipdatetime"> 11/23 10:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FantasyRyu</span><span class="f3 push-content">: 嗯嗯為了睡得好，我只好住在圍阻體裡了，麻煩來點鉛塊</span><span class="push-ipdatetime"> 11/23 10:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkman2</span><span class="f3 push-content">: 幹嘛玩室友XD</span><span class="push-ipdatetime"> 11/23 10:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kilieolee</span><span class="f3 push-content">: 但我原本下載的量就是一天載不完的XD</span><span class="push-ipdatetime"> 11/23 10:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">thegod13</span><span class="f3 push-content">: 你怎麼知道是不是電腦風扇的影響？</span><span class="push-ipdatetime"> 11/23 10:26
+</span></div>
+請看推文
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cloud520</span><span class="f3 push-content">: 你把wifi關掉，改插網路線，他一樣睡不好啦！</span><span class="push-ipdatetime"> 11/23 10:26
+</span></div>
+插網路線試過了，接了網路線就沒有問題
+<span class="f2">※ 編輯: kilieolee (203.173.199.7), 11/23/2015 10:32:42
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wak</span><span class="f3 push-content">: 有差+1   睡深睡淺的差別很明顯</span><span class="push-ipdatetime"> 11/23 10:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shintz</span><span class="f3 push-content">: 你室友中毒了吧 快幫他備份掃毒阿</span><span class="push-ipdatetime"> 11/23 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 沒錯! 我在家的AP也是睡覺一定關! 要長期下載就用有線了!</span><span class="push-ipdatetime"> 11/23 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">perry201046</span><span class="f3 push-content">: 我在電台上班，午休播音照睡呀，發射機為300kw</span><span class="push-ipdatetime"> 11/23 10:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 樓上perry大，小弟猜測你們電台建築應有一定屏蔽防護了!</span><span class="push-ipdatetime"> 11/23 10:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tenninetall</span><span class="f3 push-content">: 這篇高級反串啊</span><span class="push-ipdatetime"> 11/23 10:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ABQ66</span><span class="f3 push-content">: 我也感覺有差 不過那真的要很注重睡眠品質才會care</span><span class="push-ipdatetime"> 11/23 10:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">recount</span><span class="f3 push-content">: 你受過的教育會跟你說這實驗可信?</span><span class="push-ipdatetime"> 11/23 10:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">upeo</span><span class="f3 push-content">: 都市傳說 我才不信 除非他之前在AP公司把天現插在腦袋</span><span class="push-ipdatetime"> 11/23 10:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">upeo</span><span class="f3 push-content">: 這種文也能M 版主在衝三小</span><span class="push-ipdatetime"> 11/23 10:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 這就跟流傳在做RF和微波的男工程師之間的笑話一樣:『生女</span><span class="push-ipdatetime"> 11/23 10:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 孩表示你跟電磁波不熟喔?』信者恆信，不信者就不信罷了!</span><span class="push-ipdatetime"> 11/23 10:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 我打錯了，原意應是:有傳說RF&amp;微波男工程師生女兒機率高!</span><span class="push-ipdatetime"> 11/23 11:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blackhippo</span><span class="f3 push-content">: 你這個室友金靠杯XD..Y</span><span class="push-ipdatetime"> 11/23 11:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Nyeduxa</span><span class="f3 push-content">: 以前我也不信 直到我曾站在高頻電流源附近 真的會有感覺</span><span class="push-ipdatetime"> 11/23 11:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">amx</span><span class="f3 push-content">: 這種實驗水準好高，比牛奶還高，</span><span class="push-ipdatetime"> 11/23 11:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">z955018</span><span class="f3 push-content">: 搞不好你是Neo吧？</span><span class="push-ipdatetime"> 11/23 11:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seafire</span><span class="f3 push-content">: 你真他媽雞掰室友耶xd</span><span class="push-ipdatetime"> 11/23 11:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">apflake</span><span class="f3 push-content">: 這實驗瑕疵太多了,很有可能插座或其他地方因為通電產生低</span><span class="push-ipdatetime"> 11/23 11:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">apflake</span><span class="f3 push-content">: 頻震盪的聲波</span><span class="push-ipdatetime"> 11/23 11:18
+</span></div>我同意瑕疵很多，但你提的點我有試過開機但不下載，所以可以排除
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tsming</span><span class="f3 push-content">: 團購萬磁王頭盔啦！</span><span class="push-ipdatetime"> 11/23 11:20
+</span></div><span class="f2">※ 編輯: kilieolee (203.173.199.7), 11/23/2015 11:29:45
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shdopeoplesn</span><span class="f3 push-content">: 有拿高斯計測過，手機上網有流量時電磁波&gt;&gt;開網路</span><span class="push-ipdatetime"> 11/23 11:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zzz71084482</span><span class="f3 push-content">: 推，我之前就有發現把wifi關掉真的會比較好睡</span><span class="push-ipdatetime"> 11/23 11:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">plsear</span><span class="f3 push-content">: 好吧至少有實驗</span><span class="push-ipdatetime"> 11/23 11:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BIGNOSER</span><span class="f3 push-content">: 你這篇最好別讓你室友看到</span><span class="push-ipdatetime"> 11/23 11:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dkny61298</span><span class="f3 push-content">: 電腦開下載，風扇有聲音，所以我都關機</span><span class="push-ipdatetime"> 11/23 11:41
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Vipasyin</span><span class="f3 push-content">: 完全不能算答案的答案 何必提出來誤導自己跟大家</span><span class="push-ipdatetime"> 11/23 11:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Vipasyin</span><span class="f3 push-content">: 問題就在於不成立的實驗就是錯誤 連當基數的意義都沒有</span><span class="push-ipdatetime"> 11/23 11:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Vipasyin</span><span class="f3 push-content">: 而且這是人體試驗 人體試驗有更多要排除的個人因素得做</span><span class="push-ipdatetime"> 11/23 11:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ETTom</span><span class="f3 push-content">: 有實驗給推 但也可能你和你室友體質比較特殊</span><span class="push-ipdatetime"> 11/23 11:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Vipasyin</span><span class="f3 push-content">: 為什麼PI都口徑一致說做一半不如不要做 就是這個意思</span><span class="push-ipdatetime"> 11/23 11:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dctmax</span><span class="f3 push-content">: 你這篇搞不好會被文章農場拿去加上誇大標題 哈</span><span class="push-ipdatetime"> 11/23 11:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">holishing</span><span class="f3 push-content">: 結論：提出了一個很好的「假設」。</span><span class="push-ipdatetime"> 11/23 11:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">siddor</span><span class="f3 push-content">: 其實無線訊號是對人體有影響 只是跟垃圾食物很像 不要攝取</span><span class="push-ipdatetime"> 11/23 11:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">siddor</span><span class="f3 push-content">: 太多 在人類有生之年都不會有明顯症狀</span><span class="push-ipdatetime"> 11/23 11:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f16leon</span><span class="f3 push-content">: 你這實驗跟呼吸60秒就減少1分鐘壽命有什麼兩樣</span><span class="push-ipdatetime"> 11/23 11:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HuntBear</span><span class="f3 push-content">: 還蠻有實驗精神的</span><span class="push-ipdatetime"> 11/23 11:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">archon</span><span class="f3 push-content">: 你們是不是用同一條線，你一下載，他的頻寬就被吃了？</span><span class="push-ipdatetime"> 11/23 11:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tigernaxo</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 11/23 12:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">knightalan</span><span class="f3 push-content">: 我以前剛用手機都會頭痛 電磁爐也會</span><span class="push-ipdatetime"> 11/23 12:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gonarain1231</span><span class="f3 push-content">: 他是看你下載的A片才整晚沒睡吧</span><span class="push-ipdatetime"> 11/23 12:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">knightalan</span><span class="f3 push-content">: 但久了就無感了 敏感可能會慢慢適應消失</span><span class="push-ipdatetime"> 11/23 12:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ewqewq123123</span><span class="f3 push-content">: 好讚的實驗，可是受試者拿的錢太少了...一頓飯!!</span><span class="push-ipdatetime"> 11/23 12:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ewqewq123123</span><span class="f3 push-content">: 受試者知道真相，有沒有氣得晚上摸黑肛了你？</span><span class="push-ipdatetime"> 11/23 12:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lgmplays</span><span class="f3 push-content">: 有可能下載時硬碟作動的聲音?不下載硬碟比較不會動</span><span class="push-ipdatetime"> 11/23 12:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pkmu8426</span><span class="f3 push-content">: 我認識的一位中部種花主任 他自己就也是很信基地台對</span><span class="push-ipdatetime"> 11/23 12:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pkmu8426</span><span class="f3 push-content">: 人體影響</span><span class="push-ipdatetime"> 11/23 12:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jakert123</span><span class="f3 push-content">: 噓的心態是不願面對真相嗎</span><span class="push-ipdatetime"> 11/23 12:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pkmu8426</span><span class="f3 push-content">: 但為了擴展訊源(賺錢)該架的基地台 也只能裝沒事硬幹R</span><span class="push-ipdatetime"> 11/23 12:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abram</span><span class="f3 push-content">:  有實驗精神給推</span><span class="push-ipdatetime"> 11/23 12:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">doomhydra</span><span class="f3 push-content">: 這樣也叫做實驗，還虧你說自己是二類的...</span><span class="push-ipdatetime"> 11/23 12:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">alexyen0606</span><span class="f3 push-content">: 幹原來當初就是你！</span><span class="push-ipdatetime"> 11/23 12:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ray81712</span><span class="f3 push-content">: 推實驗精神，原Po都說這不是要發論文了，不知道一堆再</span><span class="push-ipdatetime"> 11/23 12:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TAIWANSEAL</span><span class="f3 push-content">: 體質特殊吧 這樣說的話城市都不能住人了</span><span class="push-ipdatetime"> 11/23 12:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nicayoung</span><span class="f3 push-content">: 一堆能量在傳播，你說有沒有影響</span><span class="push-ipdatetime"> 11/23 12:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ttsieg</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 11/23 12:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ayuELT</span><span class="f3 push-content">: 爛室友</span><span class="push-ipdatetime"> 11/23 12:41
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">tyifgee</span><span class="f3 push-content">: 推實驗精神</span><span class="push-ipdatetime"> 11/23 12:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SSglamr</span><span class="f3 push-content">: 要看人 有些人就是淺眠 環境光或輕微音量都會影響</span><span class="push-ipdatetime"> 11/23 12:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yallowcard</span><span class="f3 push-content">: 我是你室友我會想肛你…</span><span class="push-ipdatetime"> 11/23 12:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">catnip1024</span><span class="f3 push-content">: 有實驗有推，支持更多人拿室友做實驗XD</span><span class="push-ipdatetime"> 11/23 12:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">catnip1024</span><span class="f3 push-content">: 支持更多人拿室友做實驗XD</span><span class="push-ipdatetime"> 11/23 12:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">catv</span><span class="f3 push-content">: 所以會聽到頻率正常的聲音是怎樣？ 很像敲音叉會出現的</span><span class="push-ipdatetime"> 11/23 12:55
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">catv</span><span class="f3 push-content">: 聲音</span><span class="push-ipdatetime"> 11/23 12:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JudgmentLin</span><span class="f3 push-content">: 樣本數太少 重覆不夠啦XD</span><span class="push-ipdatetime"> 11/23 13:00
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iphone20</span><span class="f3 push-content">: 還不快投nature</span><span class="push-ipdatetime"> 11/23 13:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sygnuser</span><span class="f3 push-content">: 推實驗  但請記住是立刻 不是立馬</span><span class="push-ipdatetime"> 11/23 13:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tweence</span><span class="f3 push-content">: 誰來做個控制對照實驗看看</span><span class="push-ipdatetime"> 11/23 13:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 對了!想再問原PO，這澳洲房間的牆是木造的嗎? 如果是，這</span><span class="push-ipdatetime"> 11/23 13:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jeffych</span><span class="f3 push-content">: 也可部份說明為何在台灣(木造房少)，大家比較沒有感覺</span><span class="push-ipdatetime"> 11/23 13:21
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Iceballz</span><span class="f3 push-content">: 請你朋友不要再嗑藥了,真的很丟臉</span><span class="push-ipdatetime"> 11/23 13:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">milu0666</span><span class="f3 push-content">: 紅明顯其實是 你室友在載片不好意思說，你載24小時影響</span><span class="push-ipdatetime"> 11/23 13:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">milu0666</span><span class="f3 push-content">: 流量所以編個理由騙騙你</span><span class="push-ipdatetime"> 11/23 13:24
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Iceballz</span><span class="f3 push-content">: 一氧化二氫也很毒,少喝一點,有空再把通訊原理拿來重念,2</span><span class="push-ipdatetime"> 11/23 13:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Iceballz</span><span class="f3 push-content">: 類,哭哭</span><span class="push-ipdatetime"> 11/23 13:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">aoiaoi</span><span class="f3 push-content">: 真得很雞○得人耶 就跟你說不要開會影響 還要這樣鬧人</span><span class="push-ipdatetime"> 11/23 13:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deepsmoke</span><span class="f3 push-content">: 電磁波過敏症 Electromagnetic Hypersensitivity,EHS</span><span class="push-ipdatetime"> 11/23 13:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">konemsnq</span><span class="f3 push-content">: 家裡一台可以打到對街的ap 照了我至少三年</span><span class="push-ipdatetime"> 11/23 13:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">konemsnq</span><span class="f3 push-content">: 不看家人鄰居，現在我還能健康的虛文 鄉民覺得呢？</span><span class="push-ipdatetime"> 11/23 13:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xtwkurenai</span><span class="f3 push-content">: 參考看看 <a href="http://goo.gl/343ZhD" target="_blank" rel="nofollow">http://goo.gl/343ZhD</a></span><span class="push-ipdatetime"> 11/23 13:43
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">konemsnq</span><span class="f3 push-content">: 機器在我房間 隔間木造 每天都睡它旁邊 依然健康</span><span class="push-ipdatetime"> 11/23 13:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">heartstrings</span><span class="f3 push-content">: 你有想過你室友的心情嗎XDDD</span><span class="push-ipdatetime"> 11/23 13:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bhis</span><span class="f3 push-content">: 我老家屏東，家中根本沒電腦與wifi。我一回家就睡不著睡不</span><span class="push-ipdatetime"> 11/23 13:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bhis</span><span class="f3 push-content">: 好，因為我認床、枕頭</span><span class="push-ipdatetime"> 11/23 13:48
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yashro</span><span class="f3 push-content">: 個人體質 比較敏感 樣本太少 我上班地點至少破50台AP</span><span class="push-ipdatetime"> 11/23 13:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yashro</span><span class="f3 push-content">: 至今工作十年多 沒啥病 只有體重多了十多公斤T_T</span><span class="push-ipdatetime"> 11/23 13:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">p23j8a4b9z</span><span class="f3 push-content">: 這也可以Ｍ喔 到底在想什麼啊</span><span class="push-ipdatetime"> 11/23 13:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yashro</span><span class="f3 push-content">: 個人感覺有影響的只遇過一次 拿那種室外機的 天線大的跟一</span><span class="push-ipdatetime"> 11/23 13:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">snes9xw</span><span class="f3 push-content">: 感覺很像絕命律師裡面主角他哥</span><span class="push-ipdatetime"> 11/23 13:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BigLarry</span><span class="f3 push-content">: 推  我每次下載時  我爺爺也會說他看到神明來找他聊天</span><span class="push-ipdatetime"> 11/23 13:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">NTPUpigeyes</span><span class="f3 push-content">: 再戰文組300年</span><span class="push-ipdatetime"> 11/23 13:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yashro</span><span class="f3 push-content">: 根日光燈一樣大 而且還是在屏蔽室裡面跑滿功率的</span><span class="push-ipdatetime"> 11/23 13:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">proden</span><span class="f3 push-content">: 你知道有無開下載，他會跟你交流溝通，這不算雙盲</span><span class="push-ipdatetime"> 11/23 14:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gm3252</span><span class="f3 push-content">: 其實你室友是機器人</span><span class="push-ipdatetime"> 11/23 14:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shiounio</span><span class="f3 push-content">: 確實很多人會受影響</span><span class="push-ipdatetime"> 11/23 14:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gigayaya</span><span class="f3 push-content">: 請證明你的室友沒有騙你他睡不好</span><span class="push-ipdatetime"> 11/23 14:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ascii</span><span class="f3 push-content">: 室友免費讓你做人體實驗 你不用給營養費喔?</span><span class="push-ipdatetime"> 11/23 14:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">newforte</span><span class="f3 push-content">: 電池波有嗡嗡聲你們都聽步道ㄇ</span><span class="push-ipdatetime"> 11/23 14:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coollioued</span><span class="f3 push-content">: 你室友是碗豆公主</span><span class="push-ipdatetime"> 11/23 15:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">green001</span><span class="f3 push-content">: 推，既然有人能夠感受到是否有 wifi, 而且影響睡眠, 就</span><span class="push-ipdatetime"> 11/23 15:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">green001</span><span class="f3 push-content">: 不能排除其實 wifi 對人體有一定程度的影響。</span><span class="push-ipdatetime"> 11/23 15:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Gritty5566</span><span class="f3 push-content">: 推，電磁波好恐怖的</span><span class="push-ipdatetime"> 11/23 15:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxlinusNeD</span><span class="f3 push-content">: 推文一堆二類崩潰..沒登期刊不能發文XD</span><span class="push-ipdatetime"> 11/23 15:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xxlinusNeD</span><span class="f3 push-content">: 證明沒有比證明有還困難好嗎，還自稱二類zz</span><span class="push-ipdatetime"> 11/23 15:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxlinusNeD</span><span class="f3 push-content">: 噓實驗過程的有種來一篇證明沒影響的文</span><span class="push-ipdatetime"> 11/23 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wifi</span><span class="f3 push-content">: .......</span><span class="push-ipdatetime"> 11/23 15:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxlinusNeD</span><span class="f3 push-content">: 樓上引戰</span><span class="push-ipdatetime"> 11/23 15:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">plant</span><span class="f3 push-content">: 搞不好是你電腦開下載很吵</span><span class="push-ipdatetime"> 11/23 15:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">defendant</span><span class="f3 push-content">: 真的是爛室友</span><span class="push-ipdatetime"> 11/23 15:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smtp</span><span class="f3 push-content">: 說沒傷害的人, 叫他去住高壓電塔底下看敢不敢...</span><span class="push-ipdatetime"> 11/23 15:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ohlong</span><span class="f3 push-content">: <a href="http://youtu.be/GFX7mRl7xDs" target="_blank" rel="nofollow">http://youtu.be/GFX7mRl7xDs</a></span><span class="push-ipdatetime"> 11/23 16:01
+</span></div><div class="richcontent"><iframe class="youtube-player" type="text/html" width="640" height="385" src="//www.youtube.com/embed/GFX7mRl7xDs" frameborder="0"></iframe></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ohlong</span><span class="f3 push-content">: 連螞蟻都有影響了 對人的影響大小而已</span><span class="push-ipdatetime"> 11/23 16:01
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">feanor0709</span><span class="f3 push-content">: 噓樓上 你是螞蟻上來推文嗎?</span><span class="push-ipdatetime"> 11/23 16:10
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">JACK19920102</span><span class="f3 push-content">: 分享器周圍用仙人掌擺個六芒星陣就沒事了</span><span class="push-ipdatetime"> 11/23 16:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sindu</span><span class="f3 push-content">: lee 4ni?</span><span class="push-ipdatetime"> 11/23 16:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lips14081979</span><span class="f3 push-content">: 一個鬼訊號的概念</span><span class="push-ipdatetime"> 11/23 16:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jay1234524o</span><span class="f3 push-content">: Yruddhdi</span><span class="push-ipdatetime"> 11/23 17:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">justadog</span><span class="f3 push-content">: 阿就有人比較敏感啊，跟吃不太新鮮的蝦子一樣有人會不</span><span class="push-ipdatetime"> 11/23 17:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">justadog</span><span class="f3 push-content">: 舒服有人不會，總之電磁波對人身體會有影響</span><span class="push-ipdatetime"> 11/23 17:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Beetch</span><span class="f3 push-content">: 因為他自己的載很慢 結案</span><span class="push-ipdatetime"> 11/23 18:07
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">konichiwaman</span><span class="f3 push-content">: Zzz</span><span class="push-ipdatetime"> 11/23 18:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bisconect</span><span class="f3 push-content">: 也可能是下載時硬碟運轉頻繁很多所以大聲很多啊</span><span class="push-ipdatetime"> 11/23 18:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">momoisacow</span><span class="f3 push-content">: 沒下載就沒A片可以尻就可以睡得好 我是這樣啦</span><span class="push-ipdatetime"> 11/23 19:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jinn</span><span class="f3 push-content">: 之前也有看過類似的新聞，有些人真的能感覺的到電磁波。</span><span class="push-ipdatetime"> 11/23 19:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">loveazure</span><span class="f3 push-content">: 螞蟻那個是假的</span><span class="push-ipdatetime"> 11/23 20:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">laal</span><span class="f3 push-content">: 人體實驗 XSSSSSSSSSSSSSSSSSSSSSSSSSSSS</span><span class="push-ipdatetime"> 11/23 21:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mikahi</span><span class="f3 push-content">: ah.....竟然拿室友這樣實驗</span><span class="push-ipdatetime"> 11/23 23:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AbbeyJien</span><span class="f3 push-content">:  推</span><span class="push-ipdatetime"> 11/25 02:27
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1448240274.A.E08.html?cacheKey=2052-1253715482&offset=34705&offset-sig=73a68812f58549fcfe0b67def419e9d9248f7b4f" data-longpollurl="/v1/longpoll?id=e31f49bbc79ff0b7ef7a16a8045b1e7367c3213a" data-offset="34705"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+    </body>
+</html>

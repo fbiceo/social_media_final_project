@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		
+
+<meta name="viewport" content="width=device-width">
+
+<title>[爆卦] Android 5 不需密碼就能繞過鎖定畫面 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all" />
+<meta name="keywords" content="Ptt BBS 批踢踢" />
+<meta name="description" content="
+
+Android 5 發現安全漏洞，不需密碼就能繞過鎖定畫面
+http://tinyurl.com/p55ltyj
+
+" />
+<meta property="og:site_name" content="Ptt 批踢踢實業坊" />
+<meta property="og:title" content="[爆卦] Android 5 不需密碼就能繞過鎖定畫面" />
+<meta property="og:description" content="
+
+Android 5 發現安全漏洞，不需密碼就能繞過鎖定畫面
+http://tinyurl.com/p55ltyj
+
+" />
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-common.css" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/pushstream.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-print.css" media="print" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/v2.13/bbs.js"></script>
+
+
+		
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32365737-1']);
+  _gaq.push(['_setDomainName', 'ptt.cc']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1442802302.A.FC2.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Sinreigensou (神靈幻想)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[爆卦] Android 5 不需密碼就能繞過鎖定畫面</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Mon Sep 21 10:24:57 2015</span></div>
+
+Android 5 發現安全漏洞，不需密碼就能繞過鎖定畫面
+<a href="http://tinyurl.com/p55ltyj" target="_blank" rel="nofollow">http://tinyurl.com/p55ltyj</a>
+
+根據美國德州大學（University of Texas at Austin）資訊安全辦公室（Information Security Office）所公布的資料指出，Android作業系統5.0以上的版本存在著能夠繞過鎖定畫面的安全性漏洞，攻擊者可以利用特殊的手法，在不輸入解鎖 密碼的前提下，直接繞過鎖定畫面並操作手機，讓被害者的手機資料受到威脅。
+手機密碼類型多
+
+無論是採用Android或是iOS的智慧型手機與平板電腦，都會具備密碼保護功能，讓裝置的使用者可以自行建立密碼，並將手機的操作權限與內部資料鎖定、加密。基本上密碼的第一關就是鎖定畫面，當手機從待機中喚醒時，系統就會要求使用者輸入密碼，否則就無法操作手機，另一方面，大多數手機也能鎖定各別App的使用權限，以及將通訊錄、照片、文件等資料加密，提高資訊安全性。
+
+使用字串做為密碼是最基本的方式，而Android作業系統也常用圖形鎖（Pattern Lock）進行加密，其基本架構為九宮格布局的9個圓點，使用者可以透過特定型式劃過4至9個圓點做為密碼，而iOS作業系統則因主流裝置都具有指紋掃瞄器，因此不少使用者以指紋作為解鎖的通行證。
+
+
+並非破解，是直接繞過
+
+無論是密碼、圖形鎖還是指紋做為解鎖的鑰匙，要直接破解都不是那麼容易，而且多數手機系統都有在多次嘗試密碼失敗，就會限制一段時間無法再試的機製（比如失敗3次之後，需等10分鐘才能再試），增加了破解的耗費時間與困難度。
+
+不過美國德州大學資訊安全辦公室就公布了新的破解手法，能讓攻擊者在不知道Android裝置密碼的情況下，繞過鎖定畫面直接操作手機。這個破解手法適用於Android 5.0與5.1等版本，攻擊方式如下：
+
+1. 在裝置的鎖定畫面中開啟緊急撥號（Emergency Dialer）功能，並隨意輸入數字或符號，並用複製貼上的方式填滿欄位。
+
+2. 複製最終的長串字串
+
+3. 在鎖定螢幕中啟用相機App。
+
+4. 拉下通知中心，點選設定圖示，這時候會要求輸入密碼。
+
+5. 將先前複製的字串不斷貼上至密碼欄位，直到系統當機並重回相機App。
+
+6. 回到相機App後，等到相機當機，就能繞過鎖定，進入系統主畫面。
+
+Google已經針對這個安全性漏洞，釋出了Nexus系列裝置的OTA更新檔，使用者在接受到通知後最好能夠馬上更新。至於其他Android裝置的使用者，可能還需要等待各廠商釋出更新檔，這段期間要小心手機不要被有心人士以此方式繞過安全鎖定。
+
+--
+
+yoyodiy表示：
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 220.130.36.2
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1442802302.A.FC2.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1442802302.A.FC2.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">meredith001</span><span class="f3 push-content">: 原來YOYO最近那麼低調</span><span class="push-ipdatetime"> 09/21 10:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">linceass</span><span class="f3 push-content">: 感謝yoyodiy大大的程式</span><span class="push-ipdatetime"> 09/21 10:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ben91125</span><span class="f3 push-content">: 腿了</span><span class="push-ipdatetime"> 09/21 10:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WestStTeen56</span><span class="f3 push-content">: yoyodiy謝謝你造福人類</span><span class="push-ipdatetime"> 09/21 10:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a27588679</span><span class="f3 push-content">: yoyodiy 表示：</span><span class="push-ipdatetime"> 09/21 10:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ask5566</span><span class="f3 push-content">: 沒我的事 繼續用潮牌蘋果</span><span class="push-ipdatetime"> 09/21 10:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jma306</span><span class="f3 push-content">:  又被YOYO破解了  慘</span><span class="push-ipdatetime"> 09/21 10:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pengjoker</span><span class="f3 push-content">: 感謝yoyodiy大大的程式</span><span class="push-ipdatetime"> 09/21 10:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tasogare</span><span class="f3 push-content">: ios9表示無壓力</span><span class="push-ipdatetime"> 09/21 10:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jun1981</span><span class="f3 push-content">: yoyo password bypass</span><span class="push-ipdatetime"> 09/21 10:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">XperiaAcroS</span><span class="f3 push-content">: 這標題我還以為....</span><span class="push-ipdatetime"> 09/21 10:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iXXXXGAY5566</span><span class="f3 push-content">: 幹 推文 出現yoyodiy 今晚我讓郭雪芙 搖到縮陽</span><span class="push-ipdatetime"> 09/21 10:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sleep123</span><span class="f3 push-content">: yoyodiy</span><span class="push-ipdatetime"> 09/21 10:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a0913</span><span class="f3 push-content">: 鎖定螢幕沒有相機的沒這煩惱XD</span><span class="push-ipdatetime"> 09/21 10:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">faven1024</span><span class="f3 push-content">: 沒再用密碼  沒插XD</span><span class="push-ipdatetime"> 09/21 10:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ricrollp</span><span class="f3 push-content">: yoyodiy</span><span class="push-ipdatetime"> 09/21 10:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YU0158</span><span class="f3 push-content">: yoyodiy太神啦</span><span class="push-ipdatetime"> 09/21 10:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Comebuy</span><span class="f3 push-content">: yoyodiy</span><span class="push-ipdatetime"> 09/21 10:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">TDKnight</span><span class="f3 push-content">: 直接繞過才是yoyodiy的中心思想 rar檔和手機都是</span><span class="push-ipdatetime"> 09/21 10:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rhyne</span><span class="f3 push-content">: yoyodiy果然是台灣圖靈</span><span class="push-ipdatetime"> 09/21 10:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iXXXXGAY5566</span><span class="f3 push-content">:                                          垃圾</span><span class="push-ipdatetime"> 09/21 10:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roea68roea68</span><span class="f3 push-content">: 台灣之光yoyodiy</span><span class="push-ipdatetime"> 09/21 10:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zero128</span><span class="f3 push-content">: 站內信又要爆了 繞過rar 馬賽克之後新作</span><span class="push-ipdatetime"> 09/21 10:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">netsphere</span><span class="f3 push-content">: 偷學yoyodiy的技術</span><span class="push-ipdatetime"> 09/21 10:33
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Stern</span><span class="f3 push-content">: 目前動態》不在站上 《私人信箱》有新進信件還沒看</span><span class="push-ipdatetime"> 09/21 10:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Drunken5566</span><span class="f3 push-content">: yoyodiy技術領先數年</span><span class="push-ipdatetime"> 09/21 10:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f051372</span><span class="f3 push-content">: 太神啦yoyodiy</span><span class="push-ipdatetime"> 09/21 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">higameboy</span><span class="f3 push-content">: 並非破解，是直接繞過 yoyo引領世界潮流</span><span class="push-ipdatetime"> 09/21 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">voyhanxu</span><span class="f3 push-content">: yoyodiy：我都繞過rar密碼了，美國人還在殺豬公 Zzz</span><span class="push-ipdatetime"> 09/21 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">access7310</span><span class="f3 push-content">: 偷學yoyodiy的技術</span><span class="push-ipdatetime"> 09/21 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sd7621155</span><span class="f3 push-content">: Yoyodiy太神啦</span><span class="push-ipdatetime"> 09/21 10:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wmw2157</span><span class="f3 push-content">: 又是yoyo大,太強啦</span><span class="push-ipdatetime"> 09/21 10:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DarkerDuck</span><span class="f3 push-content">: yoyodiy十年前就會了</span><span class="push-ipdatetime"> 09/21 10:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">xzcb2008</span><span class="f3 push-content">: 誰會用密碼鎖啦</span><span class="push-ipdatetime"> 09/21 10:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">matrox323</span><span class="f3 push-content">: yoyodiy就是神</span><span class="push-ipdatetime"> 09/21 10:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wwvvkai</span><span class="f3 push-content">: yoyodiy果然神</span><span class="push-ipdatetime"> 09/21 10:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">meowchen</span><span class="f3 push-content">: yoyodiy名不虛傳</span><span class="push-ipdatetime"> 09/21 10:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">miracle1215</span><span class="f3 push-content">: 信箱又要爆了XDDDDD</span><span class="push-ipdatetime"> 09/21 10:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">PlayStation3</span><span class="f3 push-content">: yoyodiy超強</span><span class="push-ipdatetime"> 09/21 10:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cy601john</span><span class="f3 push-content">: yoyodiy太神啦</span><span class="push-ipdatetime"> 09/21 10:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kasparov</span><span class="f3 push-content">: 哈哈哈哈哈哈</span><span class="push-ipdatetime"> 09/21 10:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sellgd</span><span class="f3 push-content">: 看起來像是安卓設計人員的後門</span><span class="push-ipdatetime"> 09/21 10:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Goog1e</span><span class="f3 push-content">: 這篇好幾天前的新聞了 都已經修正了</span><span class="push-ipdatetime"> 09/21 10:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nicehsing</span><span class="f3 push-content">: yoyo叔 台灣之光</span><span class="push-ipdatetime"> 09/21 10:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bernon</span><span class="f3 push-content">: yoyodiy真的神,連續寄了好幾個星期,終於收到最新版本</span><span class="push-ipdatetime"> 09/21 10:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kodato</span><span class="f3 push-content">: 大師說太多人煩他，一不爽就寄Email給Google請他們修正這</span><span class="push-ipdatetime"> 09/21 10:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kodato</span><span class="f3 push-content">: 個漏洞的</span><span class="push-ipdatetime"> 09/21 10:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SuperUp</span><span class="f3 push-content">: 寄✉要有誠意 不然不給你呦</span><span class="push-ipdatetime"> 09/21 10:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qweertyui891</span><span class="f3 push-content">: 感恩 yoyodiy讚嘆 yoyodiy</span><span class="push-ipdatetime"> 09/21 10:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">q0000hcc</span><span class="f3 push-content">: 不愧是台灣之光</span><span class="push-ipdatetime"> 09/21 10:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuorobo14</span><span class="f3 push-content">: 偉哉yoyodiy</span><span class="push-ipdatetime"> 09/21 10:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dehors</span><span class="f3 push-content">: yoyodiy力作 連google都怕</span><span class="push-ipdatetime"> 09/21 10:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aquawill</span><span class="f3 push-content">: 臺灣圖靈！臺灣圖靈！臺灣圖靈！臺灣圖靈！臺灣圖靈！</span><span class="push-ipdatetime"> 09/21 10:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rockhotdog</span><span class="f3 push-content">: yoyo!!!!太神拉</span><span class="push-ipdatetime"> 09/21 10:46
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">gta42012</span><span class="f3 push-content">: Yoyodiy早就會了</span><span class="push-ipdatetime"> 09/21 10:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jones2011</span><span class="f3 push-content">: yoyodiy超強</span><span class="push-ipdatetime"> 09/21 10:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ironkyoater</span><span class="f3 push-content">: Yoyodiy持續讓程式進化</span><span class="push-ipdatetime"> 09/21 10:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tp950016</span><span class="f3 push-content">: yoyodiy早就會了</span><span class="push-ipdatetime"> 09/21 10:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">godpiger5566</span><span class="f3 push-content">: yoyo幾年前就會了 台灣之光</span><span class="push-ipdatetime"> 09/21 10:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roger51306</span><span class="f3 push-content">: yoyo大真的太神啦</span><span class="push-ipdatetime"> 09/21 10:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kinki999</span><span class="f3 push-content">: 偉哉yoyodiy 讚嘆yoyodiy</span><span class="push-ipdatetime"> 09/21 10:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joey123xd</span><span class="f3 push-content">: \yoyodiy/</span><span class="push-ipdatetime"> 09/21 10:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RS232</span><span class="f3 push-content">: yoyodiy大的新作品嗎 太低調了啦都沒通知</span><span class="push-ipdatetime"> 09/21 10:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eeuse1</span><span class="f3 push-content">: 真的可以@@</span><span class="push-ipdatetime"> 09/21 10:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qwerrty</span><span class="f3 push-content">: yoyodiy大 領先全世界啊</span><span class="push-ipdatetime"> 09/21 10:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AlexKarev</span><span class="f3 push-content">: 弱 yoyodiy連ios都繞過啦</span><span class="push-ipdatetime"> 09/21 10:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zz59743p6</span><span class="f3 push-content">: yoyodiy太~神~啦~~~~~~~~~~~</span><span class="push-ipdatetime"> 09/21 11:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pisser</span><span class="f3 push-content">: yoyoyoyoyooyoyoyoyooyoyoooooo</span><span class="push-ipdatetime"> 09/21 11:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mpyhacct0443</span><span class="f3 push-content">: Yoyo大太神啦</span><span class="push-ipdatetime"> 09/21 11:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">baddad</span><span class="f3 push-content">: 有笑有推</span><span class="push-ipdatetime"> 09/21 11:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">joeyben</span><span class="f3 push-content">: yoyodiy大大 真強</span><span class="push-ipdatetime"> 09/21 11:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">suileen</span><span class="f3 push-content">: XDDDDDDDD</span><span class="push-ipdatetime"> 09/21 11:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YAMALUBE</span><span class="f3 push-content">: Yoyodiy太神啦</span><span class="push-ipdatetime"> 09/21 11:16
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">yoyoman001</span><span class="f3 push-content">: 她還在睡啦</span><span class="push-ipdatetime"> 09/21 11:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shenmue1001</span><span class="f3 push-content">: 只要有誠意yoyo大就會給繞過密碼的</span><span class="push-ipdatetime"> 09/21 11:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">isaccrick</span><span class="f3 push-content">: 感謝yoyodiy大大</span><span class="push-ipdatetime"> 09/21 11:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dend930037</span><span class="f3 push-content">: 感謝yoyo大大的程式我解壓縮都繞過密碼了</span><span class="push-ipdatetime"> 09/21 11:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sikadear</span><span class="f3 push-content">: 原來yoyodiy歸隱山林，是在研發新產品啊</span><span class="push-ipdatetime"> 09/21 11:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fish5123</span><span class="f3 push-content">: yoyo根本破解之神!!</span><span class="push-ipdatetime"> 09/21 11:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fish5123</span><span class="f3 push-content">: 下個目標是ios嗎</span><span class="push-ipdatetime"> 09/21 11:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Ice826</span><span class="f3 push-content">: 感謝yoyo回信給我!!</span><span class="push-ipdatetime"> 09/21 11:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flysonics</span><span class="f3 push-content">: yoyodiy太神啦!!!</span><span class="push-ipdatetime"> 09/21 11:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">erosecs</span><span class="f3 push-content">: 安卓不意外，yoyo你有種破解啊iOS啊</span><span class="push-ipdatetime"> 09/21 12:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jaeomes</span><span class="f3 push-content">: yoyodiy大大！</span><span class="push-ipdatetime"> 09/21 12:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seafire</span><span class="f3 push-content">: 關鍵字繞過</span><span class="push-ipdatetime"> 09/21 12:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rabbit19264</span><span class="f3 push-content">: 感恩 yoyodiy讚嘆 yoyodiy</span><span class="push-ipdatetime"> 09/21 12:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amethystboy</span><span class="f3 push-content">: 謝謝yoyodiy大大無私的分享</span><span class="push-ipdatetime"> 09/21 12:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxc85918zxc</span><span class="f3 push-content">: yoyodiy太神啦</span><span class="push-ipdatetime"> 09/21 12:40
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Jmoe</span><span class="f3 push-content">: 舊文囉</span><span class="push-ipdatetime"> 09/21 12:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">organ63521</span><span class="f3 push-content">: 未看先猜YOYODIY</span><span class="push-ipdatetime"> 09/21 12:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">organ63521</span><span class="f3 push-content">: 幹 還真的</span><span class="push-ipdatetime"> 09/21 12:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qmaper</span><span class="f3 push-content">: 繞過!!!!</span><span class="push-ipdatetime"> 09/21 12:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">prkfcpr</span><span class="f3 push-content">: 寄信給yoyodiy大大，還要排隊等密碼喔</span><span class="push-ipdatetime"> 09/21 12:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oioio9887</span><span class="f3 push-content">: yoyodiy名揚國際，台灣之光，讚!</span><span class="push-ipdatetime"> 09/21 13:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kensues</span><span class="f3 push-content">: yoyodiy：</span><span class="push-ipdatetime"> 09/21 13:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Aeryzephyr</span><span class="f3 push-content">: yoyodiy光收專利費就可免工作吃喝好幾輩子了</span><span class="push-ipdatetime"> 09/21 14:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">FB5566</span><span class="f3 push-content">: yoyodiy：他們在爭什麼？</span><span class="push-ipdatetime"> 09/21 14:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Siu</span><span class="f3 push-content">: 靠貼上貼到當掉 要貼多久?</span><span class="push-ipdatetime"> 09/21 15:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">debris</span><span class="f3 push-content">: 並非破解  而是繞過  進入yoyodiy的八奇思考領域</span><span class="push-ipdatetime"> 09/21 16:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mocca000</span><span class="f3 push-content">: 菜鳥們快寄站內信給yoyodiy要程式 超實用的</span><span class="push-ipdatetime"> 09/21 16:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ludan7972</span><span class="f3 push-content">: yoyo大最近可能改研究繞過ios系統 想要的板有可以寄信</span><span class="push-ipdatetime"> 09/21 17:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ludan7972</span><span class="f3 push-content">: 跟他要 不過要有誠意</span><span class="push-ipdatetime"> 09/21 17:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">deathsman</span><span class="f3 push-content">: 我上次蘋果手機忘記密碼 也是寫信請yoyodiy幫忙的</span><span class="push-ipdatetime"> 09/21 17:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VANDAS</span><span class="f3 push-content">: yoyodiy真厲害！！</span><span class="push-ipdatetime"> 09/22 00:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sadfasdf</span><span class="f3 push-content">: oyoyyooyyoyooydidiyidiydiydy</span><span class="push-ipdatetime"> 09/22 15:43
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1442802302.A.FC2.html?cacheKey=2052-1219767453&offset=12935&offset-sig=bcdc43f6ccb01474a1acfa80b200a247ceb81dde" data-longpollurl="/v1/longpoll?id=e557d9330e4d1563f63f08908fada76db7500bf1" data-offset="12935"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+    </body>
+</html>

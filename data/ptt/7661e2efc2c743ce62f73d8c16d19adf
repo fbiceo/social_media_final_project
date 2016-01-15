@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		
+
+<meta name="viewport" content="width=device-width">
+
+<title>[ＦＢ] 鉛管分佈地圖初版上線 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all" />
+<meta name="keywords" content="Ptt BBS 批踢踢" />
+<meta name="description" content="
+臉書網址： https://goo.gl/CiS7Kv
+
+畫面截圖： http://kiang.github.io/lead_pipes/og_image.png
+
+" />
+<meta property="og:site_name" content="Ptt 批踢踢實業坊" />
+<meta property="og:title" content="[ＦＢ] 鉛管分佈地圖初版上線" />
+<meta property="og:description" content="
+臉書網址： https://goo.gl/CiS7Kv
+
+畫面截圖： http://kiang.github.io/lead_pipes/og_image.png
+
+" />
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-common.css" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/pushstream.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-print.css" media="print" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/v2.13/bbs.js"></script>
+
+
+		
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32365737-1']);
+  _gaq.push(['_setDomainName', 'ptt.cc']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1445456534.A.8F3.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">olctw (k.olc.tw)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[ＦＢ] 鉛管分佈地圖初版上線</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Oct 22 03:42:09 2015</span></div>
+臉書網址： <a href="https://goo.gl/CiS7Kv" target="_blank" rel="nofollow">https://goo.gl/CiS7Kv</a>
+
+畫面截圖： <a href="http://kiang.github.io/lead_pipes/og_image.png" target="_blank" rel="nofollow">http://kiang.github.io/lead_pipes/og_image.png</a>
+<div class="richcontent"><img src="http://kiang.github.io/lead_pipes/og_image.png" alt="" /></div>
+鉛管分佈地圖 ( <a href="http://kiang.github.io/lead_pipes/" target="_blank" rel="nofollow">http://kiang.github.io/lead_pipes/</a> )上線了
+
+目前只有新聞所揭露的台北市自來水鉛管清冊資料，依據這份資料繪製了分佈地圖，希望
+讓人們可以快速得知地理分佈情況。
+
+目前資料的闕漏還很多，只是有個初步的雛型先放上網路提供作為參考，期望相關單位能
+夠釋出更完整的資料，讓大家可以早點知道生活周遭的鉛管分佈情況。
+
+---
+
+注意事項
+
+* 目前是依據台北市自來水鉛管清冊中的道路名稱繪製，僅為方便檢索清冊資訊
+* 資料透過 OpenStreetMap Nominatim 進行配對，預期會有闕漏情況
+* 道路範圍由 OpenStreetMap 提供，內容是網友參與繪製，僅供參考
+
+---
+
+文字版本清冊可以參考下面資料來源連結，不知道有沒有人要提供其他縣市的資料？ ;)
+
+--
+kiang
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 203.69.90.100
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1445456534.A.8F3.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1445456534.A.8F3.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ytcytc</span><span class="f3 push-content">: 意外很多別意外</span><span class="push-ipdatetime"> 10/22 03:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KJK5566</span><span class="f3 push-content">: 遍佈全台北了啊</span><span class="push-ipdatetime"> 10/22 03:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: $都18%去了！台灣基礎建設根本都沒進步</span><span class="push-ipdatetime"> 10/22 03:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">easyfish</span><span class="f3 push-content">: 噫</span><span class="push-ipdatetime"> 10/22 03:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pilifonbao</span><span class="f3 push-content">: 推,幹政府。</span><span class="push-ipdatetime"> 10/22 03:47
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">ironstomach</span><span class="f3 push-content">: 台北市柯P不用負責嗎</span><span class="push-ipdatetime"> 10/22 03:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thyme51244</span><span class="f3 push-content">: 推原PO</span><span class="push-ipdatetime"> 10/22 03:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: 台北市都這樣了！其他縣市？只是沒人去掀開罷了吧！</span><span class="push-ipdatetime"> 10/22 03:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KangSuat</span><span class="f3 push-content">: 還沒看到其他地區的，只好鴕鳥一下</span><span class="push-ipdatetime"> 10/22 03:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tomchow76</span><span class="f3 push-content">: 全台北市幾乎都淪陷啦~</span><span class="push-ipdatetime"> 10/22 03:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leahcim72197</span><span class="f3 push-content">: 其他縣市有嗎?</span><span class="push-ipdatetime"> 10/22 03:50
+</span></div>
+依據新聞是說全台都有，只是目前只有北市的資料可以取得
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: 叫新北先比照辦理啊！</span><span class="push-ipdatetime"> 10/22 03:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: 新北在他隔壁，不用比照辦理嗎？</span><span class="push-ipdatetime"> 10/22 03:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">toddyu</span><span class="f3 push-content">: 開啟大挖路時代，以前好像有個路平專案?</span><span class="push-ipdatetime"> 10/22 03:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">thyme51244</span><span class="f3 push-content">: 鉛管剩下苗栗縣、宜蘭縣及花蓮縣</span><span class="push-ipdatetime"> 10/22 03:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">creative</span><span class="f3 push-content">: 這就是open data 的力量</span><span class="push-ipdatetime"> 10/22 03:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LAKobeBryant</span><span class="f3 push-content">: 主要都在台北市</span><span class="push-ipdatetime"> 10/22 03:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">thyme51244</span><span class="f3 push-content">: <a href="http://goo.gl/2x9xEy" target="_blank" rel="nofollow">http://goo.gl/2x9xEy</a></span><span class="push-ipdatetime"> 10/22 03:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LAKobeBryant</span><span class="f3 push-content">: 3萬多戶 3萬戶在台北</span><span class="push-ipdatetime"> 10/22 03:56
+</span></div>
+有點擔心的是，台北市之所以會有那麼多資料是因為普查工作落實，其他縣市是否真的只
+有六千多戶我會覺得懷疑。以路樹來說，全台也只有台北有完整的建檔，其他縣市大多是
+自由心證的。
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">thyme51244</span><span class="f3 push-content">: 苗栗民主聖地～ 石虎好吃!!</span><span class="push-ipdatetime"> 10/22 03:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KangSuat</span><span class="f3 push-content">: 只有影響這麼多戶?</span><span class="push-ipdatetime"> 10/22 03:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LAKobeBryant</span><span class="f3 push-content">: 我猜是歷史因素</span><span class="push-ipdatetime"> 10/22 04:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LAKobeBryant</span><span class="f3 push-content">: 日本時代留下來的東西</span><span class="push-ipdatetime"> 10/22 04:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LAKobeBryant</span><span class="f3 push-content">: 那時候不知道鉛對人體會有影響</span><span class="push-ipdatetime"> 10/22 04:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LAKobeBryant</span><span class="f3 push-content">: 然而台北又是主要開發的區域</span><span class="push-ipdatetime"> 10/22 04:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: 自來水公司真的會誠實地告訴我們全省的鉛管狀況嗎？</span><span class="push-ipdatetime"> 10/22 04:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wsx26997785</span><span class="f3 push-content">: 房價會跌嗎!!!</span><span class="push-ipdatetime"> 10/22 04:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Cold5566</span><span class="f3 push-content">: 不易外</span><span class="push-ipdatetime"> 10/22 04:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">creative</span><span class="f3 push-content">: 台灣水費太低廉,沒有錢換水管,然後就拖著</span><span class="push-ipdatetime"> 10/22 04:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oplk</span><span class="f3 push-content">: 各種分布圖出來,接著只關心對房價的影響,就知道要跌很難惹ㄦ</span><span class="push-ipdatetime"> 10/22 04:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">creative</span><span class="f3 push-content">: 然後漏水率高,旱災喊缺水,要調整水價又出來靠北</span><span class="push-ipdatetime"> 10/22 04:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LAKobeBryant</span><span class="f3 push-content">: 漏水率高你要看跟誰比</span><span class="push-ipdatetime"> 10/22 04:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">creative</span><span class="f3 push-content">: 反正就是這種輪迴,台北市KMT時代都喝了16年,沒有差啦</span><span class="push-ipdatetime"> 10/22 04:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: 水費太低。 我們有繳稅吧？</span><span class="push-ipdatetime"> 10/22 04:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LAKobeBryant</span><span class="f3 push-content">: 不只16年好嗎</span><span class="push-ipdatetime"> 10/22 04:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LAKobeBryant</span><span class="f3 push-content">: 應該有個六七十年</span><span class="push-ipdatetime"> 10/22 04:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wsdykssj</span><span class="f3 push-content">: 一條路很長，資料寫的長度很短，地圖怎麼知道從哪開始畫</span><span class="push-ipdatetime"> 10/22 04:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wsdykssj</span><span class="f3 push-content">: ?</span><span class="push-ipdatetime"> 10/22 04:15
+</span></div>
+目前是直接標示整個路段，因為揭露的資訊只有到路段
+
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zarono1</span><span class="f3 push-content">: 我家前沒中...但從源頭來我看全台北都中了</span><span class="push-ipdatetime"> 10/22 04:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">creative</span><span class="f3 push-content">: 台灣自來水漏水率18%,日本3.1%</span><span class="push-ipdatetime"> 10/22 04:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">losel</span><span class="f3 push-content">: 照這地圖來看只有三萬戶？ 這怎麼畫的</span><span class="push-ipdatetime"> 10/22 04:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hckjg123</span><span class="f3 push-content">: 這只有三萬 別騙了好不好</span><span class="push-ipdatetime"> 10/22 04:22
+</span></div>
+請參考注意事項，目前地圖跟實際分佈會有明顯差距，主要是原始資料問題
+
+<div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">HAHAcomet</span><span class="f3 push-content">: 柯P上台前沒聽過有鉛管 他一上任馬上就搞出來荼毒市民</span><span class="push-ipdatetime"> 10/22 04:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HAHAcomet</span><span class="f3 push-content">: 為了他一個人來做爽官 害慘了多少市民</span><span class="push-ipdatetime"> 10/22 04:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">losel</span><span class="f3 push-content">: 我看了資料清冊，你分布地圖很有問題，金湖路只有四公尺</span><span class="push-ipdatetime"> 10/22 04:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">losel</span><span class="f3 push-content">: 你卻整條都畫，資料闕漏很多就不用硬上了，沒有意義</span><span class="push-ipdatetime"> 10/22 04:24
+</span></div>
+總是比在文字清冊中找尋路段容易些，相關單位不願意公佈只能夠這樣子硬上了 ;)
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">creative</span><span class="f3 push-content">: 對啊,鉛管都是柯埋的,kmt 16年喝鉛水搞到失智了</span><span class="push-ipdatetime"> 10/22 04:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">creative</span><span class="f3 push-content">: 換管費用是台灣自來水公司要編列預算的,水費低(沒收入)</span><span class="push-ipdatetime"> 10/22 04:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">creative</span><span class="f3 push-content">: 怎麼敢列費用支出呢? 換管這種對於政治人物根本是吃力</span><span class="push-ipdatetime"> 10/22 04:28
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">losel</span><span class="f3 push-content">: 還有像松河街只有標示三公尺，可是你怎麼知道是前段還後段</span><span class="push-ipdatetime"> 10/22 04:28
+</span></div>
+目前是只要有資料就整條標示
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">creative</span><span class="f3 push-content">: 不討好的工作,跨年晚會比較high啊,所以沒有人盯就擺爛啊</span><span class="push-ipdatetime"> 10/22 04:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">creative</span><span class="f3 push-content">: 有繳稅是一回事,政府間各部門的錢能否挪用又是一回事</span><span class="push-ipdatetime"> 10/22 04:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">whitefox</span><span class="f3 push-content">: 永和在2009全面換過了</span><span class="push-ipdatetime"> 10/22 04:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: 所以水公司幾十年都虧損嗎？</span><span class="push-ipdatetime"> 10/22 04:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">HBK66</span><span class="f3 push-content">: 9.2認為鉛管是柯p埋的..</span><span class="push-ipdatetime"> 10/22 04:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">creative</span><span class="f3 push-content">: <a href="https://goo.gl/Cbwkth" target="_blank" rel="nofollow">https://goo.gl/Cbwkth</a>  2013虧7E 2012虧5E</span><span class="push-ipdatetime"> 10/22 04:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: 那之前幾十年都虧錢嗎？有盈餘的時候錢去哪裡了呢？</span><span class="push-ipdatetime"> 10/22 04:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: 有盈餘的時候，錢沒有存起來嗎？</span><span class="push-ipdatetime"> 10/22 04:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: 不是應該要有盈餘的時候，把往後的維修保養基金存起來嗎</span><span class="push-ipdatetime"> 10/22 04:40
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: ？</span><span class="push-ipdatetime"> 10/22 04:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">StockVirtual</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 10/22 04:42
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">creative</span><span class="f3 push-content">: 現在政府還是負債,水費那麼低怎麼有盈餘?</span><span class="push-ipdatetime"> 10/22 04:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: 那以前的幾十年都是虧錢的嗎？</span><span class="push-ipdatetime"> 10/22 04:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: 真難相信水公司從2、3、40年，全都是虧錢的啊！</span><span class="push-ipdatetime"> 10/22 04:48
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: 20、30、40年來都是虧錢的！</span><span class="push-ipdatetime"> 10/22 04:49
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">creative</span><span class="f3 push-content">: s866217 你有時間出張嘴,不會自己去找嗎?</span><span class="push-ipdatetime"> 10/22 04:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">creative</span><span class="f3 push-content">: 公開資訊 動動你的手</span><span class="push-ipdatetime"> 10/22 04:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: 我又不知道這是公開資訊！我還以為你是自來水公司派來的</span><span class="push-ipdatetime"> 10/22 04:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s866217</span><span class="f3 push-content">: 你自己要回應的@@我又沒拿槍逼你回答@@</span><span class="push-ipdatetime"> 10/22 04:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Luffi</span><span class="f3 push-content">: 天龍國人:</span><span class="push-ipdatetime"> 10/22 05:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">awaro</span><span class="f3 push-content">: 可以向台北自來水處詢問路段喔!</span><span class="push-ipdatetime"> 10/22 05:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amethystboy</span><span class="f3 push-content">: 我要成為 鉛筆人</span><span class="push-ipdatetime"> 10/22 05:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stoxin</span><span class="f3 push-content">: 對照文字資料不只這些??</span><span class="push-ipdatetime"> 10/22 05:47
+</span></div>
+用來檢索的圖資也是民眾參與建置的(openstreetmap)，有些是沒有人貢獻，歡迎進入編輯
+介面幫忙畫地圖
+
+<div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stoxin</span><span class="f3 push-content">: 家裡水管可能不是鉛管  可是感覺水流過來之前都會經過鉛管</span><span class="push-ipdatetime"> 10/22 05:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rickk</span><span class="f3 push-content">: 台北根本第三世界</span><span class="push-ipdatetime"> 10/22 05:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">stoxin</span><span class="f3 push-content">: 鉛龍國@@</span><span class="push-ipdatetime"> 10/22 05:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">losel</span><span class="f3 push-content">: 不要看地圖啦，看地圖以為全台北淪陷，去看資料清冊就知道</span><span class="push-ipdatetime"> 10/22 06:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">losel</span><span class="f3 push-content">: 一些路段只有3、4公尺，地圖卻畫到半條路，你怎知道起終點</span><span class="push-ipdatetime"> 10/22 06:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">agong</span><span class="f3 push-content">: 賣水廠商：賺翻了</span><span class="push-ipdatetime"> 10/22 06:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">skyringcha</span><span class="f3 push-content">: 只有台北市公布，其他縣市都在裝死！</span><span class="push-ipdatetime"> 10/22 06:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Syoshinsya</span><span class="f3 push-content">: 有個黑名單明顯喝鉛水喝到失智了 XDDDDDDD</span><span class="push-ipdatetime"> 10/22 06:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vipgk2002</span><span class="f3 push-content">: 早期管線超難找的，五大管線都一樣，圖只是參考</span><span class="push-ipdatetime"> 10/22 06:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xyyx0524</span><span class="f3 push-content">: 鉛龍國，難怪總統腦袋…</span><span class="push-ipdatetime"> 10/22 07:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AMPHIBIA</span><span class="f3 push-content">: 正常啦 台灣只是反攻大陸的基地 幹麻用心建設</span><span class="push-ipdatetime"> 10/22 07:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nekogogogo2</span><span class="f3 push-content">: 另類打房  good</span><span class="push-ipdatetime"> 10/22 07:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ytw8216</span><span class="f3 push-content">: 靠杯 根本全中</span><span class="push-ipdatetime"> 10/22 07:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zirconium</span><span class="f3 push-content">: 要進口更多外勞來改善管線惹</span><span class="push-ipdatetime"> 10/22 08:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">polyasia</span><span class="f3 push-content">: 有繳稅..  可是稅都給退休軍公教拿走啦</span><span class="push-ipdatetime"> 10/22 08:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sharkimage</span><span class="f3 push-content">: 真的只有這些？</span><span class="push-ipdatetime"> 10/22 08:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blackone979</span><span class="f3 push-content">: 有些部份雖然只有幾公尺 但是你沒把路挖開根本不知道</span><span class="push-ipdatetime"> 10/22 08:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blackone979</span><span class="f3 push-content">: 鉛管埋在哪一段 而且也不會因為鉛管埋在街頭 街尾就</span><span class="push-ipdatetime"> 10/22 08:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blackone979</span><span class="f3 push-content">: 喝不到鉛水 整條路畫很正常</span><span class="push-ipdatetime"> 10/22 08:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mackyou</span><span class="f3 push-content">: 推 原po</span><span class="push-ipdatetime"> 10/22 08:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Handway</span><span class="f3 push-content">: 難怪台北都死忠kmt</span><span class="push-ipdatetime"> 10/22 08:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">GGXXVenom</span><span class="f3 push-content">: 樓上你忘了大同區是台北市綠大於藍的地方</span><span class="push-ipdatetime"> 10/22 08:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SiFox</span><span class="f3 push-content">: 恐怖的地方就在這，鉛管只要在源頭，管你多遠全部中獎</span><span class="push-ipdatetime"> 10/22 08:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">airmike</span><span class="f3 push-content">: 某些推文天真又嘴</span><span class="push-ipdatetime"> 10/22 08:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dirubest</span><span class="f3 push-content">: 呼 沒我家</span><span class="push-ipdatetime"> 10/22 09:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stu872124553</span><span class="f3 push-content">: 比捷運路網還密集</span><span class="push-ipdatetime"> 10/22 09:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coollonger</span><span class="f3 push-content">: 幹 中獎</span><span class="push-ipdatetime"> 10/22 09:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yu0117</span><span class="f3 push-content">: 這跟政黨支持度傾向簡直成正比..........</span><span class="push-ipdatetime"> 10/22 09:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">udm</span><span class="f3 push-content">: 原來如此，用鉛管供應臺大、師大等等體系，這就是我國的善意</span><span class="push-ipdatetime"> 10/22 10:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 10/22 10:29
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">polomax</span><span class="f3 push-content">: 水費那麼低 還想喝品質好的水 一堆刁民</span><span class="push-ipdatetime"> 10/22 10:29
+</span></div><span class="f2">※ </span><span class="f2 hl">lopoko</span><span class="f2">:轉錄至看板 Zhongshan</span>                                     10/22 10:42
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lopoko</span><span class="f3 push-content">: 還好有用Brita...</span><span class="push-ipdatetime"> 10/22 10:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Syoshinsya</span><span class="f3 push-content">: 有沒有人有興趣做個鉛管分佈跟投票藍綠比的地圖 XD</span><span class="push-ipdatetime"> 10/22 11:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a77942002</span><span class="f3 push-content">: 鉛會導致智力受損 難怪.....鐵票區!!</span><span class="push-ipdatetime"> 10/22 11:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hibemi776</span><span class="f3 push-content">: 什麼..難怪苗栗一堆.....</span><span class="push-ipdatetime"> 10/22 12:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">momoisacow</span><span class="f3 push-content">: 錯怪689了 我家沒有 難怪沒投過kmt</span><span class="push-ipdatetime"> 10/22 13:23
+</span></div><span class="f2">※ 編輯: olctw (203.69.90.100), 10/22/2015 13:41:22
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dian9</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 10/22 14:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CYL009</span><span class="f3 push-content">: XDDDDDDDDDD  這樣台北不就全都有了嗎  幾乎都黑的</span><span class="push-ipdatetime"> 10/22 19:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">CYL009</span><span class="f3 push-content">: 唯一比較白的就是松山機場XDDDDDDDDDDDDD</span><span class="push-ipdatetime"> 10/22 19:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aalittle</span><span class="f3 push-content">: 新北也有</span><span class="push-ipdatetime"> 10/22 20:26
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1445456534.A.8F3.html?cacheKey=2052-1266879478&offset=13168&offset-sig=6cc4b678939a784c27e62bed8a2f3031a65ede94" data-longpollurl="/v1/longpoll?id=bc802f0876d3b0336b8f9749ef9ef6e57ccc75db" data-offset="13168"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+    </body>
+</html>

@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		
+
+<meta name="viewport" content="width=device-width">
+
+<title>[問卦] 有沒有ＳＳＤ壽命的八卦 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all" />
+<meta name="keywords" content="Ptt BBS 批踢踢" />
+<meta name="description" content="
+http://www.newmobilelife.com/2015/03/13/6-ssd-endurance-test-ended/
+
+2015三月
+
+" />
+<meta property="og:site_name" content="Ptt 批踢踢實業坊" />
+<meta property="og:title" content="[問卦] 有沒有ＳＳＤ壽命的八卦" />
+<meta property="og:description" content="
+http://www.newmobilelife.com/2015/03/13/6-ssd-endurance-test-ended/
+
+2015三月
+
+" />
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-common.css" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/pushstream.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-print.css" media="print" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/v2.13/bbs.js"></script>
+
+
+		
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32365737-1']);
+  _gaq.push(['_setDomainName', 'ptt.cc']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1443032124.A.22A.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">johnny9667 (真 ˙鐵蛆)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[問卦] 有沒有ＳＳＤ壽命的八卦</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Thu Sep 24 02:15:22 2015</span></div>
+<a href="http://www.newmobilelife.com/2015/03/13/6-ssd-endurance-test-ended/" target="_blank" rel="nofollow">http://www.newmobilelife.com/2015/03/13/6-ssd-endurance-test-ended/</a>
+
+2015三月
+
+由這個測試可知，雖然固態硬碟的確擁有壽限，但是其生命力仍然非常頑強
+，即使用家每天寫入 100GB 數據到固態硬碟上
+，要寫滿 700TB 數據也得花 19 年多的時間
+，屆時相信用家早已更換其他儲存媒介了。
+所以一般用家根本無須擔心因 SSD 大限將至而失去重要的資料。
+----------------------------------------------------------
+
+不知道他測試環境溫度和濕度是如何？
+
+以他測試結果看來，我們只要擔心ＳＳＤ溫度和濕度吧。
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 114.35.165.133
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1443032124.A.22A.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1443032124.A.22A.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">john040417</span><span class="f3 push-content">: 晶片一壞直接全壞，壽命？？？</span><span class="push-ipdatetime"> 09/24 02:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flysonics</span><span class="f3 push-content">: 晶片壞就換顆晶片就好啦</span><span class="push-ipdatetime"> 09/24 02:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ayasesayuki</span><span class="f3 push-content">: 正常來說很難壞</span><span class="push-ipdatetime"> 09/24 02:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AV5566</span><span class="f3 push-content">: Xnor</span><span class="push-ipdatetime"> 09/24 02:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lockbolt</span><span class="f3 push-content">: 看轉速</span><span class="push-ipdatetime"> 09/24 02:17
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">spadek89507</span><span class="f3 push-content">: SSD最好有轉速啦</span><span class="push-ipdatetime"> 09/24 02:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">roffyo</span><span class="f3 push-content">: 看成sod</span><span class="push-ipdatetime"> 09/24 02:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nightwind209</span><span class="f3 push-content">: 這測試只是跟你說寫SSD不容易被&#34;寫壞&#34; 但沒跟你提電</span><span class="push-ipdatetime"> 09/24 02:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">flysonics</span><span class="f3 push-content">: 要讓SSD壽命增長 一定要靠磁碟重組</span><span class="push-ipdatetime"> 09/24 02:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nightwind209</span><span class="f3 push-content">: 子元件更容易壞XD</span><span class="push-ipdatetime"> 09/24 02:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">youthyeh</span><span class="f3 push-content">: 5樓XD</span><span class="push-ipdatetime"> 09/24 02:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zhttp</span><span class="f3 push-content">: ssd壽命根本沒有想像中低 倒是hdd運氣不好的話很快就gg惹</span><span class="push-ipdatetime"> 09/24 02:21
+</span></div>HDD壽命真的蠻低的，我電腦最先壞也是HDD，大概只能用兩三年而已，其他都可以用很久
+<span class="f2">※ 編輯: johnny9667 (114.35.165.133), 09/24/2015 02:23:53
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">oway15</span><span class="f3 push-content">: 我的SSD多半都維持在8000轉左右，有時候會小熱血拉到萬轉</span><span class="push-ipdatetime"> 09/24 02:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">oway15</span><span class="f3 push-content">: 順便清積碳</span><span class="push-ipdatetime"> 09/24 02:23
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">wario2014</span><span class="f3 push-content">: 可惜，上面的被動元件可沒這麼長的壽命，不要想太多</span><span class="push-ipdatetime"> 09/24 02:25
+</span></div>什麼被動元件？
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">samule</span><span class="f3 push-content">: SSD拿來下BT 上驢子 超好用~</span><span class="push-ipdatetime"> 09/24 02:25
+</span></div>現在想到以前一堆謠言說ＳＳＤ用ＢＴ很傷，就覺得好笑，因為根本用不完啊
+<div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">discoveryray</span><span class="f3 push-content">: 還好我每天都磁碟重組來保養我的ssd</span><span class="push-ipdatetime"> 09/24 02:26
+</span></div><span class="f2">※ 編輯: johnny9667 (114.35.165.133), 09/24/2015 02:28:08
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">eva19452002</span><span class="f3 push-content">: 一萬轉的SSD到底出來沒？等很久了</span><span class="push-ipdatetime"> 09/24 02:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">aisitelu</span><span class="f3 push-content">: 用700TB舉例...一般家庭需要那麼大的容量?</span><span class="push-ipdatetime"> 09/24 02:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 現在SSD保固短則3年, 長則5年..用力操就對了!</span><span class="push-ipdatetime"> 09/24 02:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">langeo</span><span class="f3 push-content">: 用了兩年都還沒壞 拿來玩遊戲明顯快很多</span><span class="push-ipdatetime"> 09/24 02:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">likeshit</span><span class="f3 push-content">: MAXTOR的SSD很大聲 儘量避開</span><span class="push-ipdatetime"> 09/24 02:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">langeo</span><span class="f3 push-content">: 我的hdd反而還比ssd先壞 同時間買的用了一年多就壞了</span><span class="push-ipdatetime"> 09/24 02:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DBSS</span><span class="f3 push-content">: 當系統碟就好啦 壞掉了不起重灌而已</span><span class="push-ipdatetime"> 09/24 02:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zhttp</span><span class="f3 push-content">: SSD很大聲  是什麼東西在出聲?</span><span class="push-ipdatetime"> 09/24 02:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">langeo</span><span class="f3 push-content">: 最近看電蝦版感覺SSD越來越便宜了 想再買一個</span><span class="push-ipdatetime"> 09/24 02:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zhttp</span><span class="f3 push-content">: 說ssd壽命短 根本就是hdd廠商的陰謀</span><span class="push-ipdatetime"> 09/24 02:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">forRITZ</span><span class="f3 push-content">: 萬轉的SSD很吃電 裝一顆 POWER大概要用600W的</span><span class="push-ipdatetime"> 09/24 02:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iceyeman</span><span class="f3 push-content">: 就有人買到良率差的牌子呀.....呵呵</span><span class="push-ipdatetime"> 09/24 02:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DBSS</span><span class="f3 push-content">: SSD要越普及越便宜才好  讓HDD如卡式錄音帶般送入歷史灰燼</span><span class="push-ipdatetime"> 09/24 02:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zhttp</span><span class="f3 push-content">: 今天剛看到三星剛出了新的 950 pro感覺很厲害 也沒想像中貴</span><span class="push-ipdatetime"> 09/24 02:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DBSS</span><span class="f3 push-content">: intel的SSD不是最快 但品質穩定又五年保  建議系統碟裝這顆</span><span class="push-ipdatetime"> 09/24 02:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">langeo</span><span class="f3 push-content">: Hdd就便宜而已 用過ssd後已經無法忍受開機超過10秒以上</span><span class="push-ipdatetime"> 09/24 02:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">frontnf</span><span class="f3 push-content">: 磁碟重組 XDDDDDDDDDDDDDDDDDDDDDDDDDD</span><span class="push-ipdatetime"> 09/24 02:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kis28519</span><span class="f3 push-content">: 樓下SSD有壞軌</span><span class="push-ipdatetime"> 09/24 02:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s9209122222</span><span class="f3 push-content">: 等便宜的2TSSD蹷F再說</span><span class="push-ipdatetime"> 09/24 03:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tentaikanso</span><span class="f3 push-content">: 樓上怎麼知道，我一拆開連讀取頭都彈出來～</span><span class="push-ipdatetime"> 09/24 03:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">s9209122222</span><span class="f3 push-content">: 等便宜的 2TB SSD 出了再說</span><span class="push-ipdatetime"> 09/24 03:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hangar18</span><span class="f3 push-content">: 我的SSD還是IDE的 裝在我的486主機上20年了都沒壞</span><span class="push-ipdatetime"> 09/24 03:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wasijohn</span><span class="f3 push-content">: 壽命是長，但東西會不見有個屁用啊</span><span class="push-ipdatetime"> 09/24 03:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mercury0625</span><span class="f3 push-content">: 各種釣魚XD</span><span class="push-ipdatetime"> 09/24 03:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MirageAngel</span><span class="f3 push-content">: 各種鮮知XXXXXXXXXXXXXXXXXDDDDDDDDDDDDDDDDDDDDDDDD</span><span class="push-ipdatetime"> 09/24 03:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lockbolt</span><span class="f3 push-content">: 用它出的時間停止器延長使用壽命</span><span class="push-ipdatetime"> 09/24 03:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Bimatow</span><span class="f3 push-content">: 推文真是靠背又好笑</span><span class="push-ipdatetime"> 09/24 03:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Orzer</span><span class="f3 push-content">: SSD轉速高，只要每天早晚定時磁碟重組SSD，可以用很久。</span><span class="push-ipdatetime"> 09/24 04:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">saiulbb</span><span class="f3 push-content">: 版友好壞 不知道的會被唬XD</span><span class="push-ipdatetime"> 09/24 04:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yafx4200p</span><span class="f3 push-content">: 重要是防震 ssd要裝隔震綿 能延長壽命</span><span class="push-ipdatetime"> 09/24 04:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hero613</span><span class="f3 push-content">: 我的SSD是插IDE排線，比較不容易故障你參考。</span><span class="push-ipdatetime"> 09/24 04:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Warez</span><span class="f3 push-content">: 我的SSD加電壓讀寫明顯變快了</span><span class="push-ipdatetime"> 09/24 04:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ygupin</span><span class="f3 push-content">: SSD起碼都兩萬轉以上，不然怎屌打HDD</span><span class="push-ipdatetime"> 09/24 04:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sazaby</span><span class="f3 push-content">: 買到不好的ssd會挑片</span><span class="push-ipdatetime"> 09/24 04:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maysh</span><span class="f3 push-content">: SSD好像要定期翻面放維持讀寫平衡，放45度最好</span><span class="push-ipdatetime"> 09/24 04:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nwkasim</span><span class="f3 push-content">: 不懂的人會被推文騙XDDD</span><span class="push-ipdatetime"> 09/24 04:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nardus</span><span class="f3 push-content">: SSD要長命，記得要添加油精，常常拉拉轉排碳(疑?)</span><span class="push-ipdatetime"> 09/24 04:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">REITA0122</span><span class="f3 push-content">: 幹 一堆反串</span><span class="push-ipdatetime"> 09/24 05:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lockbolt</span><span class="f3 push-content">: 轉速太高時要記得換檔以免過熱</span><span class="push-ipdatetime"> 09/24 05:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ReadyToRock</span><span class="f3 push-content">: 我的SSD轉速一萬三千轉會斷油，後來我改了電腦解除</span><span class="push-ipdatetime"> 09/24 05:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ghjkl1478</span><span class="f3 push-content">: 硬碟我固定2年換一次 剛好擴充空間 舊碟當備份 爽吱吱</span><span class="push-ipdatetime"> 09/24 05:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ctes940008</span><span class="f3 push-content">: 轉那麼快要不要冰箱降溫（我來亂的）</span><span class="push-ipdatetime"> 09/24 05:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">stoneofsea</span><span class="f3 push-content">: 定期重組保證ssd健康才是最重要的</span><span class="push-ipdatetime"> 09/24 05:50
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">LsugerI</span><span class="f3 push-content">: 被動元件HDD也有啊…不然光幾片機械元件在那是能用膩</span><span class="push-ipdatetime"> 09/24 06:09
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">crazysinger</span><span class="f3 push-content">: SSD又不能重組</span><span class="push-ipdatetime"> 09/24 06:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">perasa</span><span class="f3 push-content">: 我都用yoyo大的程式，把傳統硬碟改成固態SSD，不用改晶片</span><span class="push-ipdatetime"> 09/24 06:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">perasa</span><span class="f3 push-content">: ，直接用程式改，效能還能跟SSD互尬…</span><span class="push-ipdatetime"> 09/24 06:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">AMPHIBIA</span><span class="f3 push-content">: 現在都有10年保了</span><span class="push-ipdatetime"> 09/24 06:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tim855042</span><span class="f3 push-content">: yoyo再度中槍XDDDDDDD</span><span class="push-ipdatetime"> 09/24 06:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qxpbyd</span><span class="f3 push-content">: 幫yoyo低調</span><span class="push-ipdatetime"> 09/24 06:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">klu001</span><span class="f3 push-content">: Yoyo：幹SSD也有我的事</span><span class="push-ipdatetime"> 09/24 07:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">klu001</span><span class="f3 push-content">: 對了mac可以智慧調整SSD的轉速，所以過熱或是SATA跟IDE不</span><span class="push-ipdatetime"> 09/24 07:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">klu001</span><span class="f3 push-content">: 相容這類的事情比較不會發生，不懂的人可以參考一下</span><span class="push-ipdatetime"> 09/24 07:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">r0930</span><span class="f3 push-content">: 推文是怎樣XDDDDDDDDDD</span><span class="push-ipdatetime"> 09/24 07:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">APPLEin5566</span><span class="f3 push-content">: 幹 我快被推文笑死XDDDDDDDDDD</span><span class="push-ipdatetime"> 09/24 07:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tass</span><span class="f3 push-content">: 說磁碟重組的不要害死ssd啊</span><span class="push-ipdatetime"> 09/24 07:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Tass</span><span class="f3 push-content">: yoyo XDDDDDD</span><span class="push-ipdatetime"> 09/24 07:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jerry88838</span><span class="f3 push-content">: 謝謝各位大大 我還以為我的20000轉SSD是買到假貨</span><span class="push-ipdatetime"> 09/24 07:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilovekai</span><span class="f3 push-content">: 我每1萬公里保養一次，機油改加0W40後SSD輕鬆拉萬轉</span><span class="push-ipdatetime"> 09/24 08:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coldlian</span><span class="f3 push-content">: 看到磁碟重組跟轉速 我還以為我看錯…</span><span class="push-ipdatetime"> 09/24 08:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ogcman</span><span class="f3 push-content">: 推文是要誤導多少人XD</span><span class="push-ipdatetime"> 09/24 08:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nopolon</span><span class="f3 push-content">: 一堆人反串。。。挺幽默的</span><span class="push-ipdatetime"> 09/24 08:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">htalent</span><span class="f3 push-content">: SSD轉速太高，真的會建議先更換乾式離合器壓板材抓得住</span><span class="push-ipdatetime"> 09/24 08:25
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">msn31912</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 09/24 08:26
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">adm123</span><span class="f3 push-content">: YOYO大大的程式，可以讓資料繞過傳統硬體傳輸路徑直達目標</span><span class="push-ipdatetime"> 09/24 08:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ascii</span><span class="f3 push-content">: 怎麼三更半夜不睡覺 一大堆白爛推文...</span><span class="push-ipdatetime"> 09/24 08:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">F31fd</span><span class="f3 push-content">: 我還以為真的要磁碟重組........</span><span class="push-ipdatetime"> 09/24 08:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nt2013</span><span class="f3 push-content">: 推文好先進</span><span class="push-ipdatetime"> 09/24 08:37
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">id</span><span class="f3 push-content">: 廢文</span><span class="push-ipdatetime"> 09/24 08:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jefery5630</span><span class="f3 push-content">: 計劃性汰舊。。。。</span><span class="push-ipdatetime"> 09/24 08:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sing10407</span><span class="f3 push-content">: 八卦版寧願慢也不需要無法救援的ssd</span><span class="push-ipdatetime"> 09/24 08:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">knust</span><span class="f3 push-content">: 還在用SSD都直接插USB直達CPU了啦  那來的二戰技術</span><span class="push-ipdatetime"> 09/24 08:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">billabcddog</span><span class="f3 push-content">: 我聽5樓的把它拆掉重組，這樣真的會比較快嗎？</span><span class="push-ipdatetime"> 09/24 09:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ayasesayuki</span><span class="f3 push-content">: 真的有八卦肥宅會花好幾萬去救援A片嗎？</span><span class="push-ipdatetime"> 09/24 09:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">HyDroGen2528</span><span class="f3 push-content">: 拉轉直接上萬 過熱重組一下就好了 怎麼可能壞</span><span class="push-ipdatetime"> 09/24 09:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DVW</span><span class="f3 push-content">: 怕是說測試的都有挑過，實際你買到的會發生甚麼很難說</span><span class="push-ipdatetime"> 09/24 09:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iMail</span><span class="f3 push-content">: 我都自行DIY水冷在SSD上面</span><span class="push-ipdatetime"> 09/24 09:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">saul17</span><span class="f3 push-content">: SSD不可重組 越亂越健康...</span><span class="push-ipdatetime"> 09/24 10:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tcogs</span><span class="f3 push-content">: 看著躺在桌上的intel 80G SSD...誰說壽命長的!!!!</span><span class="push-ipdatetime"> 09/24 10:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">frostshots</span><span class="f3 push-content">: SSD的聲音超大聲der~~~ &gt;&lt;</span><span class="push-ipdatetime"> 09/24 10:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iinanwan</span><span class="f3 push-content">: 我都用大4pin轉sata接SSD提高轉速</span><span class="push-ipdatetime"> 09/24 10:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">taiwan5566</span><span class="f3 push-content">: 我看SOD都開1.5倍速 這樣速度算快嗎</span><span class="push-ipdatetime"> 09/24 11:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yellowboy</span><span class="f3 push-content">: 推文別害人阿XD</span><span class="push-ipdatetime"> 09/24 11:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wingsfly</span><span class="f3 push-content">: 在SSD上面加裝CPU的水冷風扇，壽命可以增加十年的樣子…</span><span class="push-ipdatetime"> 09/24 12:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Beetch</span><span class="f3 push-content">: 我的SSD都不走SATA，改走PCI-E，用起來跟</span><span class="push-ipdatetime"> 09/24 14:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nwkasim</span><span class="f3 push-content">: K牌的SSD因為有滑動式離合器，從千轉小拉到萬轉時很好用</span><span class="push-ipdatetime"> 09/24 18:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">malindorothy</span><span class="f3 push-content">: 怎麼就是沒有人懂5400rpm的SSD有多好</span><span class="push-ipdatetime"> 09/24 18:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">malindorothy</span><span class="f3 push-content">: 每年省下來的電量都夠你再買一顆</span><span class="push-ipdatetime"> 09/24 18:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">perasa</span><span class="f3 push-content">: SSD明明是走RS232的好嗎…何時改走PCI-E了……</span><span class="push-ipdatetime"> 09/24 18:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">blueway1014</span><span class="f3 push-content">: SSD有聲音要先除靈,他媽你家鬧鬼XDDD</span><span class="push-ipdatetime"> 09/24 20:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">xxlinusNeD</span><span class="f3 push-content">: 破萬轉的SSD已經出一段時間了吧，只是缺貨</span><span class="push-ipdatetime"> 09/24 20:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">blueway1014</span><span class="f3 push-content">: 只好配合一下 我家的SSD走1394</span><span class="push-ipdatetime"> 09/24 20:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pig0038</span><span class="f3 push-content">: 看成SOD使用壽命</span><span class="push-ipdatetime"> 09/24 20:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">e10343</span><span class="f3 push-content">: 一堆反串超好笑！！</span><span class="push-ipdatetime"> 09/24 22:22
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1443032124.A.22A.html?cacheKey=2052-1383466039&offset=12314&offset-sig=d65333e593573502f4da1416fc7aa835d60fa051" data-longpollurl="/v1/longpoll?id=69147e6843f89106c1c0f3a778340812f472858d" data-offset="12314"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+    </body>
+</html>

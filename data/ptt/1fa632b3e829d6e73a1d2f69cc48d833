@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		
+
+<meta name="viewport" content="width=device-width">
+
+<title>[爆卦] 颱風災情資料表 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all" />
+<meta name="keywords" content="Ptt BBS 批踢踢" />
+<meta name="description" content="
+大家好，我是 Rickz。
+
+六年前的這個晚上，我和 Shadow 兩個人，一個負責主機，一個負責網頁
+程式撰寫，花了幾個小時把「莫拉克災情資料表」網站生出來。
+" />
+<meta property="og:site_name" content="Ptt 批踢踢實業坊" />
+<meta property="og:title" content="[爆卦] 颱風災情資料表" />
+<meta property="og:description" content="
+大家好，我是 Rickz。
+
+六年前的這個晚上，我和 Shadow 兩個人，一個負責主機，一個負責網頁
+程式撰寫，花了幾個小時把「莫拉克災情資料表」網站生出來。
+" />
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-common.css" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/pushstream.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-print.css" media="print" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/v2.13/bbs.js"></script>
+
+
+		
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32365737-1']);
+  _gaq.push(['_setDomainName', 'ptt.cc']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1438978946.A.B80.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">Rickz (Rickz)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[爆卦] 颱風災情資料表</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Sat Aug  8 04:22:23 2015</span></div>
+大家好，我是 Rickz。
+
+六年前的這個晚上，我和 Shadow 兩個人，一個負責主機，一個負責網頁
+程式撰寫，花了幾個小時把「莫拉克災情資料表」網站生出來。
+
+今年，看到颱風最低氣壓曾有到 900 hPa，代表這是強度非常強的颱風，
+又看到了賽班島被颱風侵襲的照片，大樹被拉起、電線桿被吹斷、卡車也
+被吹翻。在島上居然測得最高風速為時速 354 公里。
+
+眼看著這個颱風雖然減弱到 930 hPa，但仍然是非常強的颱風，加上路線
+完完全全就是衝著整個台灣本島來的。週五下午看到超大豪雨警特報居然
+佔了台灣面積的一半，就問 Shadow「這一次要做嗎？」，Shadow 一口就
+答應。
+
+花了數個小時在修改網頁程式，並加上了幾個智慧型手機可以用的功能，
+例如在回報時，可直接使用手機拍照立即上傳，也可從相簿中選擇照片。
+另外，也可以直接用手機上的瀏覽器，點頁面上的電話號碼就可以直接撥
+號給對方。請點選以下網址︰
+
+<a href="http://typhoon.oooo.tw/" target="_blank" rel="nofollow">http://typhoon.oooo.tw/</a>
+
+我是中部人，現在住在台北，這個颱風真的和以前遇到的不太一樣，現在
+凌晨兩點，窗外只能用鬼哭狼嚎來形容，剛被吹斷一棵樹，聲音非常大，
+大樓也被強風吹到會搖晃，以為是自已頭暈了，看了水杯才發現不是。
+
+剛看中央氣象局的網頁，超大豪雨警特報居然佔了台灣百分之百的面積，
+特別是山區的居民，超大豪雨就是身處危險之中，請大家提高警覺，希望
+每一個人都能平安的度過這個颱風。
+
+Rickz
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 61.228.38.237
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1438978946.A.B80.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1438978946.A.B80.html</a>
+</span><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeff781217</span><span class="f3 push-content">: 感謝推</span><span class="push-ipdatetime"> 08/08 04:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Noopsfilm</span><span class="f3 push-content">: !</span><span class="push-ipdatetime"> 08/08 04:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">delphi1989</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lemontw</span><span class="f3 push-content">: 辛苦了！</span><span class="push-ipdatetime"> 08/08 04:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">willywu1011</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 08/08 04:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">abbyu41827</span><span class="f3 push-content">: 感謝大大</span><span class="push-ipdatetime"> 08/08 04:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lyc33</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">catv</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">leon1309</span><span class="f3 push-content">: 感謝推</span><span class="push-ipdatetime"> 08/08 04:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">widec</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">loopjk</span><span class="f3 push-content">: 辛苦了！推</span><span class="push-ipdatetime"> 08/08 04:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qazed123</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lilybeian</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">isiyou</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ionchips</span><span class="f3 push-content">: 推  謝謝</span><span class="push-ipdatetime"> 08/08 04:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sad0soul</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 08/08 04:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">wendycandy</span><span class="f3 push-content">: 感謝大大</span><span class="push-ipdatetime"> 08/08 04:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a258558</span><span class="f3 push-content">: 熱心推</span><span class="push-ipdatetime"> 08/08 04:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kokoUo</span><span class="f3 push-content">: 佛心來著的！謝謝</span><span class="push-ipdatetime"> 08/08 04:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hcybb</span><span class="f3 push-content">: 推推 謝謝你！！！</span><span class="push-ipdatetime"> 08/08 04:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aa1</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zuozuomu</span><span class="f3 push-content">: 辛苦了！！！</span><span class="push-ipdatetime"> 08/08 04:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cherry1027</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s85411</span><span class="f3 push-content">: 謝謝你辛苦了！</span><span class="push-ipdatetime"> 08/08 04:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">KillerMoDo</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 08/08 04:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NCUbighead</span><span class="f3 push-content">: 辛苦了，感謝推</span><span class="push-ipdatetime"> 08/08 04:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">unicorn45</span><span class="f3 push-content">: 感謝推！</span><span class="push-ipdatetime"> 08/08 04:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bk945043</span><span class="f3 push-content">: 感謝您</span><span class="push-ipdatetime"> 08/08 04:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zxc1223</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ymx3xc</span><span class="f3 push-content">: 辛苦了 感謝</span><span class="push-ipdatetime"> 08/08 04:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">withou</span><span class="f3 push-content">: 謝謝</span><span class="push-ipdatetime"> 08/08 04:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ts01000884</span><span class="f3 push-content">: 推一個</span><span class="push-ipdatetime"> 08/08 04:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Gre327</span><span class="f3 push-content">: 感謝</span><span class="push-ipdatetime"> 08/08 04:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jessicakard</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qaz3089</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cdop29</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">orangeplay</span><span class="f3 push-content">: 辛苦你了，希望台灣大家都平安</span><span class="push-ipdatetime"> 08/08 04:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BigCat</span><span class="f3 push-content">: 幫高調</span><span class="push-ipdatetime"> 08/08 04:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fullmetals</span><span class="f3 push-content">: 感謝推！</span><span class="push-ipdatetime"> 08/08 04:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RadicalEvil</span><span class="f3 push-content">: 辛苦了 感謝</span><span class="push-ipdatetime"> 08/08 04:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vm6uwu6</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">YESGOTO</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fbigary</span><span class="f3 push-content">: 謝謝！</span><span class="push-ipdatetime"> 08/08 04:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ilyforever</span><span class="f3 push-content">: 感謝！</span><span class="push-ipdatetime"> 08/08 04:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">z24862258</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coffee777</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NesKeG</span><span class="f3 push-content">: 推用心</span><span class="push-ipdatetime"> 08/08 04:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yogira</span><span class="f3 push-content">: 推薦這篇文章</span><span class="push-ipdatetime"> 08/08 04:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Yelnats28</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rick94112</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yu0117</span><span class="f3 push-content">: 感謝推，讓這篇高調</span><span class="push-ipdatetime"> 08/08 04:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">riddle2050</span><span class="f3 push-content">: 高調推 天祐台灣</span><span class="push-ipdatetime"> 08/08 04:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pirson</span><span class="f3 push-content">: 推推 辛苦了</span><span class="push-ipdatetime"> 08/08 04:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yixuanchao</span><span class="f3 push-content">: 好感人 謝謝</span><span class="push-ipdatetime"> 08/08 04:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">popo30202</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">caesst85149</span><span class="f3 push-content">: 如果17級以上有再繼續分 時速354公里可能是25級風</span><span class="push-ipdatetime"> 08/08 04:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jimmy791223</span><span class="f3 push-content">: 推啊</span><span class="push-ipdatetime"> 08/08 04:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ul6na</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kokohu</span><span class="f3 push-content">: 感謝推</span><span class="push-ipdatetime"> 08/08 04:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">logus999</span><span class="f3 push-content">: 辛苦了！！</span><span class="push-ipdatetime"> 08/08 04:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hans1461</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jrjeff</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leox243</span><span class="f3 push-content">: Great Job!!</span><span class="push-ipdatetime"> 08/08 04:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ryuuki</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ddreamer</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shdopeoplesn</span><span class="f3 push-content">: 謝謝!</span><span class="push-ipdatetime"> 08/08 04:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yhhdfd</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">myy1025</span><span class="f3 push-content">: 感謝推</span><span class="push-ipdatetime"> 08/08 04:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yenlingchen</span><span class="f3 push-content">: 感謝推！！</span><span class="push-ipdatetime"> 08/08 04:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vamyhun</span><span class="f3 push-content">: 幫高調</span><span class="push-ipdatetime"> 08/08 04:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gene1014</span><span class="f3 push-content">: 辛苦了！</span><span class="push-ipdatetime"> 08/08 04:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">h70575</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chris7</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 08/08 04:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ninono160</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MII9u</span><span class="f3 push-content">: 推 謝謝</span><span class="push-ipdatetime"> 08/08 04:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">joloucow</span><span class="f3 push-content">: 推推 很有心 感謝</span><span class="push-ipdatetime"> 08/08 04:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sofari</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yuxiang</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tcp</span><span class="f3 push-content">: 謝謝你</span><span class="push-ipdatetime"> 08/08 04:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Sing0703</span><span class="f3 push-content">: 辛苦了！</span><span class="push-ipdatetime"> 08/08 04:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunnyjane</span><span class="f3 push-content">: 辛苦了!</span><span class="push-ipdatetime"> 08/08 04:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Kaoru1011</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ghostketone</span><span class="f3 push-content">: 推 感謝</span><span class="push-ipdatetime"> 08/08 04:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aisu399</span><span class="f3 push-content">: 推 感謝</span><span class="push-ipdatetime"> 08/08 04:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fransiceyho</span><span class="f3 push-content">: 推有心</span><span class="push-ipdatetime"> 08/08 04:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lioujason</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lisznhan</span><span class="f3 push-content">: 真有心，大推</span><span class="push-ipdatetime"> 08/08 04:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cucusow</span><span class="f3 push-content">: 感謝</span><span class="push-ipdatetime"> 08/08 04:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shinoda</span><span class="f3 push-content">: 推～辛苦了！</span><span class="push-ipdatetime"> 08/08 04:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roy2monu</span><span class="f3 push-content">: 半夜爬起來看家裡災情…推</span><span class="push-ipdatetime"> 08/08 04:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ooyy5566</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">PTTymarch</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Micso</span><span class="f3 push-content">: 辛苦了！</span><span class="push-ipdatetime"> 08/08 04:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">likefeel</span><span class="f3 push-content">: 推！</span><span class="push-ipdatetime"> 08/08 04:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chungyiju</span><span class="f3 push-content">: 用心推</span><span class="push-ipdatetime"> 08/08 04:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cloudy99</span><span class="f3 push-content">: 感謝推  希望都平安無事</span><span class="push-ipdatetime"> 08/08 04:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">folin</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mirabellee</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">makki</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SiFox</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tzuchun0214</span><span class="f3 push-content">: 人好好喔  辛苦了  謝謝你們QQ</span><span class="push-ipdatetime"> 08/08 04:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vuncent</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jessicakard</span><span class="f3 push-content">: 高調</span><span class="push-ipdatetime"> 08/08 04:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shivadb</span><span class="f3 push-content">: 睡不著推</span><span class="push-ipdatetime"> 08/08 04:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hank12332</span><span class="f3 push-content">: 讚</span><span class="push-ipdatetime"> 08/08 04:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">NewCygnusXFi</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">akay08</span><span class="f3 push-content">: 推推，謝謝你</span><span class="push-ipdatetime"> 08/08 04:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">BlackBass</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">OldYellowDog</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Maziger</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 08/08 04:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">IchiSenSan</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lapetos</span><span class="f3 push-content">: 幫高調，天佑台灣</span><span class="push-ipdatetime"> 08/08 04:39
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Derek110206</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cj007007</span><span class="f3 push-content">: 願大家平安</span><span class="push-ipdatetime"> 08/08 04:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">manabi</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mike0lee2006</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Abcd123456</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sharkimage</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">nexus10</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ctes940008</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yaieki</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">misae</span><span class="f3 push-content">: 謝謝你</span><span class="push-ipdatetime"> 08/08 04:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">runner0206</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shiar6918</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vimeo</span><span class="f3 push-content">: 推 辛苦了</span><span class="push-ipdatetime"> 08/08 04:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">clisan</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:43
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">july81212</span><span class="f3 push-content">: 辛苦推</span><span class="push-ipdatetime"> 08/08 04:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeremy7986</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">raymondchoi</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">foolsmate</span><span class="f3 push-content">: 推推～辛苦了。</span><span class="push-ipdatetime"> 08/08 04:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vul3ngx</span><span class="f3 push-content">: 感謝推</span><span class="push-ipdatetime"> 08/08 04:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">takao</span><span class="f3 push-content">: 感恩感恩!</span><span class="push-ipdatetime"> 08/08 04:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Lorazin</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dagihhh</span><span class="f3 push-content">: 推!</span><span class="push-ipdatetime"> 08/08 04:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mr23</span><span class="f3 push-content">: 感謝你們</span><span class="push-ipdatetime"> 08/08 04:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sunluna</span><span class="f3 push-content">: 辛苦了!! 謝謝你們的用心!!</span><span class="push-ipdatetime"> 08/08 04:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tsukiyoK</span><span class="f3 push-content">: 推!辛苦了!</span><span class="push-ipdatetime"> 08/08 04:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hagane39</span><span class="f3 push-content">: 推感謝</span><span class="push-ipdatetime"> 08/08 04:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">claireqq</span><span class="f3 push-content">: 感謝</span><span class="push-ipdatetime"> 08/08 04:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lapetos</span><span class="f3 push-content">: 這篇要置底一下吧</span><span class="push-ipdatetime"> 08/08 04:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lesbw</span><span class="f3 push-content">: 謝謝</span><span class="push-ipdatetime"> 08/08 04:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lazygirl0931</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smile61734</span><span class="f3 push-content">: 推!!!辛苦你了!!</span><span class="push-ipdatetime"> 08/08 04:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mkai</span><span class="f3 push-content">: 謝謝！</span><span class="push-ipdatetime"> 08/08 04:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">jevix</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ooonly</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jack0117</span><span class="f3 push-content">: 謝謝 辛苦了</span><span class="push-ipdatetime"> 08/08 04:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lusinda</span><span class="f3 push-content">: 辛苦了  多謝</span><span class="push-ipdatetime"> 08/08 04:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k22941920</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mooncake500</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">johnny6511</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 04:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">harita</span><span class="f3 push-content">: 辛苦了 推</span><span class="push-ipdatetime"> 08/08 04:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ryu057</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 04:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pichu921</span><span class="f3 push-content">: 感謝推，願大家平安度過</span><span class="push-ipdatetime"> 08/08 05:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">HKDW</span><span class="f3 push-content">: 謝謝你 辛苦了</span><span class="push-ipdatetime"> 08/08 05:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">fantasy601</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 05:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">potata</span><span class="f3 push-content">: QAQ感動推</span><span class="push-ipdatetime"> 08/08 05:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">forgetcry66</span><span class="f3 push-content">: 辛苦你了</span><span class="push-ipdatetime"> 08/08 05:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ctimtaml</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 05:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mikachuwo</span><span class="f3 push-content">: 推 謝謝你們</span><span class="push-ipdatetime"> 08/08 05:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jessicakard</span><span class="f3 push-content">: 這篇超重要 應該置底</span><span class="push-ipdatetime"> 08/08 05:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">inzags</span><span class="f3 push-content">: 感謝</span><span class="push-ipdatetime"> 08/08 05:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fc781117</span><span class="f3 push-content">: 辛苦推!!!</span><span class="push-ipdatetime"> 08/08 05:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">retaws</span><span class="f3 push-content">: 感動感謝推</span><span class="push-ipdatetime"> 08/08 05:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">icanfi</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 05:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">eso2</span><span class="f3 push-content">: 感謝</span><span class="push-ipdatetime"> 08/08 05:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sdf611097</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 05:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LiamTiger</span><span class="f3 push-content">: 謝謝你們</span><span class="push-ipdatetime"> 08/08 05:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wlps</span><span class="f3 push-content">: 推！</span><span class="push-ipdatetime"> 08/08 05:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Rabbit19264</span><span class="f3 push-content">: 辛苦了！</span><span class="push-ipdatetime"> 08/08 05:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">silent801105</span><span class="f3 push-content">: 辛苦了！</span><span class="push-ipdatetime"> 08/08 05:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">acatlin</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 05:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">luckiness</span><span class="f3 push-content">: 謝謝你 辛苦了!!</span><span class="push-ipdatetime"> 08/08 05:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">h321123aa</span><span class="f3 push-content">: 強者,辛苦了</span><span class="push-ipdatetime"> 08/08 05:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lucky31</span><span class="f3 push-content">: 感謝您, 辛苦了！</span><span class="push-ipdatetime"> 08/08 05:38
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hwtkj072001</span><span class="f3 push-content">: 感謝推   辛苦了</span><span class="push-ipdatetime"> 08/08 05:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cpcstp</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 05:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aakkdd</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 08/08 06:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">demitri</span><span class="f3 push-content">: 推！</span><span class="push-ipdatetime"> 08/08 06:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sushi123</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 08/08 06:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">peine</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 06:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">WildOnes</span><span class="f3 push-content">: 佛心不能不推!!!!</span><span class="push-ipdatetime"> 08/08 06:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ebear</span><span class="f3 push-content">: 推用心</span><span class="push-ipdatetime"> 08/08 06:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">siriusu</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 06:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tricia1231</span><span class="f3 push-content">: 謝謝你</span><span class="push-ipdatetime"> 08/08 06:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cangming</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 06:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">MEME724</span><span class="f3 push-content">: 謝謝你們，辛苦了</span><span class="push-ipdatetime"> 08/08 06:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">j2059731702</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 06:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">roggerbass</span><span class="f3 push-content">: 被打掛了？</span><span class="push-ipdatetime"> 08/08 07:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ptt123456</span><span class="f3 push-content">: 辛苦了!!!</span><span class="push-ipdatetime"> 08/08 07:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shung0705</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 07:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Titac</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 07:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccdoggy</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 07:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chiayu81</span><span class="f3 push-content">: 用心給推</span><span class="push-ipdatetime"> 08/08 07:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kan2008</span><span class="f3 push-content">: 推大大用心整理</span><span class="push-ipdatetime"> 08/08 07:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">anann</span><span class="f3 push-content">: gj</span><span class="push-ipdatetime"> 08/08 08:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">cv1</span><span class="f3 push-content">: 感謝大大無私分享 台灣最美的風景就是人心</span><span class="push-ipdatetime"> 08/08 08:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">egopop</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 08:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bobsonlin</span><span class="f3 push-content">: 推!!</span><span class="push-ipdatetime"> 08/08 08:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tse1218</span><span class="f3 push-content">: 固的!</span><span class="push-ipdatetime"> 08/08 08:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">prunus</span><span class="f3 push-content">: 感謝推</span><span class="push-ipdatetime"> 08/08 08:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DAVIDQQ</span><span class="f3 push-content">: 辛苦了</span><span class="push-ipdatetime"> 08/08 08:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">suckme</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 09:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">evan81117</span><span class="f3 push-content">: 幫你推！</span><span class="push-ipdatetime"> 08/08 09:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rong0616</span><span class="f3 push-content">: 辛苦了，推！</span><span class="push-ipdatetime"> 08/08 09:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenny945</span><span class="f3 push-content">: 好強大</span><span class="push-ipdatetime"> 08/08 09:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yumemi25</span><span class="f3 push-content">: 感謝你！！</span><span class="push-ipdatetime"> 08/08 09:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sd131420</span><span class="f3 push-content">: 是很棒但是人好少喔= =</span><span class="push-ipdatetime"> 08/08 09:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ryugreen</span><span class="f3 push-content">: 這太強了！</span><span class="push-ipdatetime"> 08/08 09:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">keeyah</span><span class="f3 push-content">: 謝謝你們！</span><span class="push-ipdatetime"> 08/08 09:35
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">alyce36</span><span class="f3 push-content">: 好厲害! 謝謝你們~</span><span class="push-ipdatetime"> 08/08 09:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asole</span><span class="f3 push-content">: 推R大 辛苦了!</span><span class="push-ipdatetime"> 08/08 09:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alwaysmine</span><span class="f3 push-content">: 謝謝大大</span><span class="push-ipdatetime"> 08/08 09:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">faxy</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 08/08 10:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Asucks</span><span class="f3 push-content">: 比行政院更有效率1000倍，讚!</span><span class="push-ipdatetime"> 08/08 10:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lindviorair</span><span class="f3 push-content">: 強</span><span class="push-ipdatetime"> 08/08 10:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wwect</span><span class="f3 push-content">: 推，請加入防災應變中心行列</span><span class="push-ipdatetime"> 08/08 10:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">smonkey</span><span class="f3 push-content">: !!!!</span><span class="push-ipdatetime"> 08/08 10:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kids1991</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 10:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">momogo628</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 08/08 10:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">julia66</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 11:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">renela</span><span class="f3 push-content">: 推！</span><span class="push-ipdatetime"> 08/08 11:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s8402019</span><span class="f3 push-content">: 辛苦推</span><span class="push-ipdatetime"> 08/08 11:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">momoisacow</span><span class="f3 push-content">: 謝謝你 9527</span><span class="push-ipdatetime"> 08/08 11:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 辛苦推 謝謝你</span><span class="push-ipdatetime"> 08/08 12:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s9330830</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 12:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">onelife</span><span class="f3 push-content">: 實用推!</span><span class="push-ipdatetime"> 08/08 13:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">withjusaka</span><span class="f3 push-content">: 好強</span><span class="push-ipdatetime"> 08/08 13:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leelinda321</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 13:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ayugioh2003</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 08/08 14:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">piggyts</span><span class="f3 push-content">: 推！辛苦了</span><span class="push-ipdatetime"> 08/08 15:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">zeldeo</span><span class="f3 push-content">: 謝謝你們!!!</span><span class="push-ipdatetime"> 08/08 15:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">huangmouse</span><span class="f3 push-content">: 謝謝你們！</span><span class="push-ipdatetime"> 08/08 17:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ax0068588440</span><span class="f3 push-content">: 大推</span><span class="push-ipdatetime"> 08/08 19:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Mez</span><span class="f3 push-content">: 這是不是要重點宣傳一下@@</span><span class="push-ipdatetime"> 08/08 20:54
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1438978946.A.B80.html?cacheKey=2052-1134977386&offset=25332&offset-sig=89abb502b8158e9fcb48ca5a87404ad1bd4a1067" data-longpollurl="/v1/longpoll?id=d30e29ed7a81167c85cd930fbe6d663efdd17c0e" data-offset="25332"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+    </body>
+</html>

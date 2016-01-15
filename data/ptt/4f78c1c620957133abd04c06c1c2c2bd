@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		
+
+<meta name="viewport" content="width=device-width">
+
+<title>[新聞] 公車路線「砍掉重練」？北市要用「大數븱 - 看板 Gossiping - 批踢踢實業坊</title>
+<meta name="robots" content="all" />
+<meta name="keywords" content="Ptt BBS 批踢踢" />
+<meta name="description" content="
+風傳媒
+
+2.完整新聞標題:
+公車路線「砍掉重練」？北市要用「大數據」精準規劃
+" />
+<meta property="og:site_name" content="Ptt 批踢踢實業坊" />
+<meta property="og:title" content="[新聞] 公車路線「砍掉重練」？北市要用「大數븱" />
+<meta property="og:description" content="
+風傳媒
+
+2.完整新聞標題:
+公車路線「砍掉重練」？北市要用「大數據」精準規劃
+" />
+
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-common.css" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/pushstream.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="//images.ptt.cc/v2.13/bbs-print.css" media="print" />
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//images.ptt.cc/v2.13/bbs.js"></script>
+
+
+		
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32365737-1']);
+  _gaq.push(['_setDomainName', 'ptt.cc']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	</head>
+    <body>
+		
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="topbar-container">
+	<div id="topbar" class="bbs-content">
+		<a id="logo" href="/">批踢踢實業坊</a>
+		<span>&rsaquo;</span>
+		<a class="board" href="/bbs/Gossiping/index.html"><span class="board-label">看板 </span>Gossiping</a>
+		<a class="right small" href="/about.html">關於我們</a>
+		<a class="right small" href="/contact.html">聯絡資訊</a>
+	</div>
+</div>
+<div id="navigation-container">
+	<div id="navigation" class="bbs-content">
+		<a class="board" href="/bbs/Gossiping/index.html">返回看板</a>
+		<div class="bar"></div>
+		<div class="share">
+			<span>分享</span>
+			<div class="fb-like" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-href="http://www.ptt.cc/bbs/Gossiping/M.1442904606.A.C43.html"></div>
+
+			<div class="g-plusone" data-size="medium"></div>
+<script type="text/javascript">
+window.___gcfg = {lang: 'zh-TW'};
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+
+		</div>
+	</div>
+</div>
+<div id="main-container">
+    <div id="main-content" class="bbs-screen bbs-content"><div class="article-metaline"><span class="article-meta-tag">作者</span><span class="article-meta-value">funkboy (petrucci)</span></div><div class="article-metaline-right"><span class="article-meta-tag">看板</span><span class="article-meta-value">Gossiping</span></div><div class="article-metaline"><span class="article-meta-tag">標題</span><span class="article-meta-value">[新聞] 公車路線「砍掉重練」？北市要用「大數븱</span></div><div class="article-metaline"><span class="article-meta-tag">時間</span><span class="article-meta-value">Tue Sep 22 14:50:03 2015</span></div>
+風傳媒
+
+2.完整新聞標題:
+公車路線「砍掉重練」？北市要用「大數據」精準規劃
+
+
+3.完整新聞內文:
+想到台北市的公車，你會想到什麼問題？是否記不住幾路公車會到達哪裡？
+哪些班次在幹道上會突然轉進巷道內？又或者，根本找不到公車站牌？台
+北市交通局將在2017年進行公車路線大調整，加上公車站牌重新規劃，希
+望能一次解決上述問題，同時打破公車乘車人次的無形天花板。
+
+部分民眾聽到要改變習慣的公車路線，反彈很大，面對外界的質疑聲浪，
+交通局長鍾慧諭也有耳聞，但似乎不影響政策的大方向，公車路線的調整
+已是箭在弦上、不得不發。
+
+
+打造公共運輸網絡 先破除公車使用率天花板
+
+台北市長柯文哲曾經說過，公共運輸將以捷運為骨幹，搭配公車、YouBike
+等輔助性運輸形成公共運輸網絡，還說，若把松山線和萬大線算進去，大
+台北的捷運路網已差不多完工，緊接著就是公車路線的大調整。
+
+鍾慧諭認為，台北公車當前最大的問題是「太複雜」，每天搭公車的人或
+許知道該如何坐車，覺得很方便，但平日沒有坐公車習慣的人，卻有不知
+如何搭乘的困擾，不僅搞不清楚某條路線的公車從哪裡開到哪裡，而公車
+站牌有的在路中間、有的又在路口，常會找不到。
+
+鍾慧諭解釋，或許同時有10輛公車都可以到達目的地，但由於公車路線編
+號凌亂，公車族腦海中只記得 3個公車號碼，剩下 7條路線的公車就是資
+源的浪費，導致公車的使用率遭遇「無形天花板」，對推展公共運輸來說，
+相當不利。
+
+因此，交通局打算抓出台北市內的主要幹線，設計成忠孝幹線、仁愛幹線、
+信義幹線、民生幹線，所謂的幹線，代表公車會在該條路線上走到底，其
+餘路線再以放射狀分散出去，至於要如何散，就要依照當前最紅的「大數
+據」精準計算；這就是鍾慧諭一再強調的，要把公車的「識別度」做出來。
+
+
+公車路線類捷運化 站牌輕鬆找
+
+至於所有的站牌位置，未來也將統一放到交叉路口或特定點上，避免民眾
+找不到站牌，例如：忠孝新生站的公車牌就會放在忠孝東路與新生南路的
+交叉口上，「路口四面望一下，就找得到站牌」。鍾慧諭表示，把公車路
+線安排「類捷運化」，就比較清楚，不過她也坦誠，後年會有一筆不小的
+交通公務預算支出，至於要花多少錢，則還在估算中。
+
+此外，北市將推出類 YouBike營運模式的YouCar，鍾慧諭表示，目前的YouBike
+日周轉率為 8人，也就是 1輛 YouBike， 1天可以給 8個人騎，等於停車
+空間只有 8分之 1，大大減少停車的需求與車輛的自有率，也減少對地球
+資源的消耗，若計入維修管理、空間土地利用的機會成本等，更是划算。
+對於YouCar的日周轉率，交通局希望能做到單日 4到 5人次，因此而減少
+購車、省下來的停車空間，就能用作公共建設、公園綠地等，後續土地帶
+來的價值更不可限量。
+
+
+打破齊頭式補助 中低收入戶免費搭公車
+
+民眾最關心的，還有交通補助要如何調整，鍾慧諭表示，目前民眾搭乘公
+車一段次15元，是政府每段次補助 2.3元給公車業者的結果（公車業者每
+段次需要收17.3元才能維持營運），因此，現階段市府每年必須補貼30億
+元給業者。未來北市府將打破齊頭式補助，中低收入戶傾向搭乘不用錢，
+比照老人、殘障卡，給予固定的搭乘點數；但若冒用悠遊卡，考慮重罰 1
+年不給補助。鍾慧諭說，「寧願初期用高成本去建立制度，也不能因為少
+數人會違法，就抹滅掉好的制度」。
+
+鍾慧諭不諱言，改革想法提出後，遇到很多反彈聲浪，但「面對未來，全
+世界都在跑，自己不願跟上步伐，就會落後」；她說，改革遇到的問題，
+全世界都會遇到，重要的是看到問題、解決問題，若不解決，一直在那裡
+空轉，結果就是落後。
+
+
+
+4.完整新聞連結 (或短網址):
+
+<a href="http://www.storm.mg/article/60421" target="_blank" rel="nofollow">http://www.storm.mg/article/60421</a>
+
+5.備註:
+雖然已經是兩個月前的新聞，但是公共運輸路線收費方式是個很大的改變，但是在八卦版
+較沒有
+人討論有點可惜。相較現在議員質詢一些無關緊要的事，這項政策重要多了
+北市府最近也有開始在招募公車路網規劃的人員
+
+
+--
+Sent from my Android1.媒體來源:
+<span class="f2">※ 例如蘋果日報、奇摩新聞</span>
+
+
+2.完整新聞標題:
+<span class="f2">※ 標題沒有寫出來 ---&gt; 依照板規刪除文章 </span>
+
+
+3.完整新聞內文:
+<span class="f2">※ 社論特稿都不能貼! 違者劣退，貼廣告會被劣喔!</span>
+
+
+4.完整新聞連結 (或短網址):
+<span class="f2">※ 當新聞連結過長時，需提供短網址方便網友點擊</span>
+
+
+5.備註:
+<span class="f2">※ 一個人一天只能張貼一則新聞，被刪或自刪也算額度內，超貼者劣文，請注意</span>
+
+--
+<span class="f2">※ 發信站: 批踢踢實業坊(ptt.cc), 來自: 60.245.65.183
+</span><span class="f2">※ 文章網址: <a href="https://www.ptt.cc/bbs/Gossiping/M.1442904606.A.C43.html" target="_blank" rel="nofollow">https://www.ptt.cc/bbs/Gossiping/M.1442904606.A.C43.html</a>
+</span><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">corlos</span><span class="f3 push-content">: 307車神：</span><span class="push-ipdatetime"> 09/22 14:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kuninaka</span><span class="f3 push-content">: 大數據不是中國用語嗎</span><span class="push-ipdatetime"> 09/22 14:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">TsukimiyaAyu</span><span class="f3 push-content">: 本版不是最愛酸大數據</span><span class="push-ipdatetime"> 09/22 14:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: GG 以後搭公車會瘋掉</span><span class="push-ipdatetime"> 09/22 14:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">c3035281</span><span class="f3 push-content">: 潮</span><span class="push-ipdatetime"> 09/22 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sionxp</span><span class="f3 push-content">: 波卡拉</span><span class="push-ipdatetime"> 09/22 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a8801218</span><span class="f3 push-content">: 不知道就算了，當搭公車的人是什麼，為何要為少數人改。</span><span class="push-ipdatetime"> 09/22 14:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">a8801218</span><span class="f3 push-content">: 。。</span><span class="push-ipdatetime"> 09/22 14:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 改沒必要的路線 全改會蠻奇怪</span><span class="push-ipdatetime"> 09/22 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rayarising</span><span class="f3 push-content">: 689覺醒公民跳腳</span><span class="push-ipdatetime"> 09/22 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">seemoon2000</span><span class="f3 push-content">: 這個如果真的能成功更新上線 真的就滿有感的</span><span class="push-ipdatetime"> 09/22 14:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">logojuju55</span><span class="f3 push-content">: 早就該這樣，這種數據整合本來公務員就要去弄啊= =</span><span class="push-ipdatetime"> 09/22 14:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">Risedo</span><span class="f3 push-content">: 藍綠忙著炒波卡啦 終於抓到一次柯P失誤能不用嗎?</span><span class="push-ipdatetime"> 09/22 14:51
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">nzxc</span><span class="f3 push-content">: 擾民啦 下臺 叭叭</span><span class="push-ipdatetime"> 09/22 14:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mycity</span><span class="f3 push-content">: 請洽bus版</span><span class="push-ipdatetime"> 09/22 14:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 改沒必要的路線就好 全改肯定亂掉</span><span class="push-ipdatetime"> 09/22 14:52
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iXXXXGAY5566</span><span class="f3 push-content">: 幹 讓我們繼續關心波卡</span><span class="push-ipdatetime"> 09/22 14:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">nantou049</span><span class="f3 push-content">: 反正真的要推的時候再找一些里長出來反對就好了</span><span class="push-ipdatetime"> 09/22 14:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Risedo</span><span class="f3 push-content">: 八仙沒人下台啦 貪汙沒人下來啦 一個波卡就要董事會下台</span><span class="push-ipdatetime"> 09/22 14:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">DICB</span><span class="f3 push-content">: 沉默的689.2表示:有沒民調支持</span><span class="push-ipdatetime"> 09/22 14:52
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Risedo</span><span class="f3 push-content">: 愚蠢置極 他們有沒有在議會都無所謂綠營炒波卡三小</span><span class="push-ipdatetime"> 09/22 14:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kininan</span><span class="f3 push-content">: 這個要新北/基隆配合吧?</span><span class="push-ipdatetime"> 09/22 14:53
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 公車為了服務平日不搭的人要大改班次?</span><span class="push-ipdatetime"> 09/22 14:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: 前幾天有新聞，與捷運松山線路線重疊的公車開始減班了</span><span class="push-ipdatetime"> 09/22 14:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 有這種想法的是智障吧</span><span class="push-ipdatetime"> 09/22 14:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fallheart</span><span class="f3 push-content">: 屌，真的全改下去一定超猛的</span><span class="push-ipdatetime"> 09/22 14:53
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 簡單說就是可能你現在公車就能到的地方 以後注定捷運轉</span><span class="push-ipdatetime"> 09/22 14:53
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">mithralin</span><span class="f3 push-content">: 是時候改公車路線了，不然隨著捷運增開公車持續減班</span><span class="push-ipdatetime"> 09/22 14:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 減少捷運重疊路線或者一路線多公司的浪費還勉強算個理由</span><span class="push-ipdatetime"> 09/22 14:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 公車</span><span class="push-ipdatetime"> 09/22 14:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 台北市政府的邏輯：有捷運就好啦 又不是沒捷運</span><span class="push-ipdatetime"> 09/22 14:54
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">handsomlaugh</span><span class="f3 push-content">: 公車族崩潰</span><span class="push-ipdatetime"> 09/22 14:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Invec</span><span class="f3 push-content">: 先把飆車和違規駕駛次數多的公司砍一砍可以嗎 三重欣欣指南</span><span class="push-ipdatetime"> 09/22 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hihi29</span><span class="f3 push-content">: 這個沒新北市配合 怎麼改?</span><span class="push-ipdatetime"> 09/22 14:55
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckshchen</span><span class="f3 push-content">: 那307是算捷運還公車啊？</span><span class="push-ipdatetime"> 09/22 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DongRaeGu</span><span class="f3 push-content">: 我覺得可以觀察看看就是 一些過長的路線是該處理 不然</span><span class="push-ipdatetime"> 09/22 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alwaysstrong</span><span class="f3 push-content">: 終於要開始了嗎？</span><span class="push-ipdatetime"> 09/22 14:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 這個議題比波卡重要太多了 議員不盯這個去盯悠遊卡 根本</span><span class="push-ipdatetime"> 09/22 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DongRaeGu</span><span class="f3 push-content">: 司機太累也影響安全及服務品質</span><span class="push-ipdatetime"> 09/22 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 智障</span><span class="push-ipdatetime"> 09/22 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">grooving</span><span class="f3 push-content">: 因為這雖然是個好政策但根本不可能做到 變動的規模太大</span><span class="push-ipdatetime"> 09/22 14:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">grooving</span><span class="f3 push-content">: 柯p不要以為自己是神 什麼事都推的動…</span><span class="push-ipdatetime"> 09/22 14:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lovelebron24</span><span class="f3 push-content">: 大推</span><span class="push-ipdatetime"> 09/22 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihi29</span><span class="f3 push-content">: 這樣的話原本搭公車就可以到的 有可能變成換一次捷運+公車</span><span class="push-ipdatetime"> 09/22 14:57
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihi29</span><span class="f3 push-content">: 切成三段?</span><span class="push-ipdatetime"> 09/22 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">momoisacow</span><span class="f3 push-content">: ubike一個小時內$10 比較有用</span><span class="push-ipdatetime"> 09/22 14:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">polor</span><span class="f3 push-content">: 這鐵定被罵翻的</span><span class="push-ipdatetime"> 09/22 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hipmyhop</span><span class="f3 push-content">: 很好啊 快改</span><span class="push-ipdatetime"> 09/22 14:58
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hohohoha</span><span class="f3 push-content">: 該改就該改 不然是要爛到底都不變嘛</span><span class="push-ipdatetime"> 09/22 14:58
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 柯文哲上任到現在最爛的就是交通政策</span><span class="push-ipdatetime"> 09/22 14:58
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">robrob99</span><span class="f3 push-content">: 公車直達 &gt; 需轉乘 &gt; 通勤費用提高 &gt; 改低成本私人載具</span><span class="push-ipdatetime"> 09/22 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kenro</span><span class="f3 push-content">: 還沒做就罵翻喔 這是原本的路線做些修正而已 是在緊張甚麼</span><span class="push-ipdatetime"> 09/22 14:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DongRaeGu</span><span class="f3 push-content">: 我只反對柯漲公車 然後停車問題又是雷聲大雨點小</span><span class="push-ipdatetime"> 09/22 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">firstneko</span><span class="f3 push-content">: 可是我302 223從小搭習慣了耶 如果消失我會哭的</span><span class="push-ipdatetime"> 09/22 14:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 公車路線一直都經常性的在檢討 但是不會一次大改班</span><span class="push-ipdatetime"> 09/22 14:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 喊好的真的有常搭公車通勤嗎？</span><span class="push-ipdatetime"> 09/22 14:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">DongRaeGu</span><span class="f3 push-content">: 嘴裡講要降低私人運具結果卻在做鼓勵大家騎車的事</span><span class="push-ipdatetime"> 09/22 14:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 整個交通政策都在自相矛盾</span><span class="push-ipdatetime"> 09/22 14:59
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hohohoha</span><span class="f3 push-content">: 反正做什麼都有反對聲音 怕就別當市長 當聖蚊就好了</span><span class="push-ipdatetime"> 09/22 15:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">omage</span><span class="f3 push-content">: 我們繼續關心波卡，戴什麼時候下台？</span><span class="push-ipdatetime"> 09/22 15:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 台北市規劃大眾運輸的團隊感覺就大多都是沒搭車的啊</span><span class="push-ipdatetime"> 09/22 15:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">pooznn</span><span class="f3 push-content">: 那麼多家客運要喬...能喬好的話...真的是功德一件...</span><span class="push-ipdatetime"> 09/22 15:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 弄完之後所有人通勤成本提高了 通勤時間增加了 轉乘次數</span><span class="push-ipdatetime"> 09/22 15:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 哪裡功德.. 以後沒人想搭公車</span><span class="push-ipdatetime"> 09/22 15:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">firstneko</span><span class="f3 push-content">: 我台北人常在搭公車 我覺得這文說得很中肯阿 真的同路</span><span class="push-ipdatetime"> 09/22 15:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 增加了 到底對誰有好處 大概只有台北捷運可以賺大錢吧</span><span class="push-ipdatetime"> 09/22 15:01
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">firstneko</span><span class="f3 push-content">: 線只會記得2~3個車號 其他都記不起來</span><span class="push-ipdatetime"> 09/22 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 刪掉或改掉不必要路線就好了</span><span class="push-ipdatetime"> 09/22 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">firstneko</span><span class="f3 push-content">: 我也覺得改是正確的 但自己又搭習慣了很捨不得</span><span class="push-ipdatetime"> 09/22 15:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 他們是要整個改掉 捷運為主 公車變成接駁車</span><span class="push-ipdatetime"> 09/22 15:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pz5202</span><span class="f3 push-content">: 這一定要改</span><span class="push-ipdatetime"> 09/22 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ccclaz</span><span class="f3 push-content">: 又是個只會被罵的好政策 先補血</span><span class="push-ipdatetime"> 09/22 15:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 議員不盯這個一直吵波卡 才是最好笑地方</span><span class="push-ipdatetime"> 09/22 15:03
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kenro</span><span class="f3 push-content">: 草案都還沒出來  就開始瞎掰有的沒有  是急著批甚麼</span><span class="push-ipdatetime"> 09/22 15:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tending</span><span class="f3 push-content">: 會不會跟連的廣告一樣一群人沒公車搭在馬路上狂奔</span><span class="push-ipdatetime"> 09/22 15:04
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: ..喊好的真的有去了解他們要怎改嗎</span><span class="push-ipdatetime"> 09/22 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Cyuhsuan</span><span class="f3 push-content">: 終於要改了</span><span class="push-ipdatetime"> 09/22 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckpioneer</span><span class="f3 push-content">: 其實我覺得公車不會很複雜阿....   哪裡複雜了  @@?</span><span class="push-ipdatetime"> 09/22 15:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">firstneko</span><span class="f3 push-content">: 而且公車接駁捷運郝市府就已經有在討論了 只是一直都做</span><span class="push-ipdatetime"> 09/22 15:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">firstneko</span><span class="f3 push-content">: 表面而已</span><span class="push-ipdatetime"> 09/22 15:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 我也覺得不複雜 但就是會有少數人或虛擬的人喊複雜啊</span><span class="push-ipdatetime"> 09/22 15:05
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihimen</span><span class="f3 push-content">: 讚成的是喜歡不停的轉乘就是了?</span><span class="push-ipdatetime"> 09/22 15:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 接駁捷運 長距離 幹線公車 早就有了 講成是自己創見</span><span class="push-ipdatetime"> 09/22 15:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 形同虛設的路線砍掉 以及一些該路線就好了 真的沒必要大</span><span class="push-ipdatetime"> 09/22 15:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 改</span><span class="push-ipdatetime"> 09/22 15:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 這就是這個交通局最大的問題</span><span class="push-ipdatetime"> 09/22 15:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hihi29</span><span class="f3 push-content">: 難得推一下hihimen...</span><span class="push-ipdatetime"> 09/22 15:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">robrob99</span><span class="f3 push-content">: 請先看胡BRT整併中港路公車後出現的問題 BRT還免費試乘</span><span class="push-ipdatetime"> 09/22 15:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">firstneko</span><span class="f3 push-content">: 這種要改本來就是要迎合最大多數的人 拿少數增加轉乘次</span><span class="push-ipdatetime"> 09/22 15:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Morning5566</span><span class="f3 push-content">: 弄下去就是為未來發展，當下一定擾民，長久看才是正</span><span class="push-ipdatetime"> 09/22 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 市區捷運路網形成之後該幹掉的明明是幹線公車</span><span class="push-ipdatetime"> 09/22 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 以及一些公車改路線就好了</span><span class="push-ipdatetime"> 09/22 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">firstneko</span><span class="f3 push-content">: 數實在不是論點 捷運本來就是台北主要運輸工具</span><span class="push-ipdatetime"> 09/22 15:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 未來就是公車悲劇.. 那裡發展</span><span class="push-ipdatetime"> 09/22 15:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">owen5611</span><span class="f3 push-content">: 蛆蛆崩潰瘋狂腦補中 勿擾</span><span class="push-ipdatetime"> 09/22 15:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">robrob99</span><span class="f3 push-content">: 數據會變好看 一人轉乘3次 就會變成3個使用人次 *_&lt;</span><span class="push-ipdatetime"> 09/22 15:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 淡水河以北沒有&#34;路網&#34;概念的士林北投大直內湖 才適合</span><span class="push-ipdatetime"> 09/22 15:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 哪裡來的腦補 ？ 好好看新聞好嗎</span><span class="push-ipdatetime"> 09/22 15:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maikxz</span><span class="f3 push-content">: 台灣人當然要直達，要他轉乘跟把腿打斷是一樣道理der　</span><span class="push-ipdatetime"> 09/22 15:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihimen</span><span class="f3 push-content">: hih29.....</span><span class="push-ipdatetime"> 09/22 15:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">shermanqoo</span><span class="f3 push-content">: 站牌真的很亂 路線圖也是，老人家找很辛苦</span><span class="push-ipdatetime"> 09/22 15:09
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tv5566</span><span class="f3 push-content">: 台北市越來越好 不爽 沒辦法看台北秀下限了</span><span class="push-ipdatetime"> 09/22 15:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 輻輳式的公車路線</span><span class="push-ipdatetime"> 09/22 15:09
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 就是把公車改成輔助捷運的接駁車概念</span><span class="push-ipdatetime"> 09/22 15:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">funkboy</span><span class="f3 push-content">: 公車轉乘公車能和捷運轉乘捷運比擬嗎?</span><span class="push-ipdatetime"> 09/22 15:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 更正一下 基隆河以北</span><span class="push-ipdatetime"> 09/22 15:10
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 別小看老人家 老人家超會搭公車</span><span class="push-ipdatetime"> 09/22 15:10
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">firstneko</span><span class="f3 push-content">: 就好像之前捷運堅持南北大動脈 說對中永和來說是擾民</span><span class="push-ipdatetime"> 09/22 15:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 說老人家看公車路線看得很辛苦的 才是腦補吧</span><span class="push-ipdatetime"> 09/22 15:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">firstneko</span><span class="f3 push-content">: 明明分家才是最佳解</span><span class="push-ipdatetime"> 09/22 15:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">robrob99</span><span class="f3 push-content">: 轉乘不是大問題 問題在你轉乘後的票價計算方式</span><span class="push-ipdatetime"> 09/22 15:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihimen</span><span class="f3 push-content">: 本來一次可到的，變得轉乘等公車，老人家更辛苦吧</span><span class="push-ipdatetime"> 09/22 15:11
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Jason0813</span><span class="f3 push-content">: 希望柯p這次可以小規模逐漸推動更換</span><span class="push-ipdatetime"> 09/22 15:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RevanKai</span><span class="f3 push-content">: 大家真的很怕「改變」，不過我覺得要弄個民間溝通平台</span><span class="push-ipdatetime"> 09/22 15:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maikxz</span><span class="f3 push-content">: 我是這樣覺得啦，每個人家用傳送門比較實在好不好</span><span class="push-ipdatetime"> 09/22 15:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 家裡沒老人的不知道老人轉乘有多麻煩</span><span class="push-ipdatetime"> 09/22 15:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">RevanKai</span><span class="f3 push-content">: 不然內賊又亂搞，這項政策就又GG</span><span class="push-ipdatetime"> 09/22 15:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hsinyuet</span><span class="f3 push-content">: 雙北地區沒有很明確的公車路網吧...</span><span class="push-ipdatetime"> 09/22 15:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Musterer</span><span class="f3 push-content">: 一瞬間的改變 讓人怕怕的</span><span class="push-ipdatetime"> 09/22 15:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Homedoni</span><span class="f3 push-content">: BIG         DATA      generation</span><span class="push-ipdatetime"> 09/22 15:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Jason0813</span><span class="f3 push-content">: 一口氣全改 會非常恐怖</span><span class="push-ipdatetime"> 09/22 15:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">maikxz</span><span class="f3 push-content">: 每個人都腿斷了多不方便</span><span class="push-ipdatetime"> 09/22 15:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">robrob99</span><span class="f3 push-content">: 當你可以1小時 30元到達 變成45元再加上等車時間15分鐘</span><span class="push-ipdatetime"> 09/22 15:12
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 沒人反對公車調整 但是絕對不是大改線這種玩法</span><span class="push-ipdatetime"> 09/22 15:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 而且現在市府沒有經營任何一家公車 所有都是民營的</span><span class="push-ipdatetime"> 09/22 15:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">funkboy</span><span class="f3 push-content">: 按里程計費的話會這麼貴嗎?</span><span class="push-ipdatetime"> 09/22 15:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ckpioneer</span><span class="f3 push-content">: 另外  覺得內文寫「站牌統一放交叉路口」 感覺會更悲劇</span><span class="push-ipdatetime"> 09/22 15:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ckpioneer</span><span class="f3 push-content">: 現在明明手機上網查公車路線跟站牌都方便</span><span class="push-ipdatetime"> 09/22 15:13
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ckpioneer</span><span class="f3 push-content">: 真的會有人找不到站牌嗎?</span><span class="push-ipdatetime"> 09/22 15:13
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">golden90038</span><span class="f3 push-content">: 公車這個影響很多人 要改可以慢慢改</span><span class="push-ipdatetime"> 09/22 15:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Jason0813</span><span class="f3 push-content">: 現在那系統是郝市長做的</span><span class="push-ipdatetime"> 09/22 15:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">faker007</span><span class="f3 push-content">: 反正公車站牌常常換來換去 一次換到好吧</span><span class="push-ipdatetime"> 09/22 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 冷門路線需要熱門路線去補貼 不然沒人要做</span><span class="push-ipdatetime"> 09/22 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ckpioneer</span><span class="f3 push-content">: 有沒有 這位鍾慧諭小姐  揪竟是何方高人的八卦？</span><span class="push-ipdatetime"> 09/22 15:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chunwei0120</span><span class="f3 push-content">: 看遠一點 這政策是對的 加油!</span><span class="push-ipdatetime"> 09/22 15:14
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">allensua</span><span class="f3 push-content">: 這是在改殺小？</span><span class="push-ipdatetime"> 09/22 15:15
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hank12332</span><span class="f3 push-content">: 讓路線更清楚更明白，這要走的路需要很長</span><span class="push-ipdatetime"> 09/22 15:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">karta0681608</span><span class="f3 push-content">: 改的好 爽啦</span><span class="push-ipdatetime"> 09/22 15:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">allensua</span><span class="f3 push-content">: 台北搭公車很方便，也沒什麼問題，改這是在改殺小？</span><span class="push-ipdatetime"> 09/22 15:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 反正改到最後都是爽到市中心的人 山區郊區窮人去死吧</span><span class="push-ipdatetime"> 09/22 15:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hank12332</span><span class="f3 push-content">: 台北人怕改變的話，柯文哲就不會當選了~</span><span class="push-ipdatetime"> 09/22 15:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a76126</span><span class="f3 push-content">: 雖然對我很不方便 但我覺長遠來看 對觀光來說是對的</span><span class="push-ipdatetime"> 09/22 15:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">allensua</span><span class="f3 push-content">: 不住台北又不是公車族的閉嘴啦</span><span class="push-ipdatetime"> 09/22 15:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">losel</span><span class="f3 push-content">: 老人很會搭公車？ 你那是北市高級老人吧. 我看的老人不識字</span><span class="push-ipdatetime"> 09/22 15:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">arnold3</span><span class="f3 push-content">: 再玩模擬程式喔</span><span class="push-ipdatetime"> 09/22 15:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">losel</span><span class="f3 push-content">: 視力退化,行動遲緩. 根本不想在捷運站繞來繞去,更別說轉乘</span><span class="push-ipdatetime"> 09/22 15:17
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hank12332</span><span class="f3 push-content">: 哪裡有說山區郊區的車會取消? 眼睛長在屁X理面膩?</span><span class="push-ipdatetime"> 09/22 15:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hihi29</span><span class="f3 push-content">: 你可以去問搭公車的老人 叫他以後先搭捷運再換公車 看他怎</span><span class="push-ipdatetime"> 09/22 15:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vincent0719</span><span class="f3 push-content">: 總有一天要改的不如痛快點</span><span class="push-ipdatetime"> 09/22 15:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihi29</span><span class="f3 push-content">: 想的?</span><span class="push-ipdatetime"> 09/22 15:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">loserloser</span><span class="f3 push-content">: 大工程喔 到時候不要漲價就好惹</span><span class="push-ipdatetime"> 09/22 15:18
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 你260可以搭到台北車站 如果把你砍了叫你在劍潭換捷運</span><span class="push-ipdatetime"> 09/22 15:18
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">losel</span><span class="f3 push-content">: 再轉乘. 最好公車站到捷運站. 公車站到公車站. 一次到位</span><span class="push-ipdatetime"> 09/22 15:18
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">JoeStrummer</span><span class="f3 push-content">: 台北市公車爆衝爆煞爆切爆闖...根本殺人用的</span><span class="push-ipdatetime"> 09/22 15:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiki2125</span><span class="f3 push-content">: 2v真不簡單 有關柯p的文章就有你，查了一下有八成哩</span><span class="push-ipdatetime"> 09/22 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihi29</span><span class="f3 push-content">: 鐘的邏輯就是山區郊區的公車只會開到最近的捷運站啊</span><span class="push-ipdatetime"> 09/22 15:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ddabc1234</span><span class="f3 push-content">: 改變一個人的習慣 好像就要了他的命一樣</span><span class="push-ipdatetime"> 09/22 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kiki2125</span><span class="f3 push-content">: 整天都在ptt六點就消失 公務員？</span><span class="push-ipdatetime"> 09/22 15:19
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 你會覺得哇超方便的真是德政嗎</span><span class="push-ipdatetime"> 09/22 15:20
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 喊好的根本不常搭公車吧 不就跟台北市那些規劃的官員 很</span><span class="push-ipdatetime"> 09/22 15:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">k23</span><span class="f3 push-content">: 期待可以改善</span><span class="push-ipdatetime"> 09/22 15:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chyou2003</span><span class="f3 push-content">: 還好啦，至少2V的黑點不算無理取鬧</span><span class="push-ipdatetime"> 09/22 15:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 理想化 不食人間煙火</span><span class="push-ipdatetime"> 09/22 15:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">kiki2125</span><span class="f3 push-content">: 繼續活在柯p的陰影吧 可憐</span><span class="push-ipdatetime"> 09/22 15:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rayarising</span><span class="f3 push-content">: 這篇真的很好笑</span><span class="push-ipdatetime"> 09/22 15:20
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hank12332</span><span class="f3 push-content">: 哪一個政策不是朝理想化前進的 ?</span><span class="push-ipdatetime"> 09/22 15:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">chyou2003</span><span class="f3 push-content">: 跟yahoo之類的柯黑比起來簡直清新健康XDXDDD</span><span class="push-ipdatetime"> 09/22 15:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeans1020</span><span class="f3 push-content">: 反正台灣人就是一定要直達 要轉乘像要命一樣</span><span class="push-ipdatetime"> 09/22 15:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">fddk</span><span class="f3 push-content">: 覺得很好的大概就是固定幾條路線搭乘的吧...</span><span class="push-ipdatetime"> 09/22 15:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dsa3717</span><span class="f3 push-content">: 再不改也是不斷被捷運吸收減班而已</span><span class="push-ipdatetime"> 09/22 15:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hihimen</span><span class="f3 push-content">: 批評柯就被柯粉罵可憐，也講不出啥道理</span><span class="push-ipdatetime"> 09/22 15:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">error123</span><span class="f3 push-content">: 推文黑黑的</span><span class="push-ipdatetime"> 09/22 15:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 我是覺得跟捷運競爭自然淘汰就好了 真的沒人搭 做不下去</span><span class="push-ipdatetime"> 09/22 15:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VTsuyoshi</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 09/22 15:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 的路線自然會消失</span><span class="push-ipdatetime"> 09/22 15:22
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 刪沒必要的公車 改一些公車的路線就好</span><span class="push-ipdatetime"> 09/22 15:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 目前有多少人覺得公車路線不方便 ？</span><span class="push-ipdatetime"> 09/22 15:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">alankira</span><span class="f3 push-content">: 不建議...這樣會影響到很多人的生活習慣</span><span class="push-ipdatetime"> 09/22 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 像高度重疊的224 216等路線 經過很多年慢慢淘汰</span><span class="push-ipdatetime"> 09/22 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 改了後肯定一堆人覺得ㄅㄈㄤㄅ</span><span class="push-ipdatetime"> 09/22 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 不方便</span><span class="push-ipdatetime"> 09/22 15:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">by216</span><span class="f3 push-content">: 很好啊，慢慢修正成更好的方式</span><span class="push-ipdatetime"> 09/22 15:23
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 現在就只剩接駁公車的功能</span><span class="push-ipdatetime"> 09/22 15:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 喔 不常搭的不會 因為以前根本很少搭 沒比較基準</span><span class="push-ipdatetime"> 09/22 15:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chyou2003</span><span class="f3 push-content">: 一次大改 vs. 慢慢修改 !?</span><span class="push-ipdatetime"> 09/22 15:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 將公車都打成捷運接駁車叫更好的方式？</span><span class="push-ipdatetime"> 09/22 15:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">superivan</span><span class="f3 push-content">: 站牌放路口  是嫌現在路口交通不夠亂嗎?</span><span class="push-ipdatetime"> 09/22 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 但224 216路線變短 220 218卻還是保留 就是理想的微調方式</span><span class="push-ipdatetime"> 09/22 15:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hank12332</span><span class="f3 push-content">: 捷運是主線，臭惹嗎~</span><span class="push-ipdatetime"> 09/22 15:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">mcnightcc</span><span class="f3 push-content">: 現在的公車路線才是讓人瘋掉</span><span class="push-ipdatetime"> 09/22 15:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">by216</span><span class="f3 push-content">: 覺得有更好建議的人可以參與規劃的工作啊～應該能幫到很多</span><span class="push-ipdatetime"> 09/22 15:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">allpafighter</span><span class="f3 push-content">: 說沒必要的是沒在路上遇過一串看起來像捷運的公車過</span><span class="push-ipdatetime"> 09/22 15:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Lamuneforty</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 09/22 15:27
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">allpafighter</span><span class="f3 push-content">: 嗎  還一堆空車</span><span class="push-ipdatetime"> 09/22 15:27
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">qqq1234</span><span class="f3 push-content">: 總之又要向民眾搶錢了 反正使用者付費真好用</span><span class="push-ipdatetime"> 09/22 15:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Jason0813</span><span class="f3 push-content">: 把公車都改接駁 上下班捷運會很恐怖</span><span class="push-ipdatetime"> 09/22 15:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: J兄說的也沒錯 運量有考慮到嗎 捷運吃的下公車改接駁?</span><span class="push-ipdatetime"> 09/22 15:28
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">tp950016</span><span class="f3 push-content">: 除非必要 不然不搭公車   台灣公車太亂了</span><span class="push-ipdatetime"> 09/22 15:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 而且北捷是公營的 公車是私營的 本來運輸應該是競爭關係</span><span class="push-ipdatetime"> 09/22 15:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">frozen0703</span><span class="f3 push-content">: 公車跟捷運的整合是非常重要的 雙V閉嘴好嗎</span><span class="push-ipdatetime"> 09/22 15:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dian9</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 09/22 15:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hunderdam</span><span class="f3 push-content">: 推 這個很必要 公車路線真的很亂</span><span class="push-ipdatetime"> 09/22 15:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hank12332</span><span class="f3 push-content">: 追求雙贏臭惹嗎?</span><span class="push-ipdatetime"> 09/22 15:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 但是用政策來獨尊捷運 在比較高的思考層次上是否合適?</span><span class="push-ipdatetime"> 09/22 15:30
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 如果同一個老闆 那可能整合有必要 經營效率最大化</span><span class="push-ipdatetime"> 09/22 15:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">by216</span><span class="f3 push-content">: 我覺得一個應該改善的問題能被拿出來討論修正是很好的事情</span><span class="push-ipdatetime"> 09/22 15:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hank12332</span><span class="f3 push-content">: 講的好像以後大家只做捷運不做公車一樣www</span><span class="push-ipdatetime"> 09/22 15:31
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hank12332</span><span class="f3 push-content">: *坐</span><span class="push-ipdatetime"> 09/22 15:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Comebuy</span><span class="f3 push-content">: \⊙▽⊙/\⊙▽⊙/\⊙▽⊙/\⊙▽⊙/</span><span class="push-ipdatetime"> 09/22 15:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 但現在不是這樣阿 或者台北市要考慮部分路權收回自營也可</span><span class="push-ipdatetime"> 09/22 15:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Jason0813</span><span class="f3 push-content">: 區域環繞 跨區通勤 橫貫線 縱貫線 比例要調整</span><span class="push-ipdatetime"> 09/22 15:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">wakeup1990</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 09/22 15:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 載具選擇上應該是提供民眾多種選擇 每個人追求的不一樣</span><span class="push-ipdatetime"> 09/22 15:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">turbomons</span><span class="f3 push-content">: 307公車 看過連4台串成像火車一樣 後兩節都空的</span><span class="push-ipdatetime"> 09/22 15:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 有人時間多 不想花錢 那搭長途路線 有人趕時間 那轉乘接駁</span><span class="push-ipdatetime"> 09/22 15:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hank12332</span><span class="f3 push-content">: 公車像微血管一樣分布在台北市，減少空車沒乘客的機會</span><span class="push-ipdatetime"> 09/22 15:33
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 是他的選擇 應該是這樣 而不是用機器算一個點到點最佳解</span><span class="push-ipdatetime"> 09/22 15:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hank12332</span><span class="f3 push-content">: 這才是公車調整後的理想化</span><span class="push-ipdatetime"> 09/22 15:34
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 然後叫所有人都吃下去 因為每個人要的東西不一樣</span><span class="push-ipdatetime"> 09/22 15:34
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">xx60824xx</span><span class="f3 push-content">: 擾民</span><span class="push-ipdatetime"> 09/22 15:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ezbuy</span><span class="f3 push-content">: 307 真的太誇張</span><span class="push-ipdatetime"> 09/22 15:35
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 不論大改小改一定都有正反意見啊 大家都很害怕改變…只</span><span class="push-ipdatetime"> 09/22 15:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">SHIU0315</span><span class="f3 push-content">: 能靠政令宣導了 希望接駁轉乘可以規劃完善</span><span class="push-ipdatetime"> 09/22 15:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ezbuy</span><span class="f3 push-content">: 某樓ZZ 要不自己發一篇，看得好累</span><span class="push-ipdatetime"> 09/22 15:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">purplvampire</span><span class="f3 push-content">: 推 政策方向對,公車族支持</span><span class="push-ipdatetime"> 09/22 15:36
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hank12332</span><span class="f3 push-content">: 不過我認為2017年應該會跳票就是了~除非團隊人數夠多</span><span class="push-ipdatetime"> 09/22 15:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chyou2003</span><span class="f3 push-content">: VV雖然事柯黑，但我覺得意見不錯啊，市府可以參考</span><span class="push-ipdatetime"> 09/22 15:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dragon2000</span><span class="f3 push-content">: 快改啊！想看</span><span class="push-ipdatetime"> 09/22 15:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">VVizZ</span><span class="f3 push-content">: 跳票應該不是民眾反對 公車業者會跳腳XD</span><span class="push-ipdatetime"> 09/22 15:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">hank12332</span><span class="f3 push-content">: 不然要整合資料又要去實行，時間應該不夠用</span><span class="push-ipdatetime"> 09/22 15:37
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">michaelkobe</span><span class="f3 push-content">: 市區的公車數量本來就有減少的必要</span><span class="push-ipdatetime"> 09/22 15:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iwinlottery</span><span class="f3 push-content">: 里程計費呢</span><span class="push-ipdatetime"> 09/22 15:45
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MoneyDay5566</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 09/22 15:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">otaku5566</span><span class="f3 push-content">: 老人會非常反對這個變動</span><span class="push-ipdatetime"> 09/22 15:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">robrob99</span><span class="f3 push-content">: 台中市BRT上路 就是整併中港路公車 台中公車就里程計費</span><span class="push-ipdatetime"> 09/22 15:47
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">robrob99</span><span class="f3 push-content">: 而且台中那時還有8km刷卡免費+BRT免費搭乘 海線罵翻了</span><span class="push-ipdatetime"> 09/22 15:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">robrob99</span><span class="f3 push-content">: 方向很正確 理想很美好 實務上做起來結果 就是不受歡迎</span><span class="push-ipdatetime"> 09/22 15:51
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">momoisacow</span><span class="f3 push-content">: 我年輕人 都騎ubike 除非天氣太熱才搭捷運 不搭公車</span><span class="push-ipdatetime"> 09/22 15:54
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">momoisacow</span><span class="f3 push-content">: 公車給老人家用的 短距離30分路程 騎ubike比較方便</span><span class="push-ipdatetime"> 09/22 15:55
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 這樣也能支持 反正受害者是天天搭公車通勤的人 不常搭或</span><span class="push-ipdatetime"> 09/22 15:56
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">goshfju</span><span class="f3 push-content">: 沒搭過的又沒差</span><span class="push-ipdatetime"> 09/22 15:56
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">maximal</span><span class="f3 push-content">: 年輕人有app其實還好,老年人,長輩會受到衝擊</span><span class="push-ipdatetime"> 09/22 15:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">otaku5566</span><span class="f3 push-content">: 很多老人不看公車是哪號，每台都攔下來問有沒有到XX地</span><span class="push-ipdatetime"> 09/22 16:00
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">otaku5566</span><span class="f3 push-content">: (↑題外話)</span><span class="push-ipdatetime"> 09/22 16:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rockhotdog</span><span class="f3 push-content">: 大什麼大</span><span class="push-ipdatetime"> 09/22 16:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">RS232</span><span class="f3 push-content">: 怕擾民就不改變 台北永遠不會進步 支持公車打掉重練</span><span class="push-ipdatetime"> 09/22 16:04
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">LewisRong</span><span class="f3 push-content">: 對的事就不要怕改變 支持 每件事都有陣痛期</span><span class="push-ipdatetime"> 09/22 16:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">skyringcha</span><span class="f3 push-content">: 認真做就對了，不要理白癡！</span><span class="push-ipdatetime"> 09/22 16:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">robrob99</span><span class="f3 push-content">: 某黨應該也是這樣想的 只是把不支持的人都當白痴看</span><span class="push-ipdatetime"> 09/22 16:11
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">iloveumoneyc</span><span class="f3 push-content">: 可是我都記得啊 不會搭的連查都不願意喔？</span><span class="push-ipdatetime"> 09/22 16:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">h777</span><span class="f3 push-content">: VV沒無腦反柯很不習慣 討論清新殺洨</span><span class="push-ipdatetime"> 09/22 16:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">colenken</span><span class="f3 push-content">: 只要能增加公車普及率,就是好政策,推</span><span class="push-ipdatetime"> 09/22 16:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sabrina2597</span><span class="f3 push-content">: 觀望 老人其實大多搭固定路線覺得還好</span><span class="push-ipdatetime"> 09/22 16:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sygnuser</span><span class="f3 push-content">: 推一個.既然原本的套路還是有人搞不清楚.乾脆系統化作業</span><span class="push-ipdatetime"> 09/22 16:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">assunny1012</span><span class="f3 push-content">: 快改成依照里程收費好嗎!順便取消齊頭式的老人補助!</span><span class="push-ipdatetime"> 09/22 16:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sharkimage</span><span class="f3 push-content">: 推 台北的公車真的不好入手</span><span class="push-ipdatetime"> 09/22 16:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assunny1012</span><span class="f3 push-content">: 有些老人有錢的要死 補助他們幹嘛!</span><span class="push-ipdatetime"> 09/22 16:22
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assunny1012</span><span class="f3 push-content">: 常常在公車上聽到老人聊子女成就 年薪啦 移民啦!</span><span class="push-ipdatetime"> 09/22 16:23
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sabrina2597</span><span class="f3 push-content">: 一直以來台北公車最難吸引到的其實是觀光客 觀光客</span><span class="push-ipdatetime"> 09/22 16:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">assunny1012</span><span class="f3 push-content">: 阿子女那麼有錢 叫他們幫父母出公車錢就好啦!</span><span class="push-ipdatetime"> 09/22 16:24
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sabrina2597</span><span class="f3 push-content">: 敢搭的非常少</span><span class="push-ipdatetime"> 09/22 16:24
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">libraayu</span><span class="f3 push-content">: 重覆路線不知道對塞車有沒有解..常看到一堆類似路線的公</span><span class="push-ipdatetime"> 09/22 16:25
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">libraayu</span><span class="f3 push-content">: 車擠起..</span><span class="push-ipdatetime"> 09/22 16:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">michaelkobe</span><span class="f3 push-content">: 又不是要全部砍光光 不知道有些人在激動啥</span><span class="push-ipdatetime"> 09/22 16:26
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">neglect</span><span class="f3 push-content">: 失敗機率應該挺高的，很多人就是不想轉乘</span><span class="push-ipdatetime"> 09/22 16:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">michaelkobe</span><span class="f3 push-content">: 我就是當初高中三年擠公車擠到崩潰 現在根本完全不想</span><span class="push-ipdatetime"> 09/22 16:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">michaelkobe</span><span class="f3 push-content">: 搭公車</span><span class="push-ipdatetime"> 09/22 16:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ppphil</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 09/22 16:31
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">APTON</span><span class="f3 push-content">: 紅的明顯，要不要只留一台公車，路線就像老鼠走迷宮，這樣</span><span class="push-ipdatetime"> 09/22 16:32
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">APTON</span><span class="f3 push-content">: 到哪邊都不用轉乘</span><span class="push-ipdatetime"> 09/22 16:32
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">escorpion</span><span class="f3 push-content">: 真的有感，不熟的每次都要在公車站看哪一號會到哪邊</span><span class="push-ipdatetime"> 09/22 16:32
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">JimK0511</span><span class="f3 push-content">: 新聞提的問題都還好吧…</span><span class="push-ipdatetime"> 09/22 16:37
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">JimK0511</span><span class="f3 push-content">: 看路線圖很難?</span><span class="push-ipdatetime"> 09/22 16:38
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">neglect</span><span class="f3 push-content">: 而且所謂的大數據有分析到不搭大眾運輸工具的人的通勤路</span><span class="push-ipdatetime"> 09/22 16:39
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">neglect</span><span class="f3 push-content">: 線嗎，沒有的話要怎麼提升使用率</span><span class="push-ipdatetime"> 09/22 16:40
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">CTUST</span><span class="f3 push-content">: 計程車先砍掉八成再說，亂源又無意義空車在跑一堆</span><span class="push-ipdatetime"> 09/22 16:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">marksky</span><span class="f3 push-content">: 選總統</span><span class="push-ipdatetime"> 09/22 16:54
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">a031405</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 09/22 16:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">z30534</span><span class="f3 push-content">: 捷運剛出還不是說在擾民  現在大家都做爽爽</span><span class="push-ipdatetime"> 09/22 17:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">windlins</span><span class="f3 push-content">: 捷運淹大水,我從劍潭到台北車站就花了兩小時坐公車</span><span class="push-ipdatetime"> 09/22 17:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">windlins</span><span class="f3 push-content">: 因為坐錯路線,最後還是較小黃</span><span class="push-ipdatetime"> 09/22 17:02
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">windlins</span><span class="f3 push-content">: 我不住台北,所以決得公車超難坐,真的.</span><span class="push-ipdatetime"> 09/22 17:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jacecool</span><span class="f3 push-content">: 推推推推~~~</span><span class="push-ipdatetime"> 09/22 17:08
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">icewindwu</span><span class="f3 push-content">: 推！但是藍綠議員都在打波卡</span><span class="push-ipdatetime"> 09/22 17:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">drigo</span><span class="f3 push-content">: 反彈聲浪是什麼? 反彈的理由是什麼? 新聞裡全都沒寫....</span><span class="push-ipdatetime"> 09/22 17:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chyou2003</span><span class="f3 push-content">: 說你反彈就反彈，哪來那麼多意見</span><span class="push-ipdatetime"> 09/22 17:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">esmm</span><span class="f3 push-content">: 早該改了，反彈的就是蛆蛆啊kmt社會亂源</span><span class="push-ipdatetime"> 09/22 17:20
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lisa108920</span><span class="f3 push-content">: 看看日本京都的公車網，這才是一流的城市，支持改</span><span class="push-ipdatetime"> 09/22 17:22
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kis28519</span><span class="f3 push-content">: 是要改，我覺得路線很複雜</span><span class="push-ipdatetime"> 09/22 17:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">SABA0</span><span class="f3 push-content">: 幹的好 早該改了</span><span class="push-ipdatetime"> 09/22 17:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">boggae</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 09/22 17:33
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">pulato16</span><span class="f3 push-content">: 推!!</span><span class="push-ipdatetime"> 09/22 17:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bluehttp</span><span class="f3 push-content">: 水喔 重新調整路線，會更清楚</span><span class="push-ipdatetime"> 09/22 17:41
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">erickruklin</span><span class="f3 push-content">: 拜託有捷運的路段就不要再重疊公車了忠孝信義沿線根</span><span class="push-ipdatetime"> 09/22 17:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">erickruklin</span><span class="f3 push-content">: 本沒公車的必要，做捷運到點再轉乘就好</span><span class="push-ipdatetime"> 09/22 17:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">turtle5566</span><span class="f3 push-content">: 期待改版</span><span class="push-ipdatetime"> 09/22 17:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">s8624032</span><span class="f3 push-content">: 對外地人來說很期待啊!!!</span><span class="push-ipdatetime"> 09/22 17:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">f37605</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 09/22 18:01
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">rayonwu</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 09/22 18:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lenzi0</span><span class="f3 push-content">: 推推</span><span class="push-ipdatetime"> 09/22 18:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">godchildtw</span><span class="f3 push-content">: 真正在反的是公車業者，黃金路線要被改了很不爽</span><span class="push-ipdatetime"> 09/22 18:17
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">amwkscl</span><span class="f3 push-content">: 應加強捷運不能直達的，像內湖-士林，板橋-新莊，新莊-新</span><span class="push-ipdatetime"> 09/22 18:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">amwkscl</span><span class="f3 push-content">: 店</span><span class="push-ipdatetime"> 09/22 18:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yudi1991</span><span class="f3 push-content">:</span><span class="push-ipdatetime"> 09/22 18:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">peterpankk</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 09/22 18:29
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">chiyse</span><span class="f3 push-content">: 推！人的習慣是可以改變的。</span><span class="push-ipdatetime"> 09/22 18:30
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sss33</span><span class="f3 push-content">: 期待</span><span class="push-ipdatetime"> 09/22 18:44
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kkbkk</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 09/22 18:45
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sss33</span><span class="f3 push-content">: 哇賽 youcar 超酷的</span><span class="push-ipdatetime"> 09/22 18:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">bilibala</span><span class="f3 push-content">: 廢物蛆又開始亂扯了，人家根本不是針對不搭的人也能扯</span><span class="push-ipdatetime"> 09/22 18:47
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">hiro1221</span><span class="f3 push-content">: 爽!</span><span class="push-ipdatetime"> 09/22 18:52
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Hotaruinori</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 09/22 19:00
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">birdskingla</span><span class="f3 push-content">: 推</span><span class="push-ipdatetime"> 09/22 19:03
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Fanchiang</span><span class="f3 push-content">: 這其實很難搞...應該都可以當論文了</span><span class="push-ipdatetime"> 09/22 19:05
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">urreed</span><span class="f3 push-content">: 這是柯P一上任就說要作的</span><span class="push-ipdatetime"> 09/22 19:05
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">BrandonMai</span><span class="f3 push-content">: 我覺得越改越複雜，柯文哲別鬧了</span><span class="push-ipdatetime"> 09/22 19:16
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">ersfw4418</span><span class="f3 push-content">: 倘若改的成功 確實會有重大效果 但要挺得住輿論陣痛</span><span class="push-ipdatetime"> 09/22 19:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">MirageAngel</span><span class="f3 push-content">: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!棒讚優!</span><span class="push-ipdatetime"> 09/22 19:25
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">gekkojam</span><span class="f3 push-content">: 讓他試 讓他試 管他什麼波卡 模糊市政用的</span><span class="push-ipdatetime"> 09/22 19:29
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">YingJiou5566</span><span class="f3 push-content">: 再把大數據專家戴給請回來吧，沒他不行</span><span class="push-ipdatetime"> 09/22 19:42
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">sabrina2597</span><span class="f3 push-content">: 搞的好就那才真的是躺著選……</span><span class="push-ipdatetime"> 09/22 19:44
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sabrina2597</span><span class="f3 push-content">: Mycar不知道是什麼東東 地要哪裡來……？</span><span class="push-ipdatetime"> 09/22 19:46
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">sabrina2597</span><span class="f3 push-content">: 弄錯了 YouCar</span><span class="push-ipdatetime"> 09/22 19:46
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">reexamor</span><span class="f3 push-content">: 推！ ！對的事要堅持</span><span class="push-ipdatetime"> 09/22 19:48
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">coolda</span><span class="f3 push-content">: 推 但是同時要管制一人汽車才會有效果</span><span class="push-ipdatetime"> 09/22 19:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Cottesloe</span><span class="f3 push-content">: 聽起來很好，要看proposal才能確定，噓的是未審先判</span><span class="push-ipdatetime"> 09/22 20:02
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">JoeStrummer</span><span class="f3 push-content">: 台北市公車爆衝爆煞爆切爆闖...根本殺人用的</span><span class="push-ipdatetime"> 09/22 20:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">iwinlottery</span><span class="f3 push-content">: 如果這樣戴就是被抓去作業了</span><span class="push-ipdatetime"> 09/22 20:11
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">kiliman</span><span class="f3 push-content">: 這效率有夠高!</span><span class="push-ipdatetime"> 09/22 20:12
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">as123985</span><span class="f3 push-content">: 我搭260還是會轉捷運到北車啊，比較快又比較便宜</span><span class="push-ipdatetime"> 09/22 20:21
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">bobju</span><span class="f3 push-content">: 反正 gmap+台北市公車app 就無敵了 要從哪到哪都查得到</span><span class="push-ipdatetime"> 09/22 20:26
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">leaf28</span><span class="f3 push-content">: 推!!!!!!!!!!!可惜北市議員只想到要吃波卡 其他都沒看到</span><span class="push-ipdatetime"> 09/22 20:27
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lanecarbot</span><span class="f3 push-content">: 走到底很重要，國外一些公車都這樣</span><span class="push-ipdatetime"> 09/22 21:06
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">saitoyakoyo</span><span class="f3 push-content">: BRT是整併？現在是笑話大賽就對了！</span><span class="push-ipdatetime"> 09/22 21:06
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">saitoyakoyo</span><span class="f3 push-content">: 新的路網成形，本來就會改變搭車模式，輔助交通工具</span><span class="push-ipdatetime"> 09/22 21:07
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">saitoyakoyo</span><span class="f3 push-content">: 調整也是正常，多的是公車轉捷運</span><span class="push-ipdatetime"> 09/22 21:08
+</span></div><div class="push"><span class="f1 hl push-tag">噓 </span><span class="f3 hl push-userid">swjlsc</span><span class="f3 push-content">: 交通毒瘤應該廢掉</span><span class="push-ipdatetime"> 09/22 21:19
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">lyu0001</span><span class="f3 push-content">: 改公車路線真的吃力不討好 以後轉乘捷運沒優惠了 哭哭</span><span class="push-ipdatetime"> 09/22 21:34
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jeross</span><span class="f3 push-content">: 台北公車太多了 好冰冰還說要減一半</span><span class="push-ipdatetime"> 09/22 22:06
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">jadered421</span><span class="f3 push-content">: 老實說搭習慣了 別改</span><span class="push-ipdatetime"> 09/22 22:31
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ubcs</span><span class="f3 push-content">: 公車之王307屌打一切 寧願走10~15分鐘去搭</span><span class="push-ipdatetime"> 09/22 22:57
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">Yogin</span><span class="f3 push-content">: 我真的不太會搭台北的公車 不夠智慧</span><span class="push-ipdatetime"> 09/22 23:14
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">studentkeich</span><span class="f3 push-content">: 額 我覺得還不錯耶</span><span class="push-ipdatetime"> 09/23 00:13
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">yougottt</span><span class="f3 push-content">: 基本上公車和地圖的APP都滿清楚的 現在聽到這個政策 感</span><span class="push-ipdatetime"> 09/23 02:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">yougottt</span><span class="f3 push-content">: 覺怕怕的…</span><span class="push-ipdatetime"> 09/23 02:08
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">rhjy</span><span class="f3 push-content">: 老年人搭捷運 上上下下的確不容易 希望新系統要考慮到.</span><span class="push-ipdatetime"> 09/23 02:49
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">moonpaper</span><span class="f3 push-content">: 日本老人就比較容易?</span><span class="push-ipdatetime"> 09/23 02:59
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">ma1720</span><span class="f3 push-content">: 讓臺北更適合外縣市和外國自由行背包客找路吧！推推~</span><span class="push-ipdatetime"> 09/23 03:21
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">aahoo</span><span class="f3 push-content">: 柯P想蓋輕軌  抓到了  柯P加點油好嗎</span><span class="push-ipdatetime"> 09/23 06:16
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">qozxcv</span><span class="f3 push-content">: 就等你這個政見</span><span class="push-ipdatetime"> 09/23 08:50
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">dave0213</span><span class="f3 push-content">: 所以到底怎麼改？怎麼我什麼都沒看到就有人捧或唱衰？</span><span class="push-ipdatetime"> 09/23 11:43
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">Beetch</span><span class="f3 push-content">: 這也能扯上big data</span><span class="push-ipdatetime"> 09/23 12:07
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">asmasher</span><span class="f3 push-content">: 支持公車改革！</span><span class="push-ipdatetime"> 09/23 13:15
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">neverbelieve</span><span class="f3 push-content">: 讚</span><span class="push-ipdatetime"> 09/24 08:51
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">zeldeo</span><span class="f3 push-content">: 推!!!</span><span class="push-ipdatetime"> 09/24 13:49
+</span></div><div class="push"><span class="hl push-tag">推 </span><span class="f3 hl push-userid">vikiantion</span><span class="f3 push-content">: 恩 那汐止到公館以後只能公車轉捷運 收費可能翻倍的意</span><span class="push-ipdatetime"> 09/29 02:36
+</span></div><div class="push"><span class="f1 hl push-tag">→ </span><span class="f3 hl push-userid">vikiantion</span><span class="f3 push-content">: 思嗎</span><span class="push-ipdatetime"> 09/29 02:36
+</span></div></div>
+    
+    <div id="article-polling" data-pollurl="/poll/Gossiping/M.1442904606.A.C43.html?cacheKey=2052-1233527905&offset=40203&offset-sig=fe7f51571b765e680749408c12c71929252d5ea2" data-longpollurl="/v1/longpoll?id=ed2fd15cf868a2fad127ccc400eef7f3121acb96" data-offset="40203"></div>
+    
+
+    
+<div class="bbs-screen bbs-footer-message">本網站已依台灣網站內容分級規定處理。此區域為限制級，未滿十八歲者不得瀏覽。</div>
+
+</div>
+
+    </body>
+</html>
